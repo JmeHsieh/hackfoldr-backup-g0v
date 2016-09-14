@@ -1,0 +1,92 @@
+[
+  [
+    "#url or item level. <: following links is level 0 (= top level)",
+    "#title",
+    "#option: hide/unsortable(foldr title), expand/collapse(subfoldr), blank(link)",
+    "#label: (color) content. color: gray/black/green/red/blue/orange/purple/teal/yellow/pink/deep-blue/deep-green/deep-purple/"
+  ],
+  [
+    "",
+    "\u707d\u5bb3\u8b70\u984c\u7ba1\u7406",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/KN3lSiMxhXT",
+    "\u707d\u5bb3\u8b70\u984c\u7ba1\u7406\u6e90\u8d77",
+    "",
+    "green   \u8a0e\u8ad6\u6e90\u8d77"
+  ],
+  [
+    "https://g0v.hackpad.com/1041222ICS-K77CrBJBdHI",
+    "\u707d\u96e3\u91ab\u5b78\u6703\u65bc104\u5e7412\u670822\u65e5\u9080\u8acb\u5f35\u8ce2\u9fa2\u535a\u58eb\u300c\u4e8b\u6545\u6307\u63ee\u9ad4\u7cfb\u7d71ICS\u300d\u6f14\u8b1b\u5206\u4eab",
+    "",
+    "red \u5c1a\u5f85\u5b8c\u6210"
+  ],
+  [
+    "https://g0v.hackpad.com/mWlPrCBDoyw",
+    "\u4e00\u3001\u707d\u5bb3\u7ba1\u7406\u77e5\u8b58",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/1qrg5FHN9Oq",
+    "\u4e8c\u3001\u707d\u5bb3\u7ba1\u7406\u9ad4\u7cfb",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/sLd9sHTIo9H",
+    "\u4e09\u3001\u707d\u5bb3\u61c9\u8b8a\u968e\u6bb5",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/V0oyekQAWfv",
+    "\u56db\u3001\u707d\u5f8c\u5fa9\u539f\u968e\u6bb5",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/FqWEr4YDioB",
+    "\u4e94\u3001\u6e1b\u707d\u53ca\u707d\u5bb3\u9810\u9632\u968e\u6bb5",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/e8p5nB6tz85",
+    "\u516d\u3001\u707d\u524d\u6574\u5099\u968e\u6bb5",
+    "",
+    "yellow  \u8a0e\u8ad6\u4e2d"
+  ],
+  [
+    "https://g0v.hackpad.com/OuKPhRcISBm",
+    "\u53f0\u7063\u5b98\u65b9\u7684\u7269\u8cc7\u53ca\u5fd7\u5de5\u6574\u5408\u5e73\u53f0\u5f85\u6539\u9032\u8655",
+    "",
+    "deep-purple  \u56de\u5831\u5f59\u6574"
+  ],
+  [
+    "https://hackpad.com/Ju5gWYTw6u7",
+    "\u793e\u653f\u9632\u6551\u707d\u7cfb\u7d71\u64cd\u4f5c\u53cd\u6620\u610f\u898b",
+    "",
+    "deep-purple \u66fe\u7d93\u5f59\u6574"
+  ],
+  [
+    "https://g0v.hackpad.com/--nSWKQzUGB3Q",
+    "\u885b\u798f\u90e8\u56de\u61c9\u4fee\u6539\u72c0\u6cc1",
+    "",
+    "red \u806f\u7e6b\u4fee\u6539\u4e2d"
+  ],
+  [
+    "http://beta.hackfoldr.org/em/1041224-IBTEm3eVey7",
+    "\u81fa\u5317\u5e02\u707d\u5bb3\u61c9\u8b8a\u4e2d\u5fc3\u65bc104\u5e7412\u670824\u65e5\u9080\u8acb\u5f35\u8ce2\u9fa2\u535a\u58eb\u300c\u707d\u5bb3\u61c9\u8b8a\u300d\u6f14\u8b1b\u5206\u4eab\u9010\u5b57\u7a3f\u8df3\u5751",
+    "",
+    "pink  \u5df2\u5b8c\u6210"
+  ]
+]

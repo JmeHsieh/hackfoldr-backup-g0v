@@ -1,0 +1,110 @@
+[
+  [
+    "#A1: if not marked as comment (start with #), better less than 40 characters, or will be parsed as a google spreadsheer id",
+    "#if you want to use google spreadsheet to save foldr data (usually when authorization is needed), fill in A1 with google spreadsheet id, and the same url will be redirected to gsheet.",
+    "",
+    ""
+  ],
+  [
+    "#url or item level. <: following links is level 0 (= top level)",
+    "#title",
+    "#option: hide/unsortable(foldr title), expand/collapse(subfoldr), blank(link)",
+    "#label: (color) content. color: gray/black/green/red/blue/orange/purple/teal/yellow/pink/deep-blue/deep-green/deep-purple/"
+  ],
+  [
+    "",
+    "\u7b2c\u4e09\u5c46 \u200biNGO \u4e8b\u52d9\u57f9\u8a13\u71df",
+    "",
+    ""
+  ],
+  [
+    "<",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://www.slideshare.net/nchild/keyboard-revolution-everyone-is-part-of-open-government",
+    "\u9375\u76e4\u9769\u547d\uff0c\u6bcf\u500b\u4eba\u90fd\u662f\u958b\u653e\u653f\u5e9c\u7684\u4e00\u54e1",
+    "",
+    "teal bit.ly/g0v_px"
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "\u5be6\u7528\u9023\u7d50",
+    "expand",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/Hackfoldr-2.0--jfLiSxnllO6",
+    "Hackfoldr 2.0 \u6559\u5b78 - \u5132\u5b58\u683c\u8a9e\u6cd5",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/hackpad--FPwfgwsjwdV",
+    "Hackpad \u65b0\u624b\u6559\u5b78",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/--aCZGg48I5pX",
+    "\u5c08\u6848\u4ecb\u7d39\u7a7a\u767d\u6a21\u7248",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "\u5de5\u4f5c\u574a\u8a0e\u8ad6",
+    "expand",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/0.1ro21dob7mj",
+    "\u53f0\u7063\u793e\u5340\u85e5\u5c40\u5730\u5716\u5751",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/0.zv996thlc5rn3ik9",
+    "Police\u81c9\u90e8\u8fa8\u8b58\u5751\u5751\u5751",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/0.eala6nxotk0jatt9",
+    "\u5927\u5b78\u6559\u5b78\u5353\u8d8a\u8a08\u756b\u88dc\u52a9\u7d93\u8cbb\u6d41\u5411\u8207\u6210\u6548",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/0.arr7vsjq7uy2e29",
+    "police\u81c9\u90e8\u8fa8\u8b58",
+    "",
+    ""
+  ]
+]

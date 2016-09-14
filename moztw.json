@@ -1,0 +1,350 @@
+[
+  [
+    "#A1: if not marked as comment (start with #), better less than 40 characters, or will be parsed as a google spreadsheer id",
+    "#if you want to use google spreadsheet to save foldr data (usually when authorization is needed), fill in A1 with google spreadsheet id, and the same url will be redirected to gsheet.",
+    "",
+    ""
+  ],
+  [
+    "#url or item level. <: following links is level 0 (= top level)",
+    "#title",
+    "#option: hide/unsortable(foldr title), expand/collapse(subfoldr), blank(link)",
+    "#label: (color) content. color: gray/black/green/red/blue/orange/purple/teal/yellow/pink/deep-blue/deep-green/deep-purple/"
+  ],
+  [
+    "",
+    "About MozTW",
+    "",
+    ""
+  ],
+  [
+    "https://public.etherpad-mozilla.org/p/moztw",
+    "Intro to MozTW",
+    "",
+    ""
+  ],
+  [
+    "https://public.etherpad-mozilla.org/p/moztw-meta-pages",
+    "Pad list",
+    "",
+    ""
+  ],
+  [
+    "https://groups.google.com/forum/embed/?place=forum/moztw-general",
+    "\u6469\u8332\u5c07\u8ecd google groups",
+    "",
+    ""
+  ],
+  [
+    "http://folder.moztw.org/moztw-space",
+    "\u6469\u8332\u5de5\u5bee Mozilla Community Space Taipei ",
+    "blank",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "\u670d\u52d9\u5b78\u7fd2\u5c08\u6848",
+    "collapse",
+    ""
+  ],
+  [
+    "https://docs.google.com/document/d/1PThAgJFU2zzujY5DR5SfVG_ajGRXkoweXeL2yBlnGds/",
+    "  L10N \u5c0e\u89bd",
+    "",
+    ""
+  ],
+  [
+    "https://docs.google.com/spreadsheet/ccc?key=0Aj5eqIT5RaK_ck5taF9vbjc2LUUweGFjZGJnaUFHMnc&usp=drive_web",
+    "  \u8a5e\u5f59\u8f49\u63db\u8868",
+    "",
+    ""
+  ],
+  [
+    " https://public.etherpad-mozilla.org/p/moztw-service-learning",
+    " \u670d\u52d9\u5b78\u7fd2\u5167\u5bb9",
+    "",
+    ""
+  ],
+  [
+    " https://moztw.org/events/nctuserv2012/",
+    "  2012q1 \u6210\u679c",
+    "blank",
+    ""
+  ],
+  [
+    " https://moztw.org/events/service2013/",
+    "  2013q1 \u6210\u679c",
+    "blank",
+    ""
+  ],
+  [
+    " https://moztw.org/events/service2013q4/",
+    "  2013q3 \u6210\u679c",
+    "blank",
+    ""
+  ],
+  [
+    "https://moztw.org/events/service2014-2/",
+    "2014q2  \u6210\u679c",
+    "blank",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "<",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://folder.moztw.org/fsatw",
+    "\u6821\u5712\u5927\u4f7f\u5c08\u6848",
+    "blank",
+    ""
+  ],
+  [
+    "http://folder.moztw.org/subtitle/",
+    "MozTW \u5b57\u5e55\u7d44",
+    "blank",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Meetings",
+    "collapse",
+    ""
+  ],
+  [
+    " https://etherpad.mozilla.org/moztw-taipei-planning-workshop",
+    "Planning Workshop",
+    "",
+    ""
+  ],
+  [
+    " https://cbt.etherpad.mozilla.org/taipei-space-meetup",
+    "Planning Workshop Meeting Notes",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Events",
+    "",
+    ""
+  ],
+  [
+    "https://moztw.hackpad.com/ep/group/Gj4oLJOsolA",
+    "2015 SUMO Party",
+    "",
+    ""
+  ],
+  [
+    "https://public.etherpad-mozilla.org/p/sfd-taipei-2015",
+    "2015 \u8edf\u9ad4\u81ea\u7531\u65e5 SFD",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/remo-hong-kong-open-source-conference-2015",
+    "HKOSC 2015",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/remo-coscup-2015",
+    "COSCUP 2015",
+    "",
+    ""
+  ],
+  [
+    "https://moztw.hackpad.com/ep/group/zglsmvChCdT",
+    "\u6469\u8332\u6625\u79cb",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Templates",
+    "collapse",
+    ""
+  ],
+  [
+    " https://etherpad.mozilla.org/moztw-template-basic",
+    "MozTW MoPads",
+    "",
+    ""
+  ],
+  [
+    " https://etherpad.mozilla.org/moztw-event-template",
+    "Event Plan",
+    "",
+    ""
+  ],
+  [
+    "http://wiki.moztw.org/%E5%A6%82%E4%BD%95%E7%B1%8C%E8%BE%A6%E9%80%A3%E7%BA%8C%E8%81%9A",
+    "\u5982\u4f55\u7c4c\u8fa6\u9023\u7e8c\u805a",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "L10n",
+    "collapse",
+    ""
+  ],
+  [
+    "https://docs.google.com/document/d/1PThAgJFU2zzujY5DR5SfVG_ajGRXkoweXeL2yBlnGds/",
+    "  L10N Style Guide",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Get Involved \u7f50\u982d\u4fe1\u56de\u8986",
+    "collapse",
+    ""
+  ],
+  [
+    "https://public.etherpad-mozilla.org/p/mozorg-getinvolved-autoresponses-zhtw-meta",
+    "Template",
+    "",
+    ""
+  ],
+  [
+    "https://public.etherpad-mozilla.org/p/mozorg-getinvolved-autoresponses-zhtw-coding",
+    "Coding - Kevin Hu",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-addons",
+    "Addon - Irvin  ",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-design",
+    "Design - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-documentation",
+    "Documentation - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-education",
+    "Education - Bob",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-issue",
+    "Issue - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-marketing",
+    "Marketing - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-other",
+    "Other - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-qa",
+    "QA - Toby",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-suggestions",
+    "Suggestion",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-support",
+    "Support - Ernest",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-webdev",
+    "WebDev - Irvin",
+    "",
+    ""
+  ],
+  [
+    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-localization",
+    "Localization - Peter",
+    "",
+    ""
+  ]
+]

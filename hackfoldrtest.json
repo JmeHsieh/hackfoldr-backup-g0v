@@ -1,0 +1,37 @@
+[
+  [
+    "",
+    "unknown",
+    "{\"bar\": \"http://localhost/foobar/?{url}\", \"enable_bar\": {\"video\":true}}"
+  ],
+  [
+    "https://www.youtube.com/watch?v=-BYb5wFAxOA&feature=youtu.be",
+    "test",
+    ""
+  ],
+  [
+    "https://zh.wikipedia.org/wiki/G0v_\u96f6\u6642\u653f\u5e9c",
+    "wikipedia",
+    ""
+  ],
+  [
+    "http://tw.confcodeofconduct.com/",
+    "coc",
+    ""
+  ],
+  [
+    "https://www.youtube.com/watch?v=9S9TGa-b0pU",
+    "live test",
+    ""
+  ],
+  [
+    "http://www.ustream.tv/channel/17831478",
+    "ustream test",
+    ""
+  ],
+  [
+    "Tse tse tse... :-)   Naja..viel Gl\u00fcck!",
+    "",
+    ""
+  ]
+]
