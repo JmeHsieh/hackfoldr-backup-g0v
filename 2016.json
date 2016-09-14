@@ -6,7 +6,7 @@
   ],
   [
     "",
-    "2016 \u5927\u9078\u7dda\u4e0a\u5de5\u5177",
+    "2016 大選線上工具",
     ""
   ],
   [
@@ -16,12 +16,12 @@
   ],
   [
     "http://2016.cec.gov.tw/",
-    "\u4e2d\u9078\u6703\u7db2\u7ad9",
+    "中選會網站",
     ""
   ],
   [
     "http://bulletin.cec.gov.tw/bin/home.php",
-    "\u9078\u8209\u516c\u5831\u67e5\u8a62\u7cfb\u7d71",
+    "選舉公報查詢系統",
     ""
   ],
   [
@@ -31,47 +31,47 @@
   ],
   [
     "",
-    "\u7acb\u59d4",
+    "立委",
     "{\"expand\":true}"
   ],
   [
     " http://vote.ly.g0v.tw/",
-    "\u7acb\u59d4\u6295\u7968\u6307\u5357",
+    "立委投票指南",
     "{\"target\":\"_blank\"}"
   ],
   [
     " http://wevote.tw/",
-    "\u6c83\u8349\uff01\u7acb\u59d4\u51fa\u4efb\u52d9",
+    "沃草！立委出任務",
     "{\"target\":\"_blank\"}"
   ],
   [
     " http://tommy87166.github.io/edLocator/",
-    "2016 \u5927\u9078\u5340\u57df\u7acb\u59d4\u5730\u5716",
+    "2016 大選區域立委地圖",
     ""
   ],
   [
     " http://sunshine.cy.g0v.tw/",
-    "\u91d1\u9322\u5831",
+    "金錢報",
     "{\"target\":\"_blank\"}"
   ],
   [
     " http://www.pridewatch.tw/beta/2016-legis-election",
-    "\u540c\u5fd7\u4eba\u6b0a\u7acb\u5834\u89c0\u6e2c\u7ad9",
+    "同志人權立場觀測站",
     ""
   ],
   [
     " http://election2016.tapcpr.org/",
-    "\u5a5a\u59fb\u5e73\u6b0a\u9078\u8209\u89c0\u6e2c\u7ad9",
+    "婚姻平權選舉觀測站",
     ""
   ],
   [
     " http://capitol.analysis.tw/",
-    "\u7acb\u59d4\u7c89\u7d72\u5c08\u9801\u80fd\u529b\u6bd4\u8f03",
+    "立委粉絲專頁能力比較",
     ""
   ],
   [
     " http://capitol.tw/",
-    "\u7db2\u8def\u570b\u6703",
+    "網路國會",
     ""
   ],
   [
@@ -81,17 +81,17 @@
   ],
   [
     "",
-    "\u7e3d\u7d71",
+    "總統",
     "{\"expand\":true}"
   ],
   [
     " http://tw2016.initiumlab.com/?lng=zh-TW",
-    "\u53f0\u7063\u7e3d\u7d71\uff0c\u4f60\u4f86\u9078\uff01",
+    "台灣總統，你來選！",
     ""
   ],
   [
     " http://hacktabl.org/president2016",
-    "2016\u7e3d\u7d71\u5927\u9078\u627f\u8afe\u4e00\u89bd\u8868",
+    "2016總統大選承諾一覽表",
     ""
   ],
   [
@@ -101,12 +101,12 @@
   ],
   [
     "",
-    "\u7d9c\u5408",
+    "綜合",
     ""
   ],
   [
     "http://k.olc.tw/elections/",
-    "\u9078\u8209\u9ec3\u9801",
+    "選舉黃頁",
     ""
   ]
 ]

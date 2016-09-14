@@ -1,7 +1,7 @@
 [
   [
     "",
-    "g0v \u96f6\u6642\u7a7a\u6c59\u89c0\u6e2c\u5c08\u6848"
+    "g0v 零時空汙觀測專案"
   ],
   [
     "",
@@ -9,11 +9,11 @@
   ],
   [
     "https://g0v.hackpad.com/g0v--TexkKFNmqZP",
-    "\u5c08\u6848\u6982\u5ff5\u5171\u7b46"
+    "專案概念共筆"
   ],
   [
     "http://g0vairmap.3203.info/map.html",
-    "g0v\u96f6\u6642\u89c0\u6e2c\u7db2\u5be6\u4f5c"
+    "g0v零時觀測網實作"
   ],
   [
     "",
@@ -37,19 +37,19 @@
   ],
   [
     "",
-    "\u5c08\u6848\u5de5\u4f5c\u5340"
+    "專案工作區"
   ],
   [
     "https://g0v.hackpad.com/g0v--riRTvbB0E5x",
-    "\u7db2\u7ad9\u958b\u767c\u5171\u7b46"
+    "網站開發共筆"
   ],
   [
     "https://g0v.hackpad.com/g0v--rp53Cw7woim",
-    "\u611f\u6e2c\u5668\u958b\u767c\u5171\u7b46"
+    "感測器開發共筆"
   ],
   [
     "https://g0v.hackpad.com/g0v--8MQ03kk9wwD",
-    "\u81ea\u9020\u6e2c\u7ad9\u63a8\u5ee3\u5171\u7b46"
+    "自造測站推廣共筆"
   ],
   [
     "",
@@ -81,10 +81,10 @@
   ],
   [
     "https://github.com/immortalmice/Real-time-Air-Quality-Map",
-    "\u7db2\u7ad9\u539f\u59cb\u78bc"
+    "網站原始碼"
   ],
   [
     "https://github.com/Lafudoci/ProbeCube",
-    "\u611f\u6e2c\u5668\u539f\u59cb\u78bc"
+    "感測器原始碼"
   ]
 ]

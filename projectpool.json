@@ -1,98 +1,98 @@
 [
   [
     "",
-    "\u5c08\u6848\u6c60",
+    "專案池",
     "",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/hQ9RdcSw7Gd",
-    "\u5c08\u6848\u6536\u96c6\u5730",
+    "專案收集地",
     "",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/-g0v--weScR5YVcZs",
-    "\u6b65\u9a5f - \u5c07\u73fe\u6709\u4f5c\u54c1\u8b8a\u6210 g0v \u5c08\u6848",
+    "步驟 - 將現有作品變成 g0v 專案",
     "",
     "",
     ""
   ],
   [
     "",
-    "g0v\u5c08\u6848\uff1a\u7db2\u9801\u5448\u73fe",
+    "g0v專案：網頁呈現",
     "",
     "",
     ""
   ],
   [
     " http://inlivetw.github.io/chrome",
-    "inLive \u76f4\u64ad\u8207\u6d3b\u52d5",
+    "inLive 直播與活動",
     "",
     "",
     ""
   ],
   [
     " http://a0000778.github.io/g8v/index.html",
-    "G8V\u96fb\u8996\u7246",
+    "G8V電視牆",
     "",
     "",
     ""
   ],
   [
     " http://oldpaper.g0v.ronny.tw/",
-    "\u53f0\u7063\u6b77\u53f2\u56db\u5927\u5831(\u542b\u4eca\u65e5)",
+    "台灣歷史四大報(含今日)",
     "",
     "",
     ""
   ],
   [
     " http://newsdiff.g0v.ronny.tw/",
-    "NewsDiff\u5b98\u65b9\u65b0\u805e\u7a3f\u7570\u52d5\u60c5\u6cc1\u7ad9",
+    "NewsDiff官方新聞稿異動情況站",
     "",
     "",
     ""
   ],
   [
     " http://ly.g0v.tw",
-    "\u570b\u6703\u5927\u4ee3\u8a8c",
+    "國會大代誌",
     "",
     "",
     ""
   ],
   [
     " http://budget.g0v.tw/budget",
-    "\u4e2d\u592e\u653f\u5e9c\u7e3d\u9810\u7b97\u8996\u89ba\u5316",
+    "中央政府總預算視覺化",
     "",
     "",
     ""
   ],
   [
     " http://tisa.g0v.tw/",
-    "\u4f60\u88ab\u670d\u8cbf\u4e86\u55ce?",
+    "你被服貿了嗎?",
     "",
     "",
     ""
   ],
   [
     " https://www.moedict.tw/",
-    "\u840c\u5178",
+    "萌典",
     "",
     "",
     ""
   ],
   [
     " http://direct.moedict.tw/lab/moe/hub.html",
-    "\u840c\u5178\u5b57\u5b99\u53cd\u61c9\u7210",
+    "萌典字宙反應爐",
     "",
     "",
     ""
   ],
   [
     " http://fact.g0v.tw/",
-    "\u653f\u8a8c",
+    "政誌",
     "",
     "",
     ""
@@ -106,175 +106,175 @@
   ],
   [
     " http://env.g0v.tw/air/",
-    "\u7a7a\u6c23\u54c1\u8cea\u5716\u5f62\u7248",
+    "空氣品質圖形版",
     "",
     "",
     ""
   ],
   [
     " http://jobhelper.g0v.ronny.tw/",
-    "\u6c42\u8077\u5c0f\u5e6b\u624b",
+    "求職小幫手",
     "",
     "",
     ""
   ],
   [
     " http://newshelper.g0v.tw/",
-    "\u65b0\u805e\u5c0f\u5e6b\u624b",
+    "新聞小幫手",
     "",
     "",
     ""
   ],
   [
     " http://zbryikt.github.io/visualize/mrt/",
-    "\u53f0\u5317\u6377\u904b\u5404\u7ad9\u51fa\u7ad9\u4eba\u6578\u8b8a\u5316\u5716",
+    "台北捷運各站出站人數變化圖",
     "",
     "",
     ""
   ],
   [
     " http://data.g0v.ronny.tw/",
-    "\u653f\u5e9c\u958b\u653e\u8cc7\u6599\u5e73\u81fa\u5099\u4efd",
+    "政府開放資料平臺備份",
     "",
     "",
     ""
   ],
   [
     " http://request.data.g0v.tw/",
-    "\u958b\u653e\u8cc7\u6599\u8a62\u554f\u5340",
+    "開放資料詢問區",
     "",
     "",
     ""
   ],
   [
     " http://data.g0v.tw/",
-    "g0v\u96f6\u6642\u8cc7\u6599\u4e2d\u5fc3",
+    "g0v零時資料中心",
     "",
     "",
     ""
   ],
   [
     " http://kiang.github.io/salary/",
-    "\u52de\u5de5\u85aa\u8cc7\u9810\u7b97\u7a0b\u5f0f",
+    "勞工薪資預算程式",
     "",
     "",
     ""
   ],
   [
     " http://tpebuilding.g0v.ronny.tw/",
-    "\u53f0\u5317\u5e02\u5efa\u7167\u8a18\u9304",
+    "台北市建照記錄",
     "",
     "",
     ""
   ],
   [
     " http://gcis.nat.g0v.tw/",
-    "\u53f0\u7063\u516c\u53f8\u8cc7\u6599",
+    "台灣公司資料",
     "",
     "",
     ""
   ],
   [
     " http://company-graph.g0v.ronny.tw/",
-    "\u53f0\u7063\u516c\u53f8\u95dc\u4fc2\u5716",
+    "台灣公司關係圖",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/farmer/",
-    "\u8fb2\u696d\u5b78\u5730\u5716",
+    "農業學地圖",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/agriculture/",
-    "\u690d\u7269\u75ab\u60c5\u8207\u85e5\u5291\u67e5\u8a62\u7cfb\u7d71",
+    "植物疫情與藥劑查詢系統",
     "",
     "",
     ""
   ],
   [
     " http://congress-vote-analytics.herokuapp.com/",
-    "\u9078\u7968\u6210\u5206\u5206\u6790\u7cfb\u7d71",
+    "選票成分分析系統",
     "",
     "",
     ""
   ],
   [
     " http://ivod.ly.g0v.tw/",
-    "\u7acb\u9662\u5f71\u57ce",
+    "立院影城",
     "",
     "",
     ""
   ],
   [
     " http://vote.ly.g0v.tw/",
-    "\u7acb\u59d4\u6295\u7968\u6307\u5357",
+    "立委投票指南",
     "",
     "",
     ""
   ],
   [
     " http://report.nat.g0v.tw/",
-    "\u516c\u52d9\u4eba\u54e1\u51fa\u570b\u8003\u5bdf\u7db2",
+    "公務人員出國考察網",
     "",
     "",
     ""
   ],
   [
     " http://laweasyread.herokuapp.com/",
-    "\u6cd5\u898f\u6613\u8b80\u5668",
+    "法規易讀器",
     "",
     "",
     ""
   ],
   [
     " http://movement.ee.ncku.edu.tw/",
-    "\u793e\u6703\u8cc7\u8a0a\u904b\u52d5\u5e73\u53f0",
+    "社會資訊運動平台",
     "",
     "",
     ""
   ],
   [
     " http://campaign-finance.g0v.ctiml.tw/",
-    "\u653f\u6cbb\u737b\u91d1\u6578\u4f4d\u5316",
+    "政治獻金數位化",
     "",
     "",
     ""
   ],
   [
     " http://campaign-finance.g0v.olc.tw/",
-    "Recent Discussions on g0v \u958b\u653e\u653f\u6cbb\u737b\u91d1",
+    "Recent Discussions on g0v 開放政治獻金",
     "",
     "",
     ""
   ],
   [
     " http://axe.g0v.tw/",
-    "\u65a7\u982d\u5e6b\u5927\u6311\u6230",
+    "斧頭幫大挑戰",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/moc-license-center/index.html",
-    "g0v\u6388\u6b0a\u4e2d\u5fc3",
+    "g0v授權中心",
     "",
     "",
     ""
   ],
   [
     " http://zhusee2.github.io/boycott-helper/",
-    "\u7db2\u7ad9\u62b5\u5236\u5c0f\u5e6b\u624b",
+    "網站抵制小幫手",
     "",
     "",
     ""
   ],
   [
     " http://listening.g0v.tw/",
-    "\u798f\u5229\u8acb\u807d",
+    "福利請聽",
     "",
     "",
     ""
@@ -295,35 +295,35 @@
   ],
   [
     " http://budget.g0v.tw/",
-    "\u4e2d\u592e\u653f\u5e9c\u7e3d\u9810\u7b97",
+    "中央政府總預算",
     "",
     "",
     ""
   ],
   [
     " http://fuyei.github.io/cf-viz/viz.htm",
-    "\u653f\u6cbb\u737b\u91d1\u8996\u89ba\u5316",
+    "政治獻金視覺化",
     "",
     "",
     ""
   ],
   [
     " http://billy3321.github.io/lytel/",
-    "\u7acb\u59d4\u806f\u7d61\u8cc7\u8a0a",
+    "立委聯絡資訊",
     "",
     "",
     ""
   ],
   [
     " http://zbryikt.github.io/visualize/highway/",
-    "\u570b\u9053\u4e00\u865f\u96fb\u5b50\u6536\u8cbb\u50f9\u9322\u8a66\u7b97",
+    "國道一號電子收費價錢試算",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/g0village-8bit/",
-    "g0v\u65b0\u624b\u6751 8bit",
+    "g0v新手村 8bit",
     "",
     "",
     ""
@@ -337,112 +337,112 @@
   ],
   [
     " http://ris.g0v.tw",
-    "\u53f0\u7063\u9580\u724c\u67e5\u8a62",
+    "台灣門牌查詢",
     "",
     "",
     ""
   ],
   [
     " http://106.187.101.193/",
-    "\u8def\u5e73\u5c08\u6848",
+    "路平專案",
     "",
     "",
     ""
   ],
   [
     " http://g0v.olc.tw/",
-    "g0v \u8ca2\u737b\u8005\u5730\u5716",
+    "g0v 貢獻者地圖",
     "",
     "",
     ""
   ],
   [
     " http://fakenews.tw",
-    "\u4f60\u5abd\u77e5\u9053\u4f60\u5728\u770b\u5047\u65b0\u805e\u55ce",
+    "你媽知道你在看假新聞嗎",
     "",
     "CCSP x g0v :info",
     ""
   ],
   [
     " http://soidid.github.io/blacklist/pages/index.html",
-    "\u6536\u96c6\u8b70\u984c\u95dc\u6ce8\u8005\u3001NGO\u3001NPO \u7684\u4e0d\u63a8\u85a6\u540d\u55ae",
+    "收集議題關注者、NGO、NPO 的不推薦名單",
     "",
     "",
     ""
   ],
   [
     " http://beemap.tw/",
-    "\u5c0f\u871c\u8702\u6230\u9b25\u5730\u5716",
+    "小蜜蜂戰鬥地圖",
     "",
     "beta:issue",
     ""
   ],
   [
     " http://g0v.github.io/addressbook.parser/",
-    "\u653f\u5e9c\u901a\u8a0a\u9304\u5206\u6790\u5668",
+    "政府通訊錄分析器",
     "",
     "",
     ""
   ],
   [
     " http://i64885.tw/",
-    "i64885\u5f8b\u5e2b\u5e6b\u5e6b\u6211",
+    "i64885律師幫幫我",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/g0vTxT/",
-    "g0vTxT hackpad \u8996\u89ba\u5316\u8207\u516c\u5831\u5448\u73fe",
+    "g0vTxT hackpad 視覺化與公報呈現",
     "",
     "",
     ""
   ],
   [
     " http://u273.stark.tw/",
-    "\u8f3b\u5c04\u503c\u6aa2\u6e2c\u5730\u5716",
+    "輻射值檢測地圖",
     "",
     "",
     ""
   ],
   [
     " http://123.g0v.today/",
-    "123 \u6253\u9053\u639b \u4e09\u52d5\u4f5c\u8b77\u53f0\u7063\u7cfb\u5217",
+    "123 打道掛 三動作護台灣系列",
     "",
     "",
     ""
   ],
   [
     " http://fepztw.github.io/",
-    "\u81ea\u7d93\u5340\u7acb\u6cd5\u8faf\u8ad6\u6bd4\u8f03\u8868",
+    "自經區立法辯論比較表",
     "",
     "",
     ""
   ],
   [
     " http://councils.g0v.tw",
-    "\u8b70\u54e1\u6295\u7968\u6307\u5357",
+    "議員投票指南",
     "",
     "",
     ""
   ],
   [
     " http://k.olc.tw/tncc/",
-    "\u53f0\u5357\u5e02\u8b70\u6703 \u8b70\u54e1\u89c0\u6e2c\u4e2d\u5fc3",
+    "台南市議會 議員觀測中心",
     "",
     "",
     ""
   ],
   [
     " http://er.mohw.g0v.tw",
-    "\u5168\u570b\u91ab\u9662\u6025\u8a3a\u5373\u6642\u770b\u677f",
+    "全國醫院急診即時看板",
     "",
     "",
     ""
   ],
   [
     " http://kiang.github.io/dgbas.gov.tw/city_budget.html",
-    "\u5404\u5e74\u5ea6\u5404\u7e23\u5e02\u7e3d\u9810\u7b97\u8996\u89ba\u5316",
+    "各年度各縣市總預算視覺化",
     "",
     "",
     ""
@@ -456,98 +456,98 @@
   ],
   [
     "",
-    "Hackfoldr\u5c08\u5340",
+    "Hackfoldr專區",
     "",
     "",
     ""
   ],
   [
     " http://g0v.today",
-    "g0v.today \u53cd\u9ed1\u7bb1\u670d\u8cbf",
+    "g0v.today 反黑箱服貿",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://nonuke.today",
-    "nonuke.today \u53cd\u6838\u56db",
+    "nonuke.today 反核四",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw",
-    "hack.g0v \u9ed1\u5ba2\u677e\u5c08\u5340",
+    "hack.g0v 黑客松專區",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/meta",
-    "\u96f6\u6642\u57fa\u790e\u5efa\u8a2d",
+    "零時基礎建設",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     "  http://hack.g0v.tw/g0vMOC",
-    "g0v \u6587\u5316\u90e8 \u8cc7\u6599\u96c6\u6563\u5730",
+    "g0v 文化部 資料集散地",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     "  http://hack.g0v.tw/g0vMOE",
-    "g0v \u6559\u80b2\u90e8 \u8aaa\u660e\u6559\u5b78\u4e2d\u5fc3",
+    "g0v 教育部 說明教學中心",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/3du",
-    "\u840c\u5178 3du.tw",
+    "萌典 3du.tw",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/congressnetwork",
-    "\u7acb\u6cd5\u9662\u7dda\u8def\u677e",
+    "立法院線路松",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/don-democracy",
-    "\u52d5\u6c11\u4e3b\u5bb6\u65cf",
+    "動民主家族",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/g0v-cy/",
-    "\u958b\u653e\u653f\u6cbb\u737b\u91d1",
+    "開放政治獻金",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/G8VTV/",
-    "\u7b2c\u4e94\u6b0a\u96fb\u8996\u7246\u76e3\u770b\u300c\u8a55\u300d\u53f0g8v.tv",
+    "第五權電視牆監看「評」台g8v.tv",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/lazy-artist",
-    "\u61f6\u4eba\u85dd\u8853\u5bb6",
+    "懶人藝術家",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/agriculture",
-    "\u8d85\u8fb2\u57df\u8fb2\u696d\u4e09\u5927\u7cfb\u7d71",
+    "超農域農業三大系統",
     "{\"target\":\"_blank\"} ",
     "",
     ""
@@ -568,28 +568,28 @@
   ],
   [
     " http://hackfoldr.org/abroadplay/nOWhTpJPKx7",
-    "\u516c\u52d9\u4eba\u54e1\u51fa\u570b\u8003\u5bdf\u8ffd\u8e64",
+    "公務人員出國考察追蹤",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/POPonFire",
-    "\u516c\u6709\u5730\u5927\u884c\u52d5",
+    "公有地大行動",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/NECTW2014",
-    "\u7d93\u8cbf\u570b\u662f\u6703\u8b70\u7dda\u4e0a\u53c3\u8207",
+    "經貿國是會議線上參與",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.etblue.tw/app4am/",
-    "\u5168\u6c11\u9664\u9ef4\u8a08\u756b APP4AM",
+    "全民除黴計畫 APP4AM",
     "{\"target\":\"_blank\"} ",
     "",
     ""
@@ -603,7 +603,7 @@
   ],
   [
     "",
-    "Hackfoldr\u61c9\u7528",
+    "Hackfoldr應用",
     "",
     "",
     ""
@@ -617,7 +617,7 @@
   ],
   [
     " http://hackfoldr.org/legcolive",
-    "\u65b0\u754c\u6771\u5317\u7acb\u6cd5\u6703\u5831\u5c0e\u6574\u7406- by Code4HK",
+    "新界東北立法會報導整理- by Code4HK",
     "{\"target\":\"_blank\"} ",
     "HK :info",
     ""
@@ -631,42 +631,42 @@
   ],
   [
     " http://hackfoldr.org/resistancelive",
-    "\u9999\u6e2f620\u53cd\u6771\u5317\u8ce3\u6e2f\u8a08\u5283\u5305\u570d\u7acb\u6cd5\u6703\u73fe\u5834\u76f4\u64ad",
+    "香港620反東北賣港計劃包圍立法會現場直播",
     "{\"target\":\"_blank\"} ",
     "HK :info",
     ""
   ],
   [
     " http://hackfoldr.org/DonDonFlower/",
-    "\u904d\u5730\u958b\u8178\u82b1",
+    "遍地開腸花",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hack.g0v.tw/CSSTACO",
-    "\u53cd\u9ed1\u7bb1\u670d\u8cbf\u66a8\u4f54\u9818\u7acb\u6cd5\u9662\u6d3b\u52d5\u5c08\u984c\u7db2",
+    "反黑箱服貿暨佔領立法院活動專題網",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/shuanhhe-hackfoldr",
-    "\u96d9\u548c\u8702\u5de2\u8cc7\u8a0a\u96c6\u6563\u5730",
+    "雙和蜂巢資訊集散地",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/glassy",
-    " \u900f\u660e\u9023\u7dda",
+    " 透明連線",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/Kaohsiung-explode-20140801",
-    "\u9ad8\u96c4\u6c23\u7206\u8cc7\u8a0a\u5f59\u6574",
+    "高雄氣爆資訊彙整",
     "{\"target\":\"_blank\"} ",
     "",
     ""
@@ -680,98 +680,98 @@
   ],
   [
     "",
-    "\u958b\u767c\u4e2d \u6642\u6548\u6027\u5c08\u6848",
+    "開發中 時效性專案",
     "",
     "",
     ""
   ],
   [
     " http://community.g0v.tw/",
-    "\u65b0g0v\u5f8c\u52e4\u4e2d\u5fc3",
+    "新g0v後勤中心",
     "{\"target\":\"_blank\"} ",
     "",
     ""
   ],
   [
     " http://g0v.github.io/twgeojson/rain.html",
-    "\u96e8\u91cf\u5716\u5f62\u53161",
+    "雨量圖形化1",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/twgeojson/interpolation.html",
-    "\u96e8\u91cf\u5716\u5f62\u53162",
+    "雨量圖形化2",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/g0v-tour-guide/public/hack.html",
-    "g0v\u5c0e\u89bd\u5c0f\u7cbe\u9748",
+    "g0v導覽小精靈",
     "",
     "",
     ""
   ],
   [
     " http://wethepeople.tw",
-    "\u5e02\u9577\uff0c\u7d66\u554f\u55ce\uff1f",
+    "市長，給問嗎？",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/farmers/public/",
-    "\u5c0f\u8fb2\u6545\u4e8b",
+    "小農故事",
     "",
     "",
     ""
   ],
   [
     " http://moedict.tw/dodo",
-    "\u840c\u5178\u5544\u6728\u9ce5\u8a08\u756b",
+    "萌典啄木鳥計畫",
     "",
     "",
     ""
   ],
   [
     " http://lqfb-test.g0v.tw/pf/",
-    "\u52d5\u6c11\u4e3b1.0",
+    "動民主1.0",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/don-republic/public/",
-    "\u52d5\u6c11\u4e3b2.0",
+    "動民主2.0",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/don-press/public/",
-    "\u5168\u6c11\u8a18\u8005\u6703",
+    "全民記者會",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/conference-map-main/",
-    "\u6211\u7684\u6d3b\u52d5\u5730\u5716 - \u96f6\u6642\u5ee3\u5834",
+    "我的活動地圖 - 零時廣場",
     "",
     "",
     ""
   ],
   [
     " http://g0v.github.io/sunflower/",
-    "\u592a\u967d\u82b1\u5b78\u904b\u8a18\u9304 by g0v",
+    "太陽花學運記錄 by g0v",
     "",
     "",
     ""
   ],
   [
     " http://lanfon72.github.io/linkCollector/",
-    "\u8cc7\u8a0a\u88dc\u98df\u7378",
+    "資訊補食獸",
     "",
     "",
     ""

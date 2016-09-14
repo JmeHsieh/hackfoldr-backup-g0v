@@ -2,13 +2,13 @@
   [
     "#url",
     "#title",
-    "#\u53c3\u6578",
-    "#\u9644\u52a0\u6a19\u7c64",
-    "#\u5f8c\u53f0\u7de8\u8f2f\u8a3b\u89e3"
+    "#參數",
+    "#附加標籤",
+    "#後台編輯註解"
   ],
   [
     "",
-    "\u65b0\u805e\u677e\u3000NEWShackathon",
+    "新聞松　NEWShackathon",
     "",
     "",
     ""
@@ -18,81 +18,81 @@
     "",
     "",
     "",
-    "\u7559\u767d"
+    "留白"
   ],
   [
     "https://g0v.hackpad.com/-NEWShackathon-ZciE63K1hOa",
-    "\u65b0\u805e\u677e\u7c21\u4ecb",
+    "新聞松簡介",
     "",
-    "\u91cd\u8981\u5148\u95b1\u8b80:important",
-    "\u4e0d\u8981\u52d5\u5b83"
+    "重要先閱讀:important",
+    "不要動它"
   ],
   [
     "http://tw.confcodeofconduct.com/",
-    "\u9ed1\u5ba2\u677e\u6d3b\u52d5\u5b88\u5247",
+    "黑客松活動守則",
     "",
-    "\u91cd\u8981\u5148\u95b1\u8b80:important",
-    "\u4e0d\u8981\u52d5\u5b83"
+    "重要先閱讀:important",
+    "不要動它"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u5354\u8abf\u5de5\u4f5c\u7cfb\u7d71",
+    "協調工作系統",
     "",
     "",
     ""
   ],
   [
     " https://newshackathon.slack.com/",
-    "\uff08\u7db2\u8def\u5c0d\u8a71\uff09Slack",
+    "（網路對話）Slack",
     "blank",
     "",
     ""
   ],
   [
     " https://newshackathon.hackpad.com/",
-    "\uff08\u7dda\u4e0a\u5171\u7b46\uff09Hackpad",
+    "（線上共筆）Hackpad",
     "",
     "",
     ""
   ],
   [
     " https://github.com/newshackathon",
-    "\uff08\u958b\u6e90\u7a0b\u5f0f\u78bc\uff09GitHub",
+    "（開源程式碼）GitHub",
     "blank",
     "",
     ""
@@ -102,60 +102,60 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u7db2\u7ad9",
+    "網站",
     "{\"expand\":true}",
     "",
     ""
   ],
   [
     " https://www.facebook.com/NEWShackathon/",
-    "\u81c9\u66f8\u5c08\u9801",
+    "臉書專頁",
     "",
     "",
     ""
   ],
   [
     " https://livehouse.in/channel/newshackathon",
-    "\u76f4\u64ad\u983b\u9053\u3000LIVEhouse.in",
+    "直播頻道　LIVEhouse.in",
     "blank",
-    "deep-green \u7372\u8d0a\u52a9\u5c08\u5c6c\u7db2\u5740",
+    "deep-green 獲贊助專屬網址",
     ""
   ],
   [
     " https://www.youtube.com/channel/UCZP14QLjPHdN7TQ2sPyJY8A",
-    "\u76f4\u64ad\u983b\u9053+\u6d3b\u52d5\u9304\u5f71\u3000YouTube",
+    "直播頻道+活動錄影　YouTube",
     "blank",
     "",
     ""
@@ -172,46 +172,46 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u793e\u7fa4\u884c\u4e8b\u66c6\u3000//\u5efa\u8a2d\u4e2d",
+    "社群行事曆　//建設中",
     "collapse",
     "",
     ""
   ],
   [
     " https://calendar.google.com/calendar/embed?src=7ljq34k4fn4v51mq325sdvdmpg%40group.calendar.google.com&ctz",
-    "\u4e3b\u8fa6\u4eba\u516c\u958b\u884c\u7a0b\u3000\u884c\u4e8b\u66c6",
+    "主辦人公開行程　行事曆",
     "",
     "",
     ""
@@ -221,116 +221,116 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u5be6\u9ad4\u805a\u6703\uff0f\u6d3b\u52d5\u8a0a\u606f\uff0f\u5e6b\u52a9\u76f4\u64ad",
+    "實體聚會／活動訊息／幫助直播",
     "expand",
     "",
     ""
   ],
   [
     " https://newshackathon.hackpad.com/rB5fSEMfh7d",
-    "\uff3b\u9810\u544a\u8cc7\u8a0a\uff3d",
+    "［預告資訊］",
     "",
     "",
-    "\u6700\u65b0\u7684\u90fd\u6392\u4e0a\u9762"
+    "最新的都排上面"
   ],
   [
     " https://livehouse.in/channel/newshackathon/record/V1ntBrjX-L?t=0h4m35s",
-    "2016\u5e746\u67084\u65e5\uff08\u516d\uff09\uff08\u5354\u52a9\u76f4\u64ad\uff09\u5a92\u89c0\u8b1b\u5802\u3010\u5f9e\u96a8\u6a5f\u6bba\u4eba\u6848\u8ac7-\u65b0\u805e\u4e82\u8c61\u53ca\u89e3\u6c7a\u4e4b\u9053\u3011",
+    "2016年6月4日（六）（協助直播）媒觀講堂【從隨機殺人案談-新聞亂象及解決之道】",
     "blank",
     "",
     ""
   ],
   [
     " http://newshackathon.kktix.cc/events/201605101040",
-    "2016-05-10\uff08\u4e8c\uff09\u3000\u7247\u540d\uff1a\u300a\u5f8c\u52c1\u53cd\u4e94\u8f15+\u82d7\u5ba2\u52de\u8cc7\u6297\u722d\u4e8b\u4ef6\u300b\uff0f10:40 \u83ef\u5c71A2\u5ef3\uff0f\u53f0\u7063\u570b\u969b\u7d00\u9304\u7247\u5f71\u5c55\u5718\u9ad4\u5834\uff08\u5a92\u89c0\uff09",
+    "2016-05-10（二）　片名：《後勁反五輕+苗客勞資抗爭事件》／10:40 華山A2廳／台灣國際紀錄片影展團體場（媒觀）",
     "",
     "",
     ""
   ],
   [
     " http://newshackathon.kktix.cc/events/201605091240",
-    "2016-05-09\uff08\u4e00\uff09\u3000\u7247\u540d\uff1a\u300a\u65b0\u805e\u4e0d\u6b7b\u300b\uff0f12:40 \u65b0\u5149\u4e00\u5ef3\uff0f\u53f0\u7063\u570b\u969b\u7d00\u9304\u7247\u5f71\u5c55\u5718\u9ad4\u5834\uff08\u5a92\u89c0\uff09",
+    "2016-05-09（一）　片名：《新聞不死》／12:40 新光一廳／台灣國際紀錄片影展團體場（媒觀）",
     "",
     "",
     ""
   ],
   [
     " https://www.facebook.com/NEWShackathon/photos/a.470976903079330.1073741828.470974739746213/577318182445201/?type=3&theater",
-    "2016\u5e7404\u670819\u65e5\uff08\u9031\u4e8c\uff09\u3010\u6f14\u8b1b\u6d3b\u52d5\u516c\u544a\u3011\u65b0\u805e\u677e x \u8001\u8c93\uff1a\u5982\u4f55\u4f7f\u58de\u7ffb\u8b6f\u5728\u53f0\u7063\u6d88\u5931\uff1f",
+    "2016年04月19日（週二）【演講活動公告】新聞松 x 老貓：如何使壞翻譯在台灣消失？",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2015-09-19-7woO4KV4gjZ",
-    "\uff082015-09-19\uff09\u7b2c\u56db\u6b21\u65b0\u805e\u677e",
+    "（2015-09-19）第四次新聞松",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2015-07-05-UKP5oGrUE1x",
-    "\uff082015-07-05\uff09\u7b2c\u4e09\u6b21\u65b0\u805e\u677e\uff08\u91dd\u5c0d\u516b\u4ed9\u6a02\u5712\u7c89\u5875\u7206\u70b8\u4e8b\u4ef6\uff09",
+    "（2015-07-05）第三次新聞松（針對八仙樂園粉塵爆炸事件）",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2015-03-28-XAooOila83L",
-    "\uff082015-03-28\uff09\u7b2c\u4e8c\u6b21\u65b0\u805e\u677e",
+    "（2015-03-28）第二次新聞松",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2014-11-MwAiJXvfMrP",
-    "\uff082014-11\u6708\uff09\u7b2c\u4e8c\u6b21\u65b0\u805e\u677e\uff08\u524d\u671f\u8a0e\u8ad6\u6703\uff09",
+    "（2014-11月）第二次新聞松（前期討論會）",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2014-10-04-tHGyDDrkC7y",
-    "\uff082014-10-04\uff09\u7b2c\u4e00\u6b21\u65b0\u805e\u677e",
+    "（2014-10-04）第一次新聞松",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/2014-08-02-t69q4dPjAI4",
-    "\uff082014-08-02\uff09\u7b2c\u96f6\u6b21\u65b0\u805e\u677e",
+    "（2014-08-02）第零次新聞松",
     "",
     "",
     ""
@@ -340,53 +340,53 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u7c4c\u8fa6\u5de5\u4f5c\uff08\u5b58\u6a94\uff09",
+    "籌辦工作（存檔）",
     "collapse",
     "",
     ""
@@ -396,11 +396,11 @@
     "",
     "",
     "",
-    "\u5e33\u76ee\uff08\u4fdd\u7559\uff09"
+    "帳目（保留）"
   ],
   [
     " https://g0v.hackpad.com/g0v--OvTuo0jGr51",
-    "\u53ef\u958b\u6703\u5730\u9ede\u6574\u7406",
+    "可開會地點整理",
     "",
     "",
     ""
@@ -410,137 +410,137 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u76f8\u95dc\u77e5\u8b58\u5eab\uff08\u958b\u6e90\u793e\u7fa4\uff09",
+    "相關知識庫（開源社群）",
     "collapse",
     "",
     ""
   ],
   [
     " https://michael_li.hackpad.com/ep/pad/static/2Au6nnCNxzk",
-    "\uff3b\u7b46\u8a18\uff3dgov \u5165\u9580\u8207\u61f6\u4eba\u624b\u518a",
+    "［筆記］gov 入門與懶人手冊",
     "",
     "",
     ""
   ],
   [
     " https://michael_li.hackpad.com/ep/pad/static/kKIGUjxkCGa",
-    "\uff3b\u7b46\u8a18\uff3dOpen Source License",
+    "［筆記］Open Source License",
     "",
     "",
     ""
   ],
   [
     " https://www.youtube.com/embed/6NhyCXJU-IQ",
-    "4\u5206\u9418\u5f71\u7247\uff0c\u7acb\u523b\u53ef\u4ee5\u4e86\u89e3\u5230\u300c\u958b\u6e90\u300d(Open Source) \u7684\u6982\u5ff5",
+    "4分鐘影片，立刻可以了解到「開源」(Open Source) 的概念",
     "",
     "",
     ""
   ],
   [
     " https://www.youtube.com/watch?v=4_N2-fXjwEU",
-    "\u4ecb\u7d39\u3000\u81ea\u7531\u8edf\u9ad4\u904b\u00ad\u52d5\u3000\u7684\u6f14\u8b1b\u3000Mosky\uff0d\u7fa4\u5728\u6545\u6211\u5728\uff0c\u4f60\u7684\u7c21\u55ae\u4fe1\u5ff5\u662f\u4ec0\u9ebc\uff1f",
+    "介紹　自由軟體運­動　的演講　Mosky－群在故我在，你的簡單信念是什麼？",
     "",
     "",
     ""
   ],
   [
     " https://www.youtube.com/watch?v=vWwvh3036Fw",
-    "\u7d00\u9304\u7247\uff1aRevolution OS\uff08\u958b\u653e\u539f\u59cb\u78bc\u4e4b\u4e0b\u7684\u96fb\u8166\u4f5c\u696d\u7cfb\u7d71\u9769\u547d\uff09",
+    "紀錄片：Revolution OS（開放原始碼之下的電腦作業系統革命）",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u76f8\u95dc\u77e5\u8b58\u5eab\uff08\u65b0\u805e\u5b78\uff08\u696d\u754c\uff09\uff09",
+    "相關知識庫（新聞學（業界））",
     "collapse",
     "",
     ""
   ],
   [
     " https://newshackathon.hackpad.com/--dYAPgET66qD",
-    "\uff3b\u5c08\u696d\u77e5\u8b58\uff3d\u65b0\u805e\u696d\u3000\u5927\u773e\u50b3\u64ad\u79d1\u7cfb",
+    "［專業知識］新聞業　大眾傳播科系",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/cHyNZMpAy69",
-    "\u65b0\u805e\u5e38\u7528\u8a5e\u5f59\u8cc7\u6599\u5eab",
+    "新聞常用詞彙資料庫",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/--pWW35JOuyiz",
-    "\u65b0\u805e\u5b78\uff08\u754c\uff09\u3000\u76f8\u95dc\u66f8\u7c4d",
+    "新聞學（界）　相關書籍",
     "",
     "",
     ""
@@ -568,14 +568,14 @@
   ],
   [
     "",
-    "\u8abf\u67e5\u5831\u5c0e\u3000\uff08\u65b0\u805e\u9818\u57df\uff09",
+    "調查報導　（新聞領域）",
     "collapse",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/ep/pad/static/0pEvlgRoOtf",
-    "\u300a\u8a8d\u8b58\u7684\u4eba\uff0c\u77ad\u89e3\u7684\u4e8b\u300b\u67f4\u975c",
+    "《認識的人，瞭解的事》柴靜",
     "",
     "",
     ""
@@ -585,88 +585,88 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u8cc7\u8a0a\u5716\u8868\u3000\uff08\u8cc7\u6599\u5206\u6790\u9818\u57df\uff09",
+    "資訊圖表　（資料分析領域）",
     "collapse",
     "",
     ""
   ],
   [
     " https://hahow.in/courses/572be49fd60bb3090091d208",
-    "\u4e0d\u61c2\u8a2d\u8a08\uff0c\u4e5f\u80fd\u5b78\u6703\u7684\u8cc7\u8a0a\u5716\u50cf\u5316\u5bc6\u6280\uff01 by \u5716\u6587\u4e0d\u7b26",
+    "不懂設計，也能學會的資訊圖像化密技！ by 圖文不符",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     " https://www.facebook.com/groups/0media.tw/",
-    "\u96f6\u50b3\u5a92 / 0media",
+    "零傳媒 / 0media",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u76f8\u95dc\u77e5\u8b58\u5eab\uff08\u5fc3\u7406\u5b78\u3000\u793e\u6703\u5b78\uff09",
+    "相關知識庫（心理學　社會學）",
     "collapse",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/--tEPmSLQgeEm",
-    "\u5fc3\u7406\u5b78\u76f8\u95dc\u3000\u66f8\u7c4d\u8207\u8cc7\u6599",
+    "心理學相關　書籍與資料",
     "",
     "",
     ""
@@ -676,53 +676,53 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
-    "\u5176\u5b83",
+    "其它",
     "collapse",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/i6HIdclOcpe",
-    "\u516c\u8996\u300a\u6709\u8a71\u597d\u8aaa\u300b\u7368\u5bb6\u5c08\u8a2a\u6797\u69ae\u57fa\uff01\u5171\u7b46\u6574\u7406",
+    "公視《有話好說》獨家專訪林榮基！共筆整理",
     "",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/yBPLDg2Bc2U",
-    "\u5f88\u5e38\u898b\u4e00\u7a2e\u98df\u5b89\u65b0\u805e\u7684\u7528\u53e5",
+    "很常見一種食安新聞的用句",
     "",
     "",
     ""
@@ -732,34 +732,34 @@
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ],
   [
     "",
     "",
     "",
     "",
-    "\u4fdd\u7559"
+    "保留"
   ]
 ]

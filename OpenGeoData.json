@@ -15,7 +15,7 @@
     " https://osmtw.hackpad.com/2015-01-06--TrIfJYysfrS",
     "01/06 #4",
     "",
-    "\u570b\u571f\u8655:warning"
+    "國土處:warning"
   ],
   [
     " https://odtw.hackpad.com/Open-Data-Meetup-5-V7KJNOXeioY",
@@ -33,11 +33,11 @@
     " https://osmtw.hackpad.com/2014-09-22-Open-Geo-Data-for-Government--DTEWmteznmn",
     "09/22 #3",
     "",
-    "\u884c\u653f\u9662:warning"
+    "行政院:warning"
   ],
   [
     " https://g0v.hackpad.com/2014-08-22-WMaKLjBljub",
-    "08/22 \u6c11\u9593\u6551\u707d\u4ea4\u6d41",
+    "08/22 民間救災交流",
     "",
     ""
   ],
@@ -45,13 +45,13 @@
     " https://osmtw.hackpad.com/2014-08-19-Open-Geo-Data-for-Government--5he3FAtUcQF",
     "08/19 #2",
     "",
-    "\u884c\u653f\u9662:warning"
+    "行政院:warning"
   ],
   [
     " https://osmtw.hackpad.com/2014-07-27-Open-Geo-Data-for-Government-5YtEoKVphQF",
     "07/27 #1",
     "",
-    "\u884c\u653f\u9662:warning"
+    "行政院:warning"
   ],
   [
     "",
@@ -61,19 +61,19 @@
   ],
   [
     "",
-    "\u61c9\u7528 idea pool",
+    "應用 idea pool",
     "{\"expand\":true}",
     ""
   ],
   [
     " https://osmtw.hackpad.com/LKgdTOFMlpD",
-    "\u9632\u707d\u958b\u653e\u8cc7\u6599\u61c9\u7528",
+    "防災開放資料應用",
     "",
     ""
   ],
   [
     " https://docs.google.com/spreadsheets/d/tA2Vu_ajWywAx3fjsaM9Rug/htmlview",
-    "NGIS \u5716\u8cc7\u6e05\u55ae",
+    "NGIS 圖資清單",
     "{\"target\":\"_blank\"}",
     ""
   ],
@@ -91,79 +91,79 @@
   ],
   [
     " https://osmtw.hackpad.com/Open-Geo-Data-for-Government-Cases-of-OSM-and-Gov-collaboration-mode-FH8Jcnpt052",
-    "\u5c08\u984c\uff5cCases of OSM and Gov collaboration mode",
+    "專題｜Cases of OSM and Gov collaboration mode",
     "",
     ""
   ],
   [
     " https://osmtw.hackpad.com/Open-Geo-Data-for-Government-legal-issues",
-    "\u5c08\u984c\uff5cLegal Issues",
+    "專題｜Legal Issues",
     "{\"target\":\"_blank\"}",
     ""
   ],
   [
     " https://g0v.hackpad.com/v6Erf16SeoM",
-    "\u5c08\u984c\uff5c\u653f\u5e9c\u8cc7\u6599\u6cd5\u5f8b\u8cac\u4efb",
+    "專題｜政府資料法律責任",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/-Open-Data-COSCUP-2014-Lucien-Cheng-hsia-Lin-L87QHguLBeA",
-    "\u5c08\u984c\uff5c\u8cc7\u6599\u8019\u68b3\u6cd5\u5f8b\u908a\u754c",
+    "專題｜資料耙梳法律邊界",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/b6gTMfhXMYY",
-    "\u958b\u653e\u653f\u5e9c\u8cc7\u6599\u6cd5 \u8a0e\u8ad6",
+    "開放政府資料法 討論",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/Coscup-Open-Data-4hxG5r9diAu",
-    "Open Data g0v \u610f\u898b",
+    "Open Data g0v 意見",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/--YueF2rBsoXa",
-    "\u653f\u5e9c\u8cc7\u6599\u958b\u653e\u54c1\u7ba1\u8cac\u4efb",
+    "政府資料開放品管責任",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/529BJcUTTmS",
-    "\u653f\u5e9c\u958b\u653e\u8cc7\u6599\u6aa2\u9a57\u6a5f\u5236",
+    "政府開放資料檢驗機制",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/-review-DLs5vrnsYNv",
-    "\u653f\u5e9c\u958b\u653e\u8cc7\u6599\u653f\u7b56\u6aa2\u8996",
+    "政府開放資料政策檢視",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/gt07IgAf72m",
-    "\u5de5\u696d\u5c40\u958b\u653e\u8cc7\u6599\u5efa\u8b70",
+    "工業局開放資料建議",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/-IT--iBpZh86ffb8",
-    "IT \u59d4\u5916\u5236\u5ea6\u5f15\u5165\u958b\u6e90\u78bc",
+    "IT 委外制度引入開源碼",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/Open-Source-CMS-COSCUP-2014-Jimmy-Huang-dv6OlWnTPd4",
-    "OpenSourceCMS \u5c0e\u5165",
+    "OpenSourceCMS 導入",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/sCCH2aLNwMi",
-    "\u5275\u7528\u8207\u516c\u773e\u9818\u57df",
+    "創用與公眾領域",
     "",
     ""
   ]

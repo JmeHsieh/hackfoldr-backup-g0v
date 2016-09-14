@@ -7,43 +7,43 @@
   ],
   [
     "",
-    "2/14 \u4e0d\u5f97\u5ba3\u50b3\u7f77\u514d\u9ed1\u5ba2\u677e\u5171\u7b46\u5340",
+    "2/14 不得宣傳罷免黑客松共筆區",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/g0v-hackath12n--cWp3e4kAJ77",
-    "2/14 \u6d3b\u52d5\u8cc7\u8a0a",
+    "2/14 活動資訊",
     "",
-    "\u884c\u524d\u6e96\u5099:warning"
+    "行前準備:warning"
   ],
   [
     "https://kiwiirc.com/client/irc.freenode.net/#g0v.tw",
-    "IRC\u804a\u5929\u5ba4",
+    "IRC聊天室",
     "",
-    "\u793e\u7fa4\u6e9d\u901a"
+    "社群溝通"
   ],
   [
     "https://g0v.hackpad.com/2mprMIpYMz9",
-    "\u8207\u6703\u5b88\u5247",
+    "與會守則",
     "",
-    "\u884c\u524d\u8acb\u8b80"
+    "行前請讀"
   ],
   [
     "http://zbryikt.github.io/quick-timer/",
-    "\u7c21\u5831\u8a08\u6642\u5668",
+    "簡報計時器",
     "",
     ""
   ],
   [
     "",
-    "\u63d0\u6848\u6d41\u7a0b",
+    "提案流程",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/g0v--JWIizPuN3mz",
-    "g0v\u63d0\u6848\u6d41\u7a0b\u53c3\u8003",
+    "g0v提案流程參考",
     "",
     ""
   ],
@@ -55,9 +55,9 @@
   ],
   [
     " https://docs.google.com/spreadsheets/d/1dnBiLCAQwNr3uShvcITL6I8Pn00sJu3mJH0uVSO3oaM/edit#gid=1",
-    "\u5c08\u6848\u5831\u544a\u767b\u8a18",
+    "專案報告登記",
     "",
-    "\u7576\u5929\u63d0\u6848:important"
+    "當天提案:important"
   ],
   [
     "",
@@ -67,25 +67,25 @@
   ],
   [
     "",
-    "\u9ed1\u5ba2\u677e\u521d\u5fc3\u8005",
+    "黑客松初心者",
     "{\"expand\":true}",
     ""
   ],
   [
     " https://g0v.hackpad.com/FAQ-gLNXqwv6krA",
-    "\u9ed1\u5ba2\u677eFAQ",
+    "黑客松FAQ",
     "",
     ""
   ],
   [
     " http://ipa.logdown.com/posts/166655-g0v-hackathon-nongeek",
-    "\u975e\u8cc7\u8a0a\u4eba\u53c3\u8207\u6307\u5357",
+    "非資訊人參與指南",
     "{\"target\":\"_blank\"}",
     ""
   ],
   [
     " http://ipa.logdown.com/posts/143277-g0v-proposal-tips",
-    "\u975e\u8cc7\u8a0a\u4eba\u63d0\u6848\u5c0f\u8a23\u7ac5",
+    "非資訊人提案小訣竅",
     "{\"target\":\"_blank\"}",
     ""
   ],
@@ -103,31 +103,31 @@
   ],
   [
     "",
-    "\u7a7a\u767d\u6a21\u7248",
+    "空白模版",
     "{\"expand\":false}",
     ""
   ],
   [
     " https://g0v.hackpad.com/Project-Readme-aCZGg48I5pX",
-    "\u5c08\u6848\u4ecb\u7d39\u7a7a\u767d\u6a21\u7248",
+    "專案介紹空白模版",
     "",
-    "\u5e38\u7528:important"
+    "常用:important"
   ],
   [
     " https://g0v.hackpad.com/Product-Planning-T2d2kAradat",
-    "\u7522\u54c1\u898f\u5283\u7a7a\u767d\u6a21\u7248",
+    "產品規劃空白模版",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/User-Story-Socialtext-Style-mvxkbtlXlDf",
-    "user story \u7a7a\u767d\u6a21\u7248",
+    "user story 空白模版",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/dwimzocKjEL",
-    "\u514d\u8cac\u8072\u660e\u6a21\u7248",
+    "免責聲明模版",
     "",
     ""
   ],
@@ -139,7 +139,7 @@
   ],
   [
     "",
-    "\u8cc7\u6599",
+    "資料",
     "{\"expand\":false}",
     ""
   ],
@@ -163,19 +163,19 @@
   ],
   [
     "",
-    "\u5c08\u6848 hackpad \u8acb\u52a0\u5230\u9019\u88e1",
+    "專案 hackpad 請加到這裡",
     "{\"expand\":true}",
-    "\u8f03\u5b8c\u6574\u5c08\u6848:important"
+    "較完整專案:important"
   ],
   [
     " https://g0v.hackpad.com/jAFuERTpDC5",
-    "\u5354\u52a9\u5e74\u8f15\u4eba\u81f3\u5b9c\u862d\u7684\u5e73\u53f0",
+    "協助年輕人至宜蘭的平台",
     "",
     ""
   ],
   [
     " http://hackfoldr.org/Taipei-Urban-Agri/",
-    "\u90fd\u5e02\u8fb2\u8015\u7db2",
+    "都市農耕網",
     "",
     ""
   ]

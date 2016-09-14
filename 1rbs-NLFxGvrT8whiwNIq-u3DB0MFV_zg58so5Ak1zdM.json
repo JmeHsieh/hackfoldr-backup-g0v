@@ -1,296 +1,296 @@
 [
   [
-    "title",
-    "hints",
-    "\u7de8\u8f2f\u8a3b\u89e3",
-    "foldrexpand",
-    "url"
+    "#url",
+    "#title",
+    "#foldrexpand",
+    "#編輯註解",
+    "#hints"
   ],
   [
-    "\u767b\u9769\u71b1\u2502\u8cc7\u6599\u61f6\u4eba\u5305",
     "",
-    "red \u8acb\u5148\u770b\u6b64\u7bc7",
+    "登革熱│資料懶人包",
+    "",
+    "red 請先看此篇",
+    ""
+  ],
+  [
+    "https://hackpad.com/CDC-RCq1iirBb6N",
+    "【緣由 - 請先看我】",
+    "",
     "",
     ""
   ],
   [
-    "\u3010\u7de3\u7531 - \u8acb\u5148\u770b\u6211\u3011",
     "",
-    "",
-    "",
-    "https://hackpad.com/CDC-RCq1iirBb6N"
-  ],
-  [
-    "01 \u767b\u9769\u71b1 - \u958b\u653e\u8cc7\u6599\u96c6",
-    "",
-    "",
+    "01 登革熱 - 開放資料集",
     "expand",
+    "",
     ""
   ],
   [
-    "\u767b\u9769\u71b11998\u5e74\u8d77\u6bcf\u65e5\u78ba\u5b9a\u75c5\u4f8b\u7d71\u8a08",
+    "http://data.gov.tw/node/21025",
+    "登革熱1998年起每日確定病例統計",
     "",
     "",
-    "",
-    "http://data.gov.tw/node/21025"
+    ""
   ],
   [
-    "\u767b\u9769\u71b1\u8fd112\u500b\u6708\u6bcf\u65e5\u78ba\u5b9a\u75c5\u4f8b\u7d71\u8a08",
+    "http://data.gov.tw/node/21026　",
+    "登革熱近12個月每日確定病例統計",
     "",
     "",
-    "",
-    "http://data.gov.tw/node/21026\u3000"
+    ""
   ],
   [
-    "2010\u5e74\u8d77\u767b\u9769\u71b1\u75c5\u5a92\u868a\u8abf\u67e5\u8cc7\u6599",
+    "http://data.gov.tw/node/24159　",
+    "2010年起登革熱病媒蚊調查資料",
     "",
     "",
-    "",
-    "http://data.gov.tw/node/24159\u3000"
+    ""
   ],
   [
-    "\u8fd112\u500b\u6708\u767b\u9769\u71b1\u75c5\u5a92\u868a\u8abf\u67e5\u8cc7\u6599",
+    "http://data.gov.tw/node/24161",
+    "近12個月登革熱病媒蚊調查資料",
     "",
     "",
-    "",
-    "http://data.gov.tw/node/24161"
+    ""
   ],
   [
-    "\u8fd1\u5169\u9031\u53f0\u5357\u5e02\u3001\u9ad8\u96c4\u5e02\u53ca\u5c4f\u6771\u7e23\u767b\u9769\u71b1\u75c5\u4f8b\u805a\u96c6\u5340\u57dfGeoJSON",
+    "http://data.gov.tw/node/24385",
+    "近兩週台南市、高雄市及屏東縣登革熱病例聚集區域GeoJSON",
     "",
     "",
-    "",
-    "http://data.gov.tw/node/24385"
+    ""
   ],
   [
-    "\u767b\u9769\u71b1NS1\u5feb\u7be9\u8a66\u5291\u914d\u7f6e\u91ab\u7642\u9662\u6240",
+    "http://data.gov.tw/node/31976",
+    "登革熱NS1快篩試劑配置醫療院所",
     "",
     "red New!",
-    "",
-    "http://data.gov.tw/node/31976"
-  ],
-  [
-    "02 \u767b\u9769\u71b1 - \u8996\u89ba\u5316\u5730\u5716",
-    "",
-    "",
-    "collapse",
     ""
   ],
   [
-    "[\u75be\u7ba1\u7f72] \u767b\u9769\u71b1\u75c5\u4f8b\u7fa4\u805a\u5730\u5716",
     "",
-    "",
-    "",
-    "http://cdcdengue.azurewebsites.net/"
-  ],
-  [
-    "[happychang] \u767b\u9769\u71b1\u5bc6\u5ea6\u5730\u5716 ",
-    "",
-    "",
-    "",
-    "http://happychang.github.io/fever2/"
-  ],
-  [
-    "[Bruce] \u767b\u9769\u71b1\u8996\u89ba\u5316",
-    "",
-    "",
-    "",
-    "https://public.tableau.com/profile/bruce.hsiao#!/vizhome/TaiwanDengueEpidemic1999-2015/TaiwanDengueEpidenmic"
-  ],
-  [
-    "[Bruce] \u767b\u9769\u71b1\u8996\u89ba\u5316 (\u5f71\u7247)",
-    "",
-    "",
-    "",
-    "https://www.youtube.com/watch?v=fLhWYoM5pdI&feature=youtu.be"
-  ],
-  [
-    "[kiang] \u53f0\u5357\u767b\u9769\u71b1\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/"
-  ],
-  [
-    "[kiang] \u53f0\u7063\u8001\u4eba\u5206\u4f48\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/tw_population/"
-  ],
-  [
-    "[kiang] \u53f0\u5357\u5f85\u5b73\u6e05\u7a7a\u5730\u7a7a\u5c4b",
-    "",
-    "",
-    "",
-    "http://ushahidi.olc.tw/views/map"
-  ],
-  [
-    "[kiang] \u53f0\u5357\u767b\u9769\u71b1\u5674\u85e5\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/chemical/"
-  ],
-  [
-    "[kiang] \u53f0\u7063\u767b\u9769\u71b12014\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/taiwan/2014/"
-  ],
-  [
-    "[kiang] \u53f0\u7063\u767b\u9769\u71b12015\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/taiwan/"
-  ],
-  [
-    "[kiang] \u53f0\u70632015\u767b\u9769\u71b1\u75c5\u4f8b\u5206\u4f48\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/taiwan/points.html"
-  ],
-  [
-    "[kiang] \u767b\u9769\u71b1\u75c5\u5a92\u868a\u6307\u6578\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://kiang.github.io/TainanDengueMap/mosindex/"
-  ],
-  [
-    "[weoi] \u75c5\u5a92\u868a\u5bc6\u5ea6\u8abf\u67e5",
-    "",
-    "",
-    "",
-    "http://weoi.github.io/TainanDengueMap/"
-  ],
-  [
-    "[\u6eab\u6559\u6388] \u53f0\u5357\u5e02\u767b\u9769\u71b1\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://homepage.ntu.edu.tw/~wenthung/DengueMap2015.htm"
-  ],
-  [
-    "[\u7528\u6578\u64da\u770b\u53f0\u7063] \u71b1\u5340\u8b8a\u9077\u5730\u5716",
-    "",
-    "",
-    "",
-    "http://long.taiwanstat.com/dengue-animation/"
-  ],
-  [
-    "[\u7528\u6578\u64da\u770b\u53f0\u7063] \u5373\u6642\u75c5\u4f8b+\u5674\u85e5\u8cc7\u8a0a",
-    "",
-    "",
-    "",
-    "http://real.taiwanstat.com/dengue-spatial-temporal/"
-  ],
-  [
-    "03 \u767b\u9769\u71b1 - \u75ab\u60c5\u5206\u6790\u8a0e\u8ad6",
-    "",
-    "",
+    "02 登革熱 - 視覺化地圖",
     "collapse",
+    "",
     ""
   ],
   [
-    "\u767c\u75c5\u65e5\u75c5\u4f8b\u6578vs\u6700\u5c0f\u7d71\u8a08\u5340\u5e73\u5747\u7def\u5ea6",
+    "http://cdcdengue.azurewebsites.net/",
+    "[疾管署] 登革熱病例群聚地圖",
     "",
     "",
+    ""
+  ],
+  [
+    "http://happychang.github.io/fever2/",
+    "[happychang] 登革熱密度地圖 ",
+    "",
+    "",
+    ""
+  ],
+  [
+    "https://public.tableau.com/profile/bruce.hsiao#!/vizhome/TaiwanDengueEpidemic1999-2015/TaiwanDengueEpidenmic",
+    "[Bruce] 登革熱視覺化",
+    "",
+    "",
+    ""
+  ],
+  [
+    "https://www.youtube.com/watch?v=fLhWYoM5pdI&feature=youtu.be",
+    "[Bruce] 登革熱視覺化 (影片)",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/",
+    "[kiang] 台南登革熱地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/tw_population/",
+    "[kiang] 台灣老人分佈地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://ushahidi.olc.tw/views/map",
+    "[kiang] 台南待孳清空地空屋",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/chemical/",
+    "[kiang] 台南登革熱噴藥地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/taiwan/2014/",
+    "[kiang] 台灣登革熱2014地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/taiwan/",
+    "[kiang] 台灣登革熱2015地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/taiwan/points.html",
+    "[kiang] 台灣2015登革熱病例分佈地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://kiang.github.io/TainanDengueMap/mosindex/",
+    "[kiang] 登革熱病媒蚊指數地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://weoi.github.io/TainanDengueMap/",
+    "[weoi] 病媒蚊密度調查",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://homepage.ntu.edu.tw/~wenthung/DengueMap2015.htm",
+    "[溫教授] 台南市登革熱地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://long.taiwanstat.com/dengue-animation/",
+    "[用數據看台灣] 熱區變遷地圖",
+    "",
+    "",
+    ""
+  ],
+  [
+    "http://real.taiwanstat.com/dengue-spatial-temporal/",
+    "[用數據看台灣] 即時病例+噴藥資訊",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "03 登革熱 - 疫情分析討論",
+    "collapse",
+    "",
+    ""
+  ],
+  [
+    "https://www.facebook.com/groups/odtwn/permalink/1320530691294679/",
+    "發病日病例數vs最小統計區平均緯度",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1320530691294679/"
+    "",
+    ""
   ],
   [
-    "\u767c\u75c5\u65e5\u75c5\u4f8b\u6578vs\u6c23\u6eab",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1320531584627923/",
+    "發病日病例數vs氣溫",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1320531584627923/"
+    "",
+    ""
   ],
   [
-    "\u767c\u75c5\u65e5\u75c5\u4f8b\u6578vs\u964d\u6c34\u91cf",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1320531241294624/",
+    "發病日病例數vs降水量",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1320531241294624/"
+    "",
+    ""
   ],
   [
-    "\u767c\u75c5\u65e5\u75c5\u4f8b\u6578vs\u98a8\u5411",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1344005378947210/",
+    "發病日病例數vs風向",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1344005378947210/"
+    "",
+    ""
   ],
   [
-    "\u75c5\u4f8b\u5e74\u9f61\u5c64\u5206\u5e03 ",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1323850884295993/",
+    "病例年齡層分布 ",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1323850884295993/"
+    "",
+    ""
   ],
   [
-    "\u75c5\u4f8b\u5e74\u9f61\u5c64\u5206\u5e03 by \u5e74\u6708",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1323851114295970/",
+    "病例年齡層分布 by 年月",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1323851114295970/"
+    "",
+    ""
   ],
   [
-    "\u767c\u75c5\u65e5\u75c5\u4f8b\u6578vs\u767c\u75c5\u7def\u5ea6\u5e73\u5747\u503c",
-    "",
-    "",
+    "https://www.facebook.com/groups/odtwn/permalink/1323851494295932/",
+    "發病日病例數vs發病緯度平均值",
     "blank",
-    "https://www.facebook.com/groups/odtwn/permalink/1323851494295932/"
+    "",
+    ""
   ],
   [
-    "\u70ba\u4ec0\u9ebc\u53f0\u5357\u7684\u90a3\u4e9b\u6c34\u975c\u4e0b\u4f86\u4e86\uff1f",
+    "http://k.olc.tw/2015/09/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%8F%B0%E5%8D%97%E7%9A%84%E9%82%A3%E4%BA%9B%E6%B0%B4%E9%9D%9C%E4%B8%8B%E4%BE%86%E4%BA%86%EF%BC%9F/",
+    "為什麼台南的那些水靜下來了？",
     "",
     "",
-    "",
-    "http://k.olc.tw/2015/09/%E7%82%BA%E4%BB%80%E9%BA%BC%E5%8F%B0%E5%8D%97%E7%9A%84%E9%82%A3%E4%BA%9B%E6%B0%B4%E9%9D%9C%E4%B8%8B%E4%BE%86%E4%BA%86%EF%BC%9F/"
+    ""
   ],
   [
-    "kiang\u6574\u7406\u7684\u767b\u9769\u8272\u8cc7\u6599",
+    "https://g0v.hackpad.com/9KM0NYuFLJS",
+    "kiang整理的登革色資料",
     "",
     "",
-    "",
-    "https://g0v.hackpad.com/9KM0NYuFLJS"
+    ""
   ],
   [
-    "04 \u767b\u9769\u71b1 - \u9632\u75ab\u8cc7\u8a0a&\u8cc7\u6599",
     "",
-    "",
+    "04 登革熱 - 防疫資訊&資料",
     "expand",
+    "",
     ""
   ],
   [
-    "\u767b\u9769\u71b1\u516c\u8cbb\u5feb\u7be9\u8cc7\u8a0a",
-    "",
-    "yellow \u66f4\u65b0!",
+    "http://www.cdc.gov.tw/diseaseinfo.aspx?treeid=8D54C504E820735B&nowtreeid=D7D685117FE5F889&tid=77BFF3D4F9CB7982",
+    "登革熱公費快篩資訊",
     "blank",
-    "http://www.cdc.gov.tw/diseaseinfo.aspx?treeid=8D54C504E820735B&nowtreeid=D7D685117FE5F889&tid=77BFF3D4F9CB7982"
+    "yellow 更新!",
+    ""
   ],
   [
-    "\u8a8d\u8b58\u767b\u9769\u71b1Q&A",
-    "",
-    "",
+    "http://www.cdc.gov.tw/submenu.aspx?treeid=5784355bfd011a1c&nowtreeid=8f13c0388fdd8c05",
+    "認識登革熱Q&A",
     "blank",
-    "http://www.cdc.gov.tw/submenu.aspx?treeid=5784355bfd011a1c&nowtreeid=8f13c0388fdd8c05"
+    "",
+    ""
   ],
   [
-    "\u75be\u7ba1\u7f72\u300a\u9810\u9632\u767b\u9769\u71b1\u5c08\u5340\u300b",
-    "",
-    "",
+    "http://www.cdc.gov.tw/list.aspx?treeid=d315941f29223d38&nowtreeid=d315941f29223d38",
+    "疾管署《預防登革熱專區》",
     "blank",
-    "http://www.cdc.gov.tw/list.aspx?treeid=d315941f29223d38&nowtreeid=d315941f29223d38"
+    "",
+    ""
   ],
   [
-    "\u75be\u7ba1\u7f72\u300a\u767b\u9769\u71b1\u75c7\u72c0\u3001\u8a3a\u65b7\u8207\u6cbb\u7642\u300b",
-    "",
-    "",
+    "http://www.cdc.gov.tw/professional/infectionreportinfo.aspx?treeid=56ca56252a0fa705&nowtreeid=2aa8435e1709fbfb&tid=B5E2D47B66275981",
+    "疾管署《登革熱症狀、診斷與治療》",
     "blank",
-    "http://www.cdc.gov.tw/professional/infectionreportinfo.aspx?treeid=56ca56252a0fa705&nowtreeid=2aa8435e1709fbfb&tid=B5E2D47B66275981"
+    "",
+    ""
   ]
 ]

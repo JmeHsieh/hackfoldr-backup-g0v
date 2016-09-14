@@ -9,7 +9,7 @@
   ],
   [
     "",
-    "g0v\u7834\u5171\u7b46",
+    "g0v破共筆",
     "",
     "",
     "",
@@ -25,41 +25,41 @@
   ],
   [
     "https://g0v.hackpad.com/hackath19n--yhTSPTHQ8H7",
-    "2016/06/25 09:00 \u6d3b\u52d5\u8cc7\u8a0a",
+    "2016/06/25 09:00 活動資訊",
     "",
-    "\u884c\u524d\u6e96\u5099:important",
+    "行前準備:important",
     "",
     "done"
   ],
   [
     "http://g0v-jothon.kktix.cc/events/g0v-hackath19n",
-    "\u5831\u540d\u7db2\u5740",
+    "報名網址",
     "",
-    "06/13 \u6b63\u5348\u958b\u59cb:warning",
+    "06/13 正午開始:warning",
     "",
     "done"
   ],
   [
     "https://kiwiirc.com/client/irc.freenode.net/#g0v.tw",
-    "IRC\u804a\u5929\u5ba4",
+    "IRC聊天室",
     "",
-    "blue \u5373\u6642\u804a\u5929",
+    "blue 即時聊天",
     "",
     "done"
   ],
   [
     "http://join.g0v.today",
-    "slack\u804a\u5929\u5ba4",
+    "slack聊天室",
     "",
-    "pink \u540c\u6b65 irc",
+    "pink 同步 irc",
     "pink red green blue",
     ""
   ],
   [
     "https://g0v.hackpad.com/2mprMIpYMz9",
-    "\u8207\u6703\u5b88\u5247 COC",
+    "與會守則 COC",
     "",
-    "\u884c\u524d\u8acb\u8b80",
+    "行前請讀",
     "",
     "done"
   ],
@@ -73,7 +73,7 @@
   ],
   [
     "",
-    "\u63d0\u6848\u6d41\u7a0b",
+    "提案流程",
     "{\"expand\":true}",
     "",
     "",
@@ -81,15 +81,15 @@
   ],
   [
     "http://bit.ly/g0v-hackath999n",
-    "\u8981\u63d0\u6848\uff01\u770b\u63d0\u6848\uff01",
+    "要提案！看提案！",
     "",
-    "\u63d0\u6848\u5728\u9019\u767b\u8a18:warning",
+    "提案在這登記:warning",
     "",
     ""
   ],
   [
     " https://g0v.hackpad.com/g0v--JWIizPuN3mz",
-    "g0v\u63d0\u6848\u6d41\u7a0b\u53c3\u8003",
+    "g0v提案流程參考",
     "",
     "",
     "",
@@ -97,7 +97,7 @@
   ],
   [
     "http://zbryikt.github.io/quick-timer/",
-    "\u7c21\u5831\u8a08\u6642\u5668",
+    "簡報計時器",
     "",
     "",
     "",
@@ -113,7 +113,7 @@
   ],
   [
     "",
-    "\u9ed1\u5ba2\u677e\u521d\u5fc3\u8005",
+    "黑客松初心者",
     "{\"expand\":true}",
     "",
     "",
@@ -121,7 +121,7 @@
   ],
   [
     " https://g0v.hackpad.com/FAQ-gLNXqwv6krA",
-    "\u9ed1\u5ba2\u677eFAQ",
+    "黑客松FAQ",
     "",
     "",
     "",
@@ -129,7 +129,7 @@
   ],
   [
     "http://ipa.logdown.com/posts/166655-g0v-hackathon-nongeek",
-    "\u975e\u8cc7\u8a0a\u4eba\u53c3\u8207\u6307\u5357",
+    "非資訊人參與指南",
     "{\"target\":\"_blank\"}",
     "",
     "",
@@ -137,7 +137,7 @@
   ],
   [
     "http://ipa.logdown.com/posts/143277-g0v-proposal-tips",
-    "\u975e\u8cc7\u8a0a\u4eba\u63d0\u6848\u5c0f\u8a23\u7ac5",
+    "非資訊人提案小訣竅",
     "{\"target\":\"_blank\"}",
     "",
     "",
@@ -153,7 +153,7 @@
   ],
   [
     "https://docs.google.com/presentation/d/1ydGacj8XwC7sJ8sx3yF6VOBWP66YpveXU-QTL23N0H0/pub?start=false&loop=false&delayms=3000&slide=id.p",
-    "g0v\u65b0\u624b\u6559\u5b78\u6295\u5f71\u7247",
+    "g0v新手教學投影片",
     "",
     "",
     "",
@@ -169,7 +169,7 @@
   ],
   [
     "",
-    "\u7a7a\u767d\u6a21\u7248",
+    "空白模版",
     "{\"expand\":false}",
     "",
     "",
@@ -177,15 +177,15 @@
   ],
   [
     " https://g0v.hackpad.com/Project-Readme-aCZGg48I5pX",
-    "\u5c08\u6848\u4ecb\u7d39\u7a7a\u767d\u6a21\u7248",
+    "專案介紹空白模版",
     "",
-    "\u5e38\u7528:important",
+    "常用:important",
     "",
     "done"
   ],
   [
     " https://g0v.hackpad.com/Product-Planning-T2d2kAradat",
-    "\u7522\u54c1\u898f\u5283\u7a7a\u767d\u6a21\u7248",
+    "產品規劃空白模版",
     "",
     "",
     "",
@@ -193,7 +193,7 @@
   ],
   [
     " https://g0v.hackpad.com/User-Story-Socialtext-Style-mvxkbtlXlDf",
-    "user story \u7a7a\u767d\u6a21\u7248",
+    "user story 空白模版",
     "",
     "",
     "",
@@ -201,7 +201,7 @@
   ],
   [
     " https://g0v.hackpad.com/dwimzocKjEL",
-    "\u514d\u8cac\u8072\u660e\u6a21\u7248",
+    "免責聲明模版",
     "",
     "",
     "",
@@ -217,7 +217,7 @@
   ],
   [
     "",
-    "\u8cc7\u6599",
+    "資料",
     "{\"expand\":false}",
     "",
     "",
@@ -249,15 +249,15 @@
   ],
   [
     "",
-    "\u5c08\u6848 hackpad \u8acb\u52a0\u5230\u9019\u88e1",
+    "專案 hackpad 請加到這裡",
     "{\"expand\":true}",
-    "\u8f03\u5b8c\u6574\u5c08\u6848:important",
+    "較完整專案:important",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/COSCUP-2015--WxxpYVpXOWA",
-    "COSCUP\u91ce\u751f\u5b98\u7db2\uff08\u7bc4\u4f8b\uff09",
+    "COSCUP野生官網（範例）",
     "",
     "",
     "",

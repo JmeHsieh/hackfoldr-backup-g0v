@@ -1,13 +1,13 @@
 [
   [
-    "#\u7db2\u5740",
-    "#\u6a19\u984c",
+    "#網址",
+    "#標題",
     "",
     ""
   ],
   [
     "",
-    "\u653f\u6cbb\u627f\u8afe\u8ffd\u8e64\u7db2 Political Promise Tracker ",
+    "政治承諾追蹤網 Political Promise Tracker ",
     "",
     ""
   ],
@@ -19,37 +19,37 @@
   ],
   [
     "https://g0v.hackpad.com/PPT--9l8mrCKIUJM",
-    "\u7c21\u4ecb\u8207\u9810\u5b9a\u529f\u80fd",
+    "簡介與預定功能",
     "",
     ""
   ],
   [
     "https://www.youtube.com/watch?v=EpyBdNSBN0c&index=13&list=PLdwQWxpS513A5q0y-BIxN3BmWl0TOuoVu",
-    "\u63d0\u6848\u5831\u544a (g0v-hackath14n)",
+    "提案報告 (g0v-hackath14n)",
     "",
-    "red \u76ee\u524d\u9032\u5c55"
+    "red 目前進展"
   ],
   [
     "https://speakerdeck.com/mrorz/political-promise-tracker-zheng-zhi-cheng-nuo-zhui-zong-wang-g0v-hackath12n-ti-an",
-    "\u63d0\u6848\u6295\u5f71\u7247 (g0v-hackath12n)",
+    "提案投影片 (g0v-hackath12n)",
     "blank",
     ""
   ],
   [
     "https://g0v.hackpad.com/PPT-Related-Work-PCvj3oj9myK",
-    "\u570b\u5167\u5916\u985e\u4f3c\u5c08\u6848 (Related Work)",
+    "國內外類似專案 (Related Work)",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/PPT-Mockup--UhHyAukazZ4",
-    "mockup \u8207\u7cfb\u7d71\u8a2d\u8a08",
+    "mockup 與系統設計",
     "",
     "blue spec"
   ],
   [
     "https://docs.google.com/drawings/d/1KLyjlC6B2ylx0X-OVLjifSrPmoZDiwdHZUhEbiYnQs4/edit",
-    "\u8cc7\u6599\u5eab\u67b6\u69cb",
+    "資料庫架構",
     "",
     "blue spec"
   ],
@@ -67,7 +67,7 @@
   ],
   [
     "",
-    "\u76ee\u524d\u9032\u5c55",
+    "目前進展",
     "expand",
     ""
   ],
@@ -75,13 +75,13 @@
     "https://g0v.hackpad.com/PPT-RoadMap-BL7M4HtxYTk",
     "Roadmap",
     "",
-    "red \u8ffd\u9032\u5ea6\u8acb\u770b\u9019"
+    "red 追進度請看這"
   ],
   [
     "https://g0v.hackpad.com/0.goifb4ginu18m2t9",
-    "\u8cc7\u6599\u4f86\u6e90",
+    "資料來源",
     "",
-    "\u627f\u8afe\u8cc7\u6599"
+    "承諾資料"
   ],
   [
     "",
@@ -91,9 +91,9 @@
   ],
   [
     "https://docs.google.com/spreadsheets/d/13VnIEo-yvm0nfbG7saUx60Zhd50Q_rwHCMILAMyu7wQ/edit#gid=36188101",
-    "\u65bd\u653f\u5831\u544a Raw data",
+    "施政報告 Raw data",
     "",
-    "orange TXT \u5fb5\u4eba"
+    "orange TXT 徵人"
   ],
   [
     "https://github.com/g0v/ppt",
@@ -121,33 +121,33 @@
   ],
   [
     "",
-    "\u6b77\u53f2\u8cc7\u6599",
+    "歷史資料",
     "collapse",
     ""
   ],
   [
     "https://g0v.hackpad.com/-Political-Promise-Tracker-4a31UkdBItq",
-    "g0v-hackath12n \u63d0\u6848",
+    "g0v-hackath12n 提案",
     "",
-    "\u5df2\u95dc\u9589\u7de8\u8f2f"
+    "已關閉編輯"
   ],
   [
     "https://g0v.hackpad.com/PPT-Promise-Tracker-Wikipedia--ifmaZTkhksC",
-    "\u7528 Wiki \u4f86\u505a\u7684\u512a\u52a3\u5206\u6790",
+    "用 Wiki 來做的優劣分析",
     "",
     ""
   ],
   [
     "https://g0v.hackpad.com/progressprogress-g0v-unconference-2014-6oAR9BlZDoH",
-    "g0v unconference 2014 \u63d0\u6848",
+    "g0v unconference 2014 提案",
     "",
-    "\u5df2\u95dc\u9589\u7de8\u8f2f"
+    "已關閉編輯"
   ],
   [
     "https://docs.google.com/spreadsheets/d/11Owh0XvHIqrLil4y9wvwq0f9VGBJueijbUSm5qCJch0/edit#gid=1810583590",
-    "\u516d\u90fd\u627f\u8afe\u8868\u5354\u4f5c",
+    "六都承諾表協作",
     "",
-    "\u6539\u7528\u7a0b\u5f0f\u8655\u7406"
+    "改用程式處理"
   ],
   [
     "",
@@ -157,7 +157,7 @@
   ],
   [
     "",
-    " \u76f8\u95dc\u5de5\u5177\u5c08\u6848",
+    " 相關工具專案",
     "",
     ""
   ],
