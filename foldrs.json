@@ -144,6 +144,7 @@
   },
   "627pray": {
     "hackpads": [
+      "CCTD1E5e3xz",
       "FKFYXmiRObq",
       "UKP5oGrUE1x",
       "XwZutvyo6BF",
@@ -151,7 +152,7 @@
       "tQoaOuOYp8U"
     ],
     "source": "ethercalc",
-    "url": "https://beta.hackfoldr.org/627pray/"
+    "url": "http://beta.hackfoldr.org/627pray"
   },
   "71": {
     "hackpads": [
@@ -735,13 +736,14 @@
   },
   "g0v-infras": {
     "hackpads": [
+      "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
       "ITWOf458uSt",
       "SMuizwxeSHL",
       "dnzcfSfuJcW",
       "nog3i777EOZ"
     ],
     "source": "ethercalc",
-    "url": "http://beta.hackfoldr.org/g0v-infras/"
+    "url": "http://beta.hackfoldr.org/g0v-infras"
   },
   "g0v-media": {
     "hackpads": [
