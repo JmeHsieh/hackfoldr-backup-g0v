@@ -1,114 +1,542 @@
 [
   [
+    "#url",
+    "#title",
+    "#foldrexpand",
+    "#編輯註解"
+  ],
+  [
     "",
+    "台南大地震災情整合平台",
     "",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/ep/pad/static/bkW4vIX1zfX",
+    "災情資訊重點整理",
     "",
+    "災情統整:important"
+  ],
+  [
+    "https://g0v.hackpad.com/ep/pad/static/2DNnBfb0kRd",
+    "災區物資急徵區",
     "",
+    "物資急徵: important"
+  ],
+  [
+    "",
+    "即時訊息",
+    "{\"expand\": true}",
+    ""
+  ],
+  [
+    " https://www.ptt.cc/bbs/EarthQuake26/index.html",
+    "批踢踢 EarthQuake26 板",
+    "",
+    "災情統整:important"
+  ],
+  [
+    " http://bit.ly/1muI9QS",
+    "傷患送醫清冊 (持續更新)",
+    "",
+    "傷患資訊統整:important"
+  ],
+  [
+    " http://disaster.tainan.gov.tw/disaster/",
+    "台南市政府災害應變告示網",
+    "",
+    "災情統整,官方"
+  ],
+  [
+    " https://goo.gl/ag1iug",
+    "消防局工作會報資料02.12 15:50更新",
+    "",
+    ""
+  ],
+  [
+    " https://www.google.com/maps/d/embed?mid=zoIHZ-WuGMig.k23nkwUnjGUU",
+    "災情地圖",
+    "",
+    ""
+  ],
+  [
+    " https://www.google.com/maps/d/embed?mid=zMgF7_Uer0Jc.kJQCyfj7-eQw",
+    "地震震央地圖",
+    "",
+    ""
+  ],
+  [
+    " https://sketchfab.com/models/e1afea999b534dd6bcc1fde663f3e7ed",
+    "維冠倒塌 3D 模型(LOC-Geomatics,NCKU 饒見有)",
+    "",
+    ""
+  ],
+  [
+    " http://bit.ly/1T6E1V5",
+    "維冠大樓搜救狀況表 (data.tainan)",
+    "",
+    "傷患資訊統整:important"
+  ],
+  [
+    " http://bit.ly/1L8Ceax",
+    "維冠大樓設籍名冊 (data.tainan)",
+    "",
+    "傷患資訊統整:important"
+  ],
+  [
+    " https://www.ptt.cc/bbs/Gossiping/M.1454707853.A.C9D.html",
+    "批踢踢八卦板災情整理",
+    "",
+    "災情統整:warning"
+  ],
+  [
+    " http://www.ettoday.net/news/20160206/644910.htm",
+    "ETtoday東森新聞雲懶人包",
+    "",
+    "災情統整"
+  ],
+  [
+    " http://teles.ncree.org.tw/eqsurvey/",
+    "國家地震工程中心災情通報",
+    "",
+    "災情回報"
+  ],
+  [
+    " http://www.blood.org.tw/Internet/main/docDetail.aspx?uid=6383&pid=9&docid=39220",
+    "台灣血液基金會：請捐血人定期捐血、分散血源",
+    "",
+    "捐血"
+  ],
+  [
+    " http://www.blood.org.tw/Internet/main/index.aspx",
+    "目前台南血庫存7日以上",
+    "",
+    "捐血"
+  ],
+  [
+    " https://www.facebook.com/events/627791434025415/",
+    "Yahoo「強震失聯 請幫我們找親友」尋人平台",
+    "",
+    ""
+  ],
+  [
+    " http://logbot.g0v.tw/channel/g0v.tw/today",
+    "g0v Logbot",
     "",
     ""
   ],
   [
     "",
+    "分流",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " http://disaster.tainan.g0v.tw/disaster/default.asp",
+    "台南市政府災害應變告示網 (g0v分流)",
     "",
+    "災情資訊統整"
+  ],
+  [
+    " https://docs.google.com/document/d/1nOomXOHvHgIKLcgD1qN9ZbG9dU-rSr6JYwwahN7pnk0/edit?usp=sharing",
+    "Hackpad Google 分流",
     "",
+    "災情資訊統整"
+  ],
+  [
     "",
+    "交通資訊",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " http://www.thsrc.com.tw/tw/Operation/Detail/6a6e4297-6d43-4f43-9658-dd76567b5255",
+    "高鐵：全線正常營運",
+    "",
+    ""
+  ],
+  [
+    " http://fb.com/1007819779256512",
+    "台鐵：全線正常營運",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " http://www.metro.taipei/",
+    "北捷：全線正常營運",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://fb.com/1009646042428607/",
+    "高捷：全線正常營運",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    "",
+    "就醫資訊",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " http://www.mohw.gov.tw/news/571653784",
+    "健保署：無健保卡以例外就醫方式處理",
+    "",
+    ""
+  ],
+  [
+    " http://www.cna.com.tw/news/ahel/201602060146-1.aspx",
+    "健保署：地震傷患不收部分負擔",
+    "",
+    ""
+  ],
+  [
+    " http://www.mohw.gov.tw/news/571653788",
+    "醫福會：26家部立醫院投入救援",
+    "",
+    ""
+  ],
+  [
+    " https://hackpad.com/hR5vzaaQTcl",
+    "心口司：啟動心理衛生應變機制",
+    "",
+    ""
+  ],
+  [
+    " http://www.mohw.gov.tw/news/571653787",
+    "衛福部：最新處置說明 & 缺血情形",
+    "",
+    ""
+  ],
+  [
+    " http://er.mohw.g0v.tw/#/dashboard/file/default.json",
+    "急診人數看板",
+    "",
+    ""
+  ],
+  [
+    " http://goo.gl/l270Kb",
+    "衛福部：災後心理諮詢門診",
     "",
     ""
   ],
   [
     "",
+    "收容、募款、救助金資訊 ",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " http://www.cna.com.tw/news/firstnews/201602065026-1.aspx",
+    "南台地震各界捐款[清單] ",
     "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/mohw.ltc/posts/557936057706150",
+    "衛福部/應變中心最新訊息 (本篇持續更新)",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " http://www.emic.gov.tw/Content.aspx?ID=21&MenuID=607",
+    "災防辦/災後復原重建民眾濟助一覽表 (最完整!)",
     "",
+    ""
+  ],
+  [
+    " https://www.ptt.cc/bbs/Gossiping/M.1454736119.A.F0E.html",
+    "PTT-[爆卦] 台南受災戶免費用餐與住宿資訊 (更新中)",
     "",
+    ""
+  ],
+  [
+    " https://scontent-tpe1-1.xx.fbcdn.net/hphotos-xfa1/t31.0-8/1889026_10152213304912312_7075532352761398662_o.jpg",
+    "千萬不要把錢捐到中華民國紅十字會",
+    "",
+    ""
+  ],
+  [
+    " http://www.applealmond.com/news/104",
+    "台南災區捐贈物資地點、電話、捐款帳戶彙整",
+    "",
+    ""
+  ],
+  [
+    " https://goo.gl/TCISFm",
+    "HOLA 高雄及台南分店提供禦寒保暖毯和熱飲供領取和飲用",
+    "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/TayihlandisTainan/?fref=ts",
+    "台南大億麗緻酒店2/6至2/8每日提供10間客房供台南市政府統一調配資源，援助災民，若有需求者請洽台南市災害應變中心（06）2989119",
+    "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/theplacetainan/?fref=ts",
+    "台南老爺行旅即日起提供房間供台南市政府統一調配資源，援助災民。\n若有需求者請洽台南市災害應變中心(06)298-9119",
+    "",
+    ""
+  ],
+  [
+    " https://goo.gl/ZV7SJ9",
+    "Dorm 1828 受這次地震影響有緊急住宿處的需求，可以提供這三天的床位協助",
+    "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/kewangtw/posts/10208853822449773",
+    "台南波夏122民宿提供 11~13 日的住宿一間",
     "",
     ""
   ],
   [
     "",
+    "中央資訊",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " https://www.youtube.com/channel/UCNj2vsaYzmxMZvyvfAX3tSQ",
+    "[災情處置] 應變中心記者會youtube",
+    "{\"target\": \"_blank\"}",
+    "影片"
+  ],
+  [
+    " http://www.emic.gov.tw/List.aspx?ID=21&MenuID=497&ListID=1012",
+    "[查證災情] 消防署工作會報 02.07 21:00PM",
     "",
+    ""
+  ],
+  [
+    " http://www.emic.gov.tw/index.aspx?ID=21",
+    "[訊息彙整] EMIC中央災害情報站",
     "",
+    ""
+  ],
+  [
+    " https://docs.google.com/presentation/d/1_hjxxOYEDL3nV1VZX0p6Y4TSjAV-qm3TFI1fMYsI1FE/pub?start=false&loop=false&delayms=10000",
+    "[防災宣導] 多方位緊急避難包簡報",
+    "{\"target\": \"_blank\"}",
+    "簡報"
+  ],
+  [
     "",
+    "媒體",
+    "{\"expand\": true}",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=kJcFoRw76ao",
+    "壹電視新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=XxJKnDLYZz4",
+    "民視新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=hgIfZz8STLk",
+    "中天新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=jMN4cxyhJjk",
+    "東森新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=SwrKzkRUlaw",
+    "UDN 新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=yk2CUjbyyQY",
+    "台視新聞直播",
+    "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/chingte/",
+    "賴清德臉書",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://www.facebook.com/mohw.ltc/?fref=nf",
+    "衛福部臉書",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://www.facebook.com/NFA999/",
+    "消防署臉書",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " http://edition.cnn.com/2016/02/05/asia/taiwan-earthquake/index.html",
+    "CNN 報導",
+    "",
+    ""
+  ],
+  [
+    " http://www3.nhk.or.jp/news/html/20160206/k10010399531000.html",
+    "NHK 報導",
     "",
     ""
   ],
   [
     "",
+    "社交媒體訊息匯整",
     "",
+    ""
+  ],
+  [
+    " https://twitter.com/purebox/status/695749936206344192",
+    "永大路7:30AM現況",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=Ikxej3R2ofo&index=3&list=PLJXE_0d1IopNtHP34DGjS3bidUJbPF9M0",
+    "永大路救災空拍",
     "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=8WEsnOkXXFs",
+    "網友拍攝影片",
     "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=nMeR_xXM-JQ",
+    "網友拍攝影片",
+    "",
+    ""
+  ],
+  [
+    " https://youtu.be/UzfUDRlVUYs",
+    "網友拍攝影片",
+    "",
+    ""
+  ],
+  [
+    " http://matome.naver.jp/odai/2145471140923222101",
+    " 台湾地震　台湾南部の台南近郊でＭ6.4の大地震　現地の様子、被害状況　2/6 ",
+    "",
+    ""
+  ],
+  [
+    " https://twitter.com/MJ_Cruickshank/status/695713549356830721",
+    " @MJ_Cruickshank 照片",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " http://www.plurk.com/topics/earthquake",
+    "Plurk 地震話題彙整",
+    "",
+    ""
+  ],
+  [
+    " https://twitter.com/hashtag/%E5%8F%B0%E6%B9%BE%E5%9C%B0%E9%9C%87?src=hash",
+    "Twitter #台湾地震 （日文為主）",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://twitter.com/hashtag/%E5%8F%B0%E6%B9%BE%E5%8D%97%E9%83%A8%E5%9C%B0%E9%9C%87?src=hash",
+    "Twitter #台湾南部地震 (日文為主)",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://twitter.com/hashtag/%E5%8F%B0%E7%81%A3%E5%9C%B0%E9%9C%87?src=hash",
+    "Twitter #台灣地震 （中文為主）",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    " https://www.facebook.com/howard0612/posts/10208334798113366",
+    "Howard Wen 分享醫院一線人員消息",
     "",
     ""
   ],
   [
     "",
+    "失效過期連結暫存",
+    "{\"expand\": false}",
+    ""
+  ],
+  [
+    " http://bit.ly/1PzcJ45",
+    "傷患送醫清冊",
     "",
+    "傷患資訊統整:important"
+  ],
+  [
+    " http://bit.ly/1mlRKcw",
+    "市府地震傷患名單",
     "",
-    "",
+    "傷患資訊統整:important"
+  ],
+  [
+    " https://docs.google.com/document/d/12m89DSXdA8-p-9oJOi99kJYj2dVjlblhBKQuSoRjqbI/pub",
+    "台南各區公所開設避難收容所人數統計資料  (02.07 PM 17:00)",
     "",
     ""
   ],
   [
-    "",
-    "",
-    "",
-    "",
+    " https://docs.google.com/forms/d/1uv5zBaL5pm-UpIkR7IQ4Z9YvXdKl3PJxfpLdnPQB-xE/viewform",
+    "0206臺南救災志工招募",
     "",
     ""
   ],
   [
-    "",
-    "",
-    "",
-    "",
+    " http://www.ey.gov.tw/News_Content2.aspx?n=F8BAEBE9491FC830&sms=99606AC2FCD53A3A&s=2D070509A4E93B0B",
+    "[災情處置] 0830AM工作會議後新聞稿",
     "",
     ""
   ],
   [
-    "",
-    "",
-    "",
-    "",
-    "a ",
-    ""
-  ],
-  [
-    "",
-    "",
-    "",
-    "a ",
+    " https://www.youtube.com/watch?v=Bjr2Ya8Yxls",
+    "TVBS 新聞直播",
     "",
     ""
   ],
   [
-    "",
-    "",
-    "",
-    "test ",
-    "new ",
-    ""
-  ],
-  [
-    "",
-    "",
-    "",
-    "",
+    " https://www.youtube.com/watch?v=g9uJqP0hT_I",
+    "華視新聞直播",
     "",
     ""
   ],
   [
-    "",
-    "",
-    "",
-    "",
+    " https://alerts.ncdr.nat.gov.tw/alert_EgarthQuake.aspx",
+    "地震應變守則",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    "https://g0v.hackpad.com/Earthquake-20160206-bkW4vIX1zfX",
+    "編輯災情蒐集 Hackpad",
     "",
     ""
   ],
   [
+    "http://j.mp/tweq0206",
+    "編輯此 Hackfoldr ",
     "",
-    "",
-    "",
-    "",
-    "lunar",
     ""
   ]
 ]

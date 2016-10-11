@@ -1,14 +1,110 @@
 [
   [
+    "#url",
+    "#title",
+    "#foldrexpand",
+    "#tag"
+  ],
+  [
+    "",
+    "新店讀書會",
+    "",
     ""
   ],
   [
+    "https://studygroupxindian.hackpad.com/",
+    "HACKPAD全覽/開坑",
+    "{\"expand\": true}",
     ""
   ],
   [
+    " https://g0v.hackpad.com/hackpad--FPwfgwsjwdV",
+    "hackpad 超新手教學",
+    "",
     ""
   ],
   [
+    "https://studygroupxindian.hackpad.com/O2tEwzUvug7",
+    "更新資訊",
+    "{\"expand\": true}",
+    ""
+  ],
+  [
+    " https://docs.google.com/forms/d/1C769UnoTfCrUdppvrgXlPAtjk6dF3Fa7iT4KLmBJ5NU/viewform?edit_requested=true",
+    "對帳表單",
+    "",
+    ""
+  ],
+  [
+    " https://docs.google.com/forms/d/1VRrY5SMOeVV1H1UTvvi880xGEAr0WEvMNt3_toTrHDM/viewform?edit_requested=true",
+    "文宣發送回報表單",
+    "",
+    ""
+  ],
+  [
+    "",
+    "傳單發送區域",
+    "{\"expand\": false}",
+    "C欄刪掉會讓資料夾消失"
+  ],
+  [
+    " https://mapsengine.google.com/map/embed?mid=z2OEQ_swwHj4.k7fPRaotpNnQ",
+    "#累積發送區域",
+    "",
+    ""
+  ],
+  [
+    " https://mapsengine.google.com/map/embed?mid=z2OEQ_swwHj4.k_3TEsJBjuWQ",
+    "醫療",
+    "",
+    ""
+  ],
+  [
+    " https://mapsengine.google.com/map/embed?mid=z2OEQ_swwHj4.krTTUQvfh1JY",
+    "兩岸監督條例",
+    "",
+    ""
+  ],
+  [
+    " https://mapsengine.google.com/map/embed?mid=z2OEQ_swwHj4.kWv_vkfWtwDY",
+    "綜合性議題",
+    "",
+    ""
+  ],
+  [
+    "",
+    "鍵盤小蜜蜂",
+    "{\"expand\": true}",
+    ""
+  ],
+  [
+    " http://campaign-finance.g0v.ctiml.tw/",
+    "政治獻金數位化",
+    "",
+    ""
+  ],
+  [
+    " https://www.evernote.com/shard/s220/sh/94420d1f-e1b3-460c-85d5-4573206f8b91/d5e767b38bad81a1f6eb57683e0f7e5a",
+    "媒體突圍",
+    "{\"target\": \"_blank\"}",
+    ""
+  ],
+  [
+    "https://www.facebook.com/pages/%E5%B0%8F%E8%9C%9C%E8%9C%82%E6%88%B0%E9%AC%A5%E9%9A%8A-Beez/1468057720094065",
+    "小蜜蜂戰鬥隊總部",
+    "",
+    ""
+  ],
+  [
+    "https://www.facebook.com/groups/1455290841373531/",
+    "新北新店區蜂巢",
+    "",
+    ""
+  ],
+  [
+    "",
+    "文宣分類",
+    "",
     ""
   ]
 ]

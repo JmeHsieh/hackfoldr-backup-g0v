@@ -22,8 +22,8 @@
     "hackpads": [
       "VReH0BtYG5f"
     ],
-    "source": "ethercalc",
-    "updated_at": "2016-04-13T16:55:00Z",
+    "source": "google",
+    "updated_at": "2015-09-14T03:04:48Z",
     "url": "http://beta.hackfoldr.org/1T_wMcStS_saX4Dxu0sk-x1jA9kyRBEoTYV8w7AmHT9w"
   },
   "1VVq3bLLq6g1rLvzDSgPvbhVPUbXAVp17CVNmjQT8Qt8": {
@@ -47,8 +47,8 @@
       "S0z70k3PaP4",
       "WMaKLjBljub"
     ],
-    "source": "ethercalc",
-    "updated_at": "2016-04-13T16:55:00Z",
+    "source": "google",
+    "updated_at": "2015-03-12T03:51:05Z",
     "url": "http://hackfoldr.org/1WVWrKC-Tbry3ltgouQPpZH2Cd2HkKeZ8DjLs4PWa1z4"
   },
   "1Wbk0HiD4yRVus3qXzA2d8a7LmZ3wYWCSWWdGD39sWsU": {
@@ -56,8 +56,8 @@
       "b80fhUVlnBe",
       "jfLiSxnllO6"
     ],
-    "source": "ethercalc",
-    "updated_at": "2016-07-25T10:53:48Z",
+    "source": "google",
+    "updated_at": "2014-06-06T19:37:04Z",
     "url": "http://hackfoldr.org/1Wbk0HiD4yRVus3qXzA2d8a7LmZ3wYWCSWWdGD39sWsU"
   },
   "1_wd3KIMWeJQl-avtmJHf4p7Js5tBDz0QGBM-2nUaeM0": {
@@ -72,8 +72,8 @@
     "hackpads": [
       "wmS3C4TCstK"
     ],
-    "source": "ethercalc",
-    "updated_at": "2016-04-13T16:55:00Z",
+    "source": "google",
+    "updated_at": "2016-06-21T06:31:39Z",
     "url": "http://hackfoldr.org/1a5WMhNPRxTo12VidVuUKlGhN214D_RIw_gBzHP2F66c"
   },
   "1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM": {
@@ -1307,6 +1307,16 @@
     "source": "ethercalc",
     "updated_at": "2016-08-15T13:52:42Z",
     "url": "http://hackfoldr.org/urbancodeg0vtw"
+  },
+  "wethepeople": {
+    "hackpads": [
+      "05AZPOKWQwU",
+      "c5EGTv8UGDB",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-09-06T00:24:07Z",
+    "url": "http://beta.hackfoldr.org/wethepeople"
   },
   "眾志成城": {
     "hackpads": [
