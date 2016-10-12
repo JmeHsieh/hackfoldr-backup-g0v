@@ -26,6 +26,14 @@
     "updated_at": "2015-09-14T03:04:48Z",
     "url": "http://beta.hackfoldr.org/1T_wMcStS_saX4Dxu0sk-x1jA9kyRBEoTYV8w7AmHT9w"
   },
+  "1VJPg85Ub1rcSpH1Hr0PZ7ybBuepxFWi6QEBtO6qMsZs": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "google",
+    "updated_at": "2014-12-19T06:57:15Z",
+    "url": "http://beta.hackfoldr.org/1VJPg85Ub1rcSpH1Hr0PZ7ybBuepxFWi6QEBtO6qMsZs"
+  },
   "1VVq3bLLq6g1rLvzDSgPvbhVPUbXAVp17CVNmjQT8Qt8": {
     "hackpads": [
       "nog3i777EOZ"
@@ -83,6 +91,14 @@
     "source": "google",
     "updated_at": "2016-06-21T04:29:58Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
+  },
+  "1v3anz7jfe_test": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-10-11T13:06:47Z",
+    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
   },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
@@ -213,6 +229,14 @@
     "source": "ethercalc",
     "updated_at": "2016-04-13T16:57:05Z",
     "url": "http://hackfoldr.org/G8VTV"
+  },
+  "Kaohsiung-explode-20140801": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2015-03-12T03:51:05Z",
+    "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
   },
   "NECTW2014": {
     "hackpads": [
@@ -502,11 +526,12 @@
   },
   "code4hk": {
     "hackpads": [
+      "Nkxax2XjzHI",
       "hQ9RdcSw7Gd"
     ],
     "source": "ethercalc",
     "updated_at": "2016-04-13T16:58:00Z",
-    "url": "http://hackfoldr.org/code4hk"
+    "url": "http://beta.hackfoldr.org/code4hk"
   },
   "collab": {
     "hackpads": [
@@ -530,6 +555,14 @@
     "source": "ethercalc",
     "updated_at": "2016-04-13T16:58:01Z",
     "url": "http://hackfoldr.org/congressnetwork"
+  },
+  "congressoccupied": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-10-10T13:23:36Z",
+    "url": "http://beta.hackfoldr.org/congressoccupied"
   },
   "coscup2014": {
     "hackpads": [
@@ -1138,6 +1171,14 @@
     "source": "ethercalc",
     "updated_at": "2016-07-25T10:58:34Z",
     "url": "http://hackfoldr.org/newtog0v"
+  },
+  "nonuke2014": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-04-13T17:01:03Z",
+    "url": "http://beta.hackfoldr.org/nonuke2014"
   },
   "open-budget": {
     "hackpads": [
