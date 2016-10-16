@@ -481,6 +481,7 @@
   },
   "callliwei": {
     "hackpads": [
+      "6tkXwHyEaro",
       "t5nla4R4Dft"
     ],
     "source": "ethercalc",
@@ -830,7 +831,7 @@
       "czxXPBK3Jvf"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-09-30T09:21:25Z",
+    "updated_at": "2016-10-15T09:53:48Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath21n"
   },
   "g0v-hackath26n": {
@@ -1203,7 +1204,7 @@
       "w01v8lrMLTY"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-04-13T17:01:19Z",
+    "updated_at": "2016-10-15T09:05:38Z",
     "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
@@ -1259,6 +1260,14 @@
     "updated_at": "2016-04-13T17:02:06Z",
     "url": "http://hackfoldr.org/resistancelive"
   },
+  "rumors": {
+    "hackpads": [
+      "Zb4bFLB7pnv"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-10-15T09:23:01Z",
+    "url": "http://beta.hackfoldr.org/rumors"
+  },
   "shuanhhe-hackfoldr": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1266,6 +1275,14 @@
     "source": "ethercalc",
     "updated_at": "2016-07-25T11:04:40Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
+  "swtcc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-10-15T06:22:49Z",
+    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
@@ -1320,6 +1337,14 @@
     "source": "ethercalc",
     "updated_at": "2016-04-13T17:02:44Z",
     "url": "http://beta.hackfoldr.org/tpebudget/"
+  },
+  "tpyc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-10-07T09:37:49Z",
+    "url": "http://beta.hackfoldr.org/tpyc"
   },
   "tscs": {
     "hackpads": [
