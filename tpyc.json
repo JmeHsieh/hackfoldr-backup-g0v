@@ -20,7 +20,7 @@
   [
     "https://drive.google.com/open?id=0B0_YPEd1FltUUGsxYlloWWQ5dzg",
     "Google檔案夾",
-    "",
+    "{\"target\":\"_blank\"}",
     ""
   ],
   [
@@ -61,7 +61,7 @@
   ],
   [
     "https://docs.google.com/document/d/1mP3USxmjALl2EmVJccTud5lhyTb9XRpFv5rBfJyxXUI/edit#",
-    "操作方式",
+    "工作方法",
     "",
     ""
   ],
@@ -106,6 +106,18 @@
     "專案時程",
     "",
     ""
+  ],
+  [
+    "http://civil.gov.taipei/",
+    "台北市公民參與網",
+    "{\"target\":\"_blank\"}",
+    "※:issue"
+  ],
+  [
+    "http://pb.taipei/",
+    "參與式預算",
+    "{\"target\":\"_blank\"}",
+    "※:issue"
   ],
   [
     "http://inputbeta.gov.taipei/",
