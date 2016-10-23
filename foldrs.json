@@ -1333,11 +1333,12 @@
   },
   "tpebudget": {
     "hackpads": [
-      "HlZmy1bp0aM"
+      "HlZmy1bp0aM",
+      "Nkxax2XjzHI"
     ],
     "source": "ethercalc",
     "updated_at": "2016-04-13T17:02:44Z",
-    "url": "http://beta.hackfoldr.org/tpebudget/"
+    "url": "http://beta.hackfoldr.org/tpebudget"
   },
   "tpyc": {
     "hackpads": [
