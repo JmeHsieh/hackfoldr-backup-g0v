@@ -80,7 +80,7 @@
   [
     "",
     "青年宣言",
-    "",
+    "collapse",
     ""
   ],
   [
@@ -104,7 +104,7 @@
   [
     "",
     "向青年報告",
-    "expand",
+    "collapse",
     ""
   ],
   [
@@ -130,5 +130,29 @@
     "單一陳情系統",
     "{\"target\":\"_blank\"}",
     "※:issue"
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "發展組",
+    "",
+    ""
+  ],
+  [
+    "https://docs.google.com/document/d/1-3qLleXDYwdpCOS-CcsHeUFlcTFNCWu_IvsqHOHgP6Y/edit",
+    "青年事務委員會×天龍特公地×URS",
+    "",
+    ""
+  ],
+  [
+    "https://docs.google.com/document/d/1pYO5PoSbPSFb6iHnA375mt3EgcXauU235leemDtnR04/edit#",
+    "台北市多元性別友善企業評鑑",
+    "",
+    ""
   ]
 ]
