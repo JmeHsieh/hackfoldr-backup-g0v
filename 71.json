@@ -1,366 +1,507 @@
 [
   [
     "MALATESTA",
+    "",
     ""
   ],
   [
     "CAFFE'",
-    "4"
+    "4",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "IRIS",
-    ""
-  ],
-  [
-    "PASTA SEMOLA",
-    "1.7"
-  ],
-  [
-    "TAGLIATELLE",
-    ""
-  ],
-  [
-    "TAGLIATELLE VERDI",
-    "1.85"
-  ],
-  [
-    "TAGLIATELLE AI PORCINI",
-    "1.9"
-  ],
-  [
-    "AL FARRO",
-    ""
-  ],
-  [
-    "PASSATA IRIS 500gr",
-    "1.7"
-  ],
-  [
     "",
     ""
   ],
   [
+    "PASTA SEMOLA",
+    "1.7",
+    ""
+  ],
+  [
+    "TAGLIATELLE",
+    "",
+    ""
+  ],
+  [
+    "TAGLIATELLE VERDI",
+    "1.85",
+    ""
+  ],
+  [
+    "TAGLIATELLE AI PORCINI",
+    "1.9",
+    ""
+  ],
+  [
+    "AL FARRO",
+    "",
+    ""
+  ],
+  [
+    "PASSATA IRIS 500gr",
+    "1.7",
+    ""
+  ],
+  [
+    "ORZO PERLATO 500gr",
+    "1.85",
+    ""
+  ],
+  [
     "CONTADINAZIONE",
+    "",
     ""
   ],
   [
     "PASTA ARTIGIANALE 500gr",
-    "2.25"
+    "2.25",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "AUTOPRODUZIONE GIAZ",
+    "",
     ""
   ],
   [
     "PASSAMONTAGNA",
-    "2.65"
+    "2.65",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "FUNKY TOMATO",
+    "",
     ""
   ],
   [
     "PELATI FUNKY TOMATO 500gr",
+    "",
     ""
   ],
   [
     "PASSATA FUNKY TOMATO",
+    "",
     ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "URUPIA",
+    "",
     ""
   ],
   [
     "TARALLI",
-    "4.5"
+    "4.5",
+    ""
   ],
   [
     "FRISE GRANO DURO",
-    "4"
+    "4",
+    ""
   ],
   [
     "FRISE ALTRO TIPO",
-    "5.5"
+    "5.5",
+    ""
   ],
   [
     "VINO",
-    "6"
+    "6",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "VIOME",
+    "",
     ""
   ],
   [
     "SAPONETTE",
-    "2.5"
+    "2.5",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "STRULGADOR",
+    "",
     ""
   ],
   [
     "DADO",
-    "6"
+    "6",
+    ""
   ],
   [
     "GOMASIO GIRASOLE",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
     "GOMASIO GIRASOLE",
-    "4"
+    "4",
+    ""
   ],
   [
     "COMPOSTE",
+    "",
     ""
   ],
   [
     "PRUGNE",
-    "4"
+    "4",
+    ""
   ],
   [
     "AMOLA",
-    "4"
+    "4",
+    ""
   ],
   [
     "MORE SAMBUCO",
-    "3"
+    "3",
+    ""
   ],
   [
     "PERE",
-    "4"
+    "4",
+    ""
   ],
   [
     "PESCHE",
-    "4"
+    "4",
+    ""
   ],
   [
     "TISANE ",
+    "",
     ""
   ],
   [
     "BUON UMORE (ANTIDEPRESSIVA)",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
     "RELAX",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
     "DONNA (SQUILIBRI EMOTIVI E SINDROME MESTRUALE)",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
     "SOGNI LUCIDI (CONCILIA IL SONNO)",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
     "BIRRA 500ML AMBRATA FORTE AROMA",
-    "4"
+    "4",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "",
+    "",
     ""
   ],
   [
+    "ARVAIA",
+    "",
+    ""
+  ],
+  [
+    "BORLOTTI SECCHI",
+    "5 al kg",
+    ""
+  ],
+  [
+    "ORZO MONDO",
+    "3 al kg",
+    ""
+  ],
+  [
+    "",
     "",
     ""
   ],
   [
     "",
-    ""
-  ],
-  [
     "",
     ""
   ],
   [
     "",
-    ""
-  ],
-  [
-    "",
-    ""
-  ],
-  [
     "",
     ""
   ],
   [
     "SILVIA TAGLIASACCHI",
+    "",
     ""
   ],
   [
     "SENATORE CAPPELLI INTEGRALE (pasta)",
-    "1.5"
+    "1.5",
+    ""
   ],
   [
     "SEMOLA RIMACINATA SENATORE CAPPELLI(impasti)",
-    "2.2"
+    "2.2",
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI SEMINTEGRALE(impasti)",
-    "1.4"
+    "1.4",
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI INTEGRALE (impasti)",
-    "1.7"
+    "1.7",
+    ""
   ],
   [
     "FARINA DI FARRO DICOCCUM",
-    "2.8"
+    "2.8",
+    ""
   ],
   [
     "FARRO DICOCCUM DECORTICATO IN GRANI",
-    "2.8"
+    "2.8",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "RISO JOLANDA",
+    "",
     ""
   ],
   [
     "CARNAROLI 'al kg",
-    "3"
+    "3",
+    ""
   ],
   [
     "VIALONE NANO 'al kg",
-    "3"
+    "3",
+    ""
   ],
   [
     "BALDO INTEGRALE 'al kg",
-    "2.4"
+    "2.4",
+    ""
   ],
   [
     "BALDO SEMINTEGRALE 'al kg",
-    "2.5"
+    "2.5",
+    ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "FRATTA",
+    "",
     ""
   ],
   [
     "VINO BOTTIGLIA",
-    "3"
+    "3",
+    ""
   ],
   [
     "PATATE al kg",
-    "1.2"
+    "1.2",
+    ""
   ],
   [
     "SCALOGNO al kg",
-    "5.5"
+    "5.5",
+    ""
   ],
   [
     "CIPOLLE al kg",
-    "2.5"
+    "2.5",
+    ""
   ],
   [
     "AGLIO al kg",
-    "6.5"
+    "6.5",
+    ""
   ],
   [
+    "",
+    "",
+    ""
+  ],
+  [
+    "DETERSIVI GREENWOOD",
+    "",
+    ""
+  ],
+  [
+    "PIATTI ARANCIA ROSSA",
+    "1.5 al lt",
+    ""
+  ],
+  [
+    "LAVATRICE LIQUIDO",
+    "2.3 al lt",
+    ""
+  ],
+  [
+    "ACIDO CITRICO",
+    "5.2 al kg",
+    ""
+  ],
+  [
+    "PERCARBONATO SBIANCANTE",
+    "4,10 al kg",
+    ""
+  ],
+  [
+    "LAVATRICE IN POLVERE",
+    "2.75 al kg",
+    ""
+  ],
+  [
+    "",
     "",
     ""
   ],
   [
     "ZUCCHERO SEM TERRA 500gr",
-    "1.85"
+    "1.85",
+    ""
   ],
   [
+    "",
+    "",
+    ""
+  ],
+  [
+    "MANDORLE LUPO NERO",
+    "15",
+    "3 benefit caicocci"
+  ],
+  [
+    "",
     "",
     ""
   ],
   [
     "CECI",
+    "",
     ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "MIELE",
+    "",
     ""
   ],
   [
+    "",
     "",
     ""
   ],
   [
     "OLIO",
-    ""
-  ],
-  [
     "",
     ""
   ],
   [
-    "SALE GROSSO",
-    "1.3"
+    "",
+    "",
+    ""
   ],
   [
-    "SALE FINO",
-    "1.1"
+    "SALE GROSSO CERVIA",
+    "1.3",
+    ""
+  ],
+  [
+    "SALE FINO CERVIA",
+    "1.1",
+    ""
   ],
   [
     "LIMONI al kg",
+    "",
     ""
   ],
   [
     "ARANCE al kg",
+    "",
     ""
   ],
   [
     "MANDARINI al kg",
+    "",
     ""
   ],
   [
     "AVOCADO al kg",
-    "3.5"
+    "3.5",
+    ""
   ],
   [
+    "OLIVE ALIGI",
+    "4 al kg",
+    ""
+  ],
+  [
+    "",
     "",
     ""
   ],
   [
     "SACCHETTI CARTA",
-    "0.1"
+    "0.1",
+    ""
   ]
 ]
