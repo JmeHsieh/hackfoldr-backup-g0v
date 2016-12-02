@@ -1,5 +1,11 @@
 [
   [
+    "#url",
+    "#title",
+    "#foldrexpand",
+    "#編輯註解"
+  ],
+  [
     "",
     "TpYC開放協作",
     "",
@@ -15,7 +21,7 @@
     "https://paper.dropbox.com/doc/TpYC-d2xKQkxsqCs0W05Uo0SUR",
     "Dropbox Paper測試",
     "{\"target\":\"_blank\"}",
-    "暫停:issue"
+    "gray暫停"
   ],
   [
     "https://drive.google.com/open?id=0B0_YPEd1FltUUGsxYlloWWQ5dzg",
@@ -48,10 +54,10 @@
     ""
   ],
   [
+    "https://docs.google.com/document/d/1WQF02ZirWEbc3z2mQNmRSTNHYHa8C9SlAhFo6a-LIac/edit",
+    "開放台北市政府",
     "",
-    "",
-    "",
-    ""
+    "redHOT"
   ],
   [
     "",
@@ -75,19 +81,13 @@
     "http://beta.hackfoldr.org/openmeeting/",
     "Hackfoldr",
     "{\"target\":\"_blank\"}",
-    "HOT:important"
+    "redHOT"
   ],
   [
     "https://g0v.hackpad.com/Hackfoldr-IYApEmPmPI7",
     "Hackfoldr與公務員",
     "",
-    "※:issue"
-  ],
-  [
-    "",
-    "",
-    "",
-    ""
+    "gray※"
   ],
   [
     "",
@@ -109,14 +109,8 @@
   ],
   [
     "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
     "青年宣言",
-    "collapse",
+    "expand",
     ""
   ],
   [
@@ -128,12 +122,6 @@
   [
     "https://docs.google.com/document/d/1aYQ0a-B9ODgqdfGlKC8Oln-pv5syQXARuSjGks8FgDM/edit",
     "宣言內容協作",
-    "",
-    ""
-  ],
-  [
-    "",
-    "",
     "",
     ""
   ],
@@ -153,25 +141,19 @@
     "http://civil.gov.taipei/",
     "台北市公民參與網",
     "{\"target\":\"_blank\"}",
-    "※:issue"
+    "gray※"
   ],
   [
     "http://pb.taipei/",
     "參與式預算",
     "{\"target\":\"_blank\"}",
-    "※:issue"
+    "gray※"
   ],
   [
     "http://inputbeta.gov.taipei/",
     "單一陳情系統",
     "{\"target\":\"_blank\"}",
-    "※:issue"
-  ],
-  [
-    "",
-    "",
-    "",
-    ""
+    "gray※"
   ],
   [
     "",

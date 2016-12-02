@@ -50,32 +50,68 @@
   [
     "",
     "1210各地專車",
-    "",
+    "{\"expand\":true} ",
     ""
   ],
   [
     " https://www.facebook.com/WoMaison/photos/a.769344199818197.1073741827.769185556500728/1206412709444675/?type=3&theater",
-    "台中專車",
+    "台中",
     "",
     "好窩:info"
   ],
   [
+    " https://docs.google.com/forms/d/e/1FAIpQLSfR5md86QRXrEcrurEL7o_ulFb5U-ojBgHCM1O1MjsUGYmrVA/formResponse",
+    "彰化",
+    "",
+    "趙書賢、許振傑:info"
+  ],
+  [
+    " https://www.facebook.com/TaichungGDi/posts/1246601168732827",
+    "雲林",
+    "",
+    "台中基地:info"
+  ],
+  [
+    " https://www.facebook.com/peopleboss.chiayi/photos/a.442519755890895.1073741828.442260762583461/800434083432792/?type=3",
+    "嘉義市",
+    "",
+    "翻轉嘉義工作隊:info"
+  ],
+  [
+    " https://www.facebook.com/gisneylandchiayi/photos/a.787990257923375.1073741828.786858171369917/1175891405799923/?type=3&__mref=message_bubble",
+    "嘉義民雄",
+    "",
+    "諸羅部屋:info"
+  ],
+  [
     " https://www.facebook.com/tainansprout/photos/pb.144181272662168.-2207520000.1480553051./230738957339732/?type=3",
-    "台南專車",
+    "台南",
     "",
     "台南新芽:info"
   ],
   [
     " https://www.facebook.com/SouthHotline/photos/a.10150363900551329.391838.371297301328/10154487004801329/?type=3",
-    "高雄專車",
+    "高雄",
     "",
     "熱線:info"
   ],
   [
+    " https://docs.google.com/forms/d/1uBXU523u0dAwC1UkI0TPZ4hFwik3P6-dPxM6x9e_QHw/viewform?edit_requested=true",
+    "高雄",
+    "",
+    "基督徒為愛而生:info"
+  ],
+  [
     " https://www.facebook.com/ndhu.RainbowKids/photos/a.169243486501076.39732.163180910440667/1164559070302841/?type=3&theater",
-    "花蓮專車",
+    "花蓮",
     "",
     "東華同伴社:info"
+  ],
+  [
+    " https://www.facebook.com/fankanghao/posts/10211306465486018",
+    "台南高雄屏東宜蘭花蓮",
+    "",
+    "范綱皓:info"
   ],
   [
     "",
@@ -162,6 +198,12 @@
     ""
   ],
   [
+    " http://www.cw.com.tw/blog/blogTopic.action?id=571&nid=7300&page=1",
+    "請別曲解支持平權的聯合國決議",
+    "",
+    ""
+  ],
+  [
     " http://gaymarriagedata.blogspot.com/2016/11/history.html",
     "同性婚姻推太快？其實已經等將近60年了...",
     "",
@@ -220,6 +262,12 @@
     "難道我沒有反對的言論自由嗎？",
     "",
     ""
+  ],
+  [
+    " https://goo.gl/LvfLw",
+    "性別平等教育課綱：更多認識，不再歧視",
+    "{\"target\":\"_blank\"}",
+    "新視窗:info"
   ],
   [
     " https://www.facebook.com/pg/JenniferLuTw/photos/?tab=album&album_id=1467505199993734",
@@ -342,6 +390,12 @@
     ""
   ],
   [
+    " https://sites.google.com/view/medicalstafftwn",
+    "醫療人員連署",
+    "{\"target\":\"_blank\"}",
+    "新視窗:info"
+  ],
+  [
     " https://sites.google.com/view/vetformarriageeqality",
     "動物醫療從業者與學生連署",
     "{\"target\":\"_blank\"}",
@@ -362,6 +416,12 @@
   [
     " https://docs.google.com/forms/d/e/1FAIpQLSdvLDX7CVz96lepIEsbknov2utYJfvyKGbfJNtBAUq_8AeMTQ/viewform",
     "文學暨語言學界、學生與工作者連署",
+    "",
+    ""
+  ],
+  [
+    " http://campaign.tw-npo.org/sign.php?id=20161130052115",
+    "警察人員連署",
     "",
     ""
   ],
@@ -564,6 +624,18 @@
     "栗子狂想:info"
   ],
   [
+    " https://www.facebook.com/WatchoutTW/photos/a.586705598154324.1073741888.240170506141170/690492364442313/?type=3&theater",
+    "小英挺同婚 選前選後兩樣情？",
+    "",
+    "沃草:info"
+  ],
+  [
+    " https://www.facebook.com/zooofdepression/photos/a.124079221331308.1073741828.124076091331621/201592803579949/?type=3&theater",
+    "摩天輪才不想跟你結婚",
+    "",
+    "厭世動物園:info"
+  ],
+  [
     " https://www.facebook.com/DirtyWorld/photos/pb.526574594165468.-2207520000.1479725123./704423946380531/?type=3&theater",
     "婚姻平權世界毀滅？",
     "",
@@ -592,6 +664,12 @@
     "我愛我的同志朋友，但是…",
     "",
     "拉裘:info"
+  ],
+  [
+    " https://www.facebook.com/XieLiSheng/photos/a.136105699910174.1073741826.136103809910363/592024784318261/?type=3&theater",
+    "維護傳統一定好？",
+    "",
+    "謝立聖:info"
   ],
   [
     " https://www.youtube.com/watch?v=S_Ts-lCDDdw",
