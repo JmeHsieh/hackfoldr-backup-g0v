@@ -99,7 +99,7 @@
     " https://www.facebook.com/tainansprout/photos/pb.144181272662168.-2207520000.1480553051./230738957339732/?type=3",
     "台南",
     "",
-    "台南新芽:info"
+    "台南新芽僅剩回程:info"
   ],
   [
     " https://www.facebook.com/SouthHotline/photos/a.10150363900551329.391838.371297301328/10154487004801329/?type=3",
@@ -117,13 +117,19 @@
     " https://docs.google.com/forms/d/e/1FAIpQLScALwBcgHSxpwF1xg2EpPKuPIXNId-DnHJOC3kwgqiw2LV9nA/viewform?edit_requested=true",
     "宜蘭",
     "",
-    ""
+    "彩虹巴士陣線:info"
   ],
   [
     " https://www.facebook.com/ndhu.RainbowKids/photos/a.169243486501076.39732.163180910440667/1164559070302841/?type=3&theater",
     "花蓮",
     "",
     "東華同伴社:info"
+  ],
+  [
+    " https://www.facebook.com/equalitybus/posts/220231991736221",
+    "台中台南高雄",
+    "",
+    ""
   ],
   [
     " https://www.facebook.com/fankanghao/posts/10211306465486018",
@@ -354,14 +360,26 @@
     ""
   ],
   [
+    " http://campaign.tw-npo.org/sign.php?id=20161129052145",
+    "成功大學連署",
+    "",
+    ""
+  ],
+  [
     " https://sites.google.com/view/nsysume",
-    "中山大學師生連署",
+    "中山大學連署",
     "{\"target\":\"_blank\"}",
     "新視窗:info"
   ],
   [
     " https://sites.google.com/view/scu-marriage-equality-2016/%E9%A6%96%E9%A0%81?authuser=0",
-    "東吳大學師生連署",
+    "東吳大學連署",
+    "{\"target\":\"_blank\"}",
+    "新視窗:info"
+  ],
+  [
+    " https://fudan.ga/EqualityMarriage",
+    "復旦大學連署",
     "",
     ""
   ],
@@ -370,6 +388,12 @@
     "文藻外語大學連署",
     "{\"target\":\"_blank\"}",
     "新視窗:info"
+  ],
+  [
+    " https://docs.google.com/forms/d/e/1FAIpQLSezLGvQsu7sMVT4zySUxd5h7A-KWZr_4m1incfyfDeyaP6LkA/viewform",
+    "清華大學、交通大學連署",
+    "",
+    ""
   ],
   [
     " https://sites.google.com/site/acatwsignformarr/home",
