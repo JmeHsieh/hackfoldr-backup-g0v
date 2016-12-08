@@ -32,7 +32,7 @@
   [
     "http://equallove.tw/",
     "婚姻平權大平台",
-    "",
+    "{\"target\":\"_blank\"}",
     "法條在這裡:info"
   ],
   [
@@ -408,6 +408,12 @@
     ""
   ],
   [
+    " http://pics.ee/1v03",
+    "台灣大學連署",
+    "{\"target\":\"_blank\"}",
+    "新視窗:info"
+  ],
+  [
     " http://campaign.tw-npo.org/sign.php?id=20161129052145",
     "成功大學連署",
     "",
@@ -434,6 +440,12 @@
   [
     " https://sites.google.com/view/wzume",
     "文藻外語大學連署",
+    "{\"target\":\"_blank\"}",
+    "新視窗:info"
+  ],
+  [
+    " https://www.facebook.com/events/112823269209013/",
+    "臺北市立大學連署",
     "{\"target\":\"_blank\"}",
     "新視窗:info"
   ],
@@ -508,6 +520,12 @@
     "空間專業相關工作者與學界連署",
     "{\"target\":\"_blank\"}",
     "新視窗:info"
+  ],
+  [
+    " https://diamondtohae.typeform.com/to/bgLTyk",
+    "傳播界工作者與學生連署",
+    "",
+    ""
   ],
   [
     " https://docs.google.com/forms/d/e/1FAIpQLSdvLDX7CVz96lepIEsbknov2utYJfvyKGbfJNtBAUq_8AeMTQ/viewform",
@@ -876,6 +894,12 @@
     ""
   ],
   [
+    " https://www.youtube.com/channel/UC5IiL0F5GyAhQxITgjBdg5w",
+    "「愛最大」名人串連YouTube",
+    "",
+    ""
+  ],
+  [
     " http://www.chinatimes.com/realtimenews/20160510003812-260404",
     "張惠妹",
     "",
@@ -992,6 +1016,30 @@
   [
     " https://www.facebook.com/liao.hui.5/posts/10154643563928080",
     "作家廖玉蕙",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=nAYvPHntZmg",
+    "奶茶劉若英",
+    "",
+    ""
+  ],
+  [
+    " https://www.youtube.com/watch?v=jbkTj8mL3KM",
+    "曲家瑞老師",
+    "",
+    ""
+  ],
+  [
+    " https://newtalk.tw/news/view/2016-11-30/79627",
+    "張懸、李烈、導演易智言等",
+    "",
+    ""
+  ],
+  [
+    " https://www.facebook.com/chihyenyee/videos/1137182003066263/",
+    "演員詹懷雲",
     "",
     ""
   ],
