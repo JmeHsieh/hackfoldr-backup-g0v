@@ -89,7 +89,7 @@
       "Hwb65nwE4PK"
     ],
     "source": "google",
-    "updated_at": "2016-12-13T17:12:56Z",
+    "updated_at": "2016-12-15T08:48:13Z",
     "url": "http://hackfoldr.org/1jlwH0djHOHStsvxasMFjyVNZGeTdfNYGr_NyWSn9yOY"
   },
   "1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM": {
@@ -191,7 +191,7 @@
       "p0QRvaiMT6P"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-12-13T18:55:22Z",
+    "updated_at": "2016-12-15T16:27:29Z",
     "url": "http://hackfoldr.org/71"
   },
   "BQ6": {
@@ -835,6 +835,7 @@
   },
   "g0v-hackath21n": {
     "hackpads": [
+      "2rFuHdP1jxq",
       "CJuzyTDJfbk",
       "czxXPBK3Jvf"
     ],
@@ -844,6 +845,8 @@
   },
   "g0v-hackath22n": {
     "hackpads": [
+      "2rFuHdP1jxq",
+      "M1xUIWUgCEo",
       "Wq5vd4b8f2R"
     ],
     "source": "ethercalc",
