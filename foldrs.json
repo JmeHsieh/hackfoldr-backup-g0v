@@ -15,7 +15,7 @@
       "gTq5yVOLtPn"
     ],
     "source": "google",
-    "updated_at": "2016-07-06T08:37:22Z",
+    "updated_at": "2016-12-23T06:21:02Z",
     "url": "http://beta.hackfoldr.org/1HLaWjpzlKvfnzQOq7Giv2ZBzpms7cQYyBgC3mtZEdSg"
   },
   "1T_wMcStS_saX4Dxu0sk-x1jA9kyRBEoTYV8w7AmHT9w": {
@@ -89,7 +89,7 @@
       "Hwb65nwE4PK"
     ],
     "source": "google",
-    "updated_at": "2016-12-21T07:40:40Z",
+    "updated_at": "2016-12-23T00:59:33Z",
     "url": "http://hackfoldr.org/1jlwH0djHOHStsvxasMFjyVNZGeTdfNYGr_NyWSn9yOY"
   },
   "1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM": {
@@ -667,6 +667,14 @@
     "updated_at": "2016-04-13T16:58:19Z",
     "url": "http://beta.hackfoldr.org/doorsign"
   },
+  "drinking-water": {
+    "hackpads": [
+      "O0rbl8VdqpC"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-11-14T05:50:09Z",
+    "url": "http://beta.hackfoldr.org/drinking-water"
+  },
   "em": {
     "hackpads": [
       "1qrg5FHN9Oq",
@@ -848,7 +856,8 @@
       "2rFuHdP1jxq",
       "M1xUIWUgCEo",
       "UKJaTD72joG",
-      "Wq5vd4b8f2R"
+      "Wq5vd4b8f2R",
+      "w01v8lrMLTY"
     ],
     "source": "ethercalc",
     "updated_at": "2016-12-05T10:10:11Z",
@@ -1225,7 +1234,7 @@
       "w01v8lrMLTY"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-10-16T19:54:11Z",
+    "updated_at": "2016-12-24T10:41:20Z",
     "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
@@ -1284,6 +1293,7 @@
   "rumors": {
     "hackpads": [
       "F1PorqHPw1v",
+      "RMxaA4LYwyn",
       "Zb4bFLB7pnv"
     ],
     "source": "ethercalc",
