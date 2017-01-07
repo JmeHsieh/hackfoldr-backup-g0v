@@ -342,6 +342,7 @@
       "YIqo9m5JrFI",
       "ZPqSnEffxVQ",
       "bDYRBuEbFe9",
+      "bNkNzMRWse6",
       "c5EGTv8UGDB",
       "dVyaLcWGdNA",
       "evKKJtQl1Br",
@@ -817,7 +818,7 @@
       "yhTSPTHQ8H7"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-07-25T11:00:25Z",
+    "updated_at": "2017-01-06T17:43:16Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
   "g0v-hackath1n": {
@@ -889,7 +890,7 @@
       "nog3i777EOZ"
     ],
     "source": "ethercalc",
-    "updated_at": "2016-09-27T07:21:53Z",
+    "updated_at": "2017-01-04T05:52:39Z",
     "url": "http://beta.hackfoldr.org/g0v-infras"
   },
   "g0v-media": {
@@ -1056,7 +1057,8 @@
   "g0vairmap": {
     "hackpads": [
       "8MQ03kk9wwD",
-      "TexkKFNmqZP"
+      "TexkKFNmqZP",
+      "w01v8lrMLTY"
     ],
     "source": "ethercalc",
     "updated_at": "2016-10-28T02:40:04Z",
@@ -1230,6 +1232,7 @@
     "hackpads": [
       "8Ww9SaoB1up",
       "FoVI6xhJJ32",
+      "Fy5roPxroAg",
       "L90jkftmfxn",
       "PycBHXfQPHM",
       "w01v8lrMLTY"
@@ -1298,7 +1301,7 @@
       "Zb4bFLB7pnv"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-01-02T17:36:54Z",
+    "updated_at": "2017-01-04T17:41:50Z",
     "url": "http://beta.hackfoldr.org/rumors"
   },
   "shuanhhe-hackfoldr": {
