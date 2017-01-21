@@ -132,38 +132,6 @@
     "6"
   ],
   [
-    "GOMASIO GIRASOLE",
-    "3.5"
-  ],
-  [
-    "GOMASIO GIRASOLE",
-    "4"
-  ],
-  [
-    "COMPOSTE",
-    ""
-  ],
-  [
-    "PRUGNE",
-    "4"
-  ],
-  [
-    "AMOLA",
-    "4"
-  ],
-  [
-    "MORE SAMBUCO",
-    "3"
-  ],
-  [
-    "PERE",
-    "4"
-  ],
-  [
-    "PESCHE",
-    "4"
-  ],
-  [
     "TISANE ",
     ""
   ],
@@ -184,7 +152,7 @@
     "3.5"
   ],
   [
-    "BIRRA 500ML AMBRATA FORTE AROMA",
+    "",
     "4"
   ],
   [
@@ -200,8 +168,8 @@
     ""
   ],
   [
-    "BORLOTTI SECCHI",
-    "5 al kg"
+    "",
+    ""
   ],
   [
     "ORZO MONDO",
@@ -272,32 +240,36 @@
     "2.5"
   ],
   [
-    "",
-    ""
+    "ARBORIO",
+    "2.6"
+  ],
+  [
+    "ORIGINARIO",
+    "2.3"
   ],
   [
     "FRATTA",
     ""
   ],
   [
-    "VINO BOTTIGLIA",
-    "3"
+    "",
+    ""
   ],
   [
-    "PATATE al kg",
-    "1.2"
+    "",
+    ""
   ],
   [
-    "SCALOGNO al kg",
-    "5.5"
+    "",
+    ""
   ],
   [
-    "CIPOLLE al kg",
-    "2.5"
+    "",
+    ""
   ],
   [
-    "AGLIO al kg",
-    "6.5"
+    "",
+    ""
   ],
   [
     "",
@@ -345,7 +317,7 @@
   ],
   [
     "MANDORLE LUPO NERO",
-    "15"
+    "15 al kg"
   ],
   [
     "",
@@ -365,15 +337,15 @@
   ],
   [
     "MIELE",
-    ""
+    "750 gr 8 EURO"
   ],
   [
     "",
     ""
   ],
   [
-    "OLIO",
-    ""
+    "OLIO dei messapi 2016",
+    "8 EURO AL LITRO"
   ],
   [
     "",
@@ -400,7 +372,7 @@
     ""
   ],
   [
-    "AVOCADO al kg",
+    "",
     "3.5"
   ],
   [
@@ -474,5 +446,33 @@
   [
     "Crema viso seta-aloe",
     "6"
+  ],
+  [
+    "",
+    ""
+  ],
+  [
+    "SELVATICA",
+    ""
+  ],
+  [
+    "Birre 750 cl",
+    "8"
+  ],
+  [
+    "grappa cabenet",
+    "12"
+  ],
+  [
+    "grappa moscato",
+    "10"
+  ],
+  [
+    "grappa cabernet con raspo",
+    "8"
+  ],
+  [
+    "cabernet passito dolce 750cl",
+    "8"
   ]
 ]
