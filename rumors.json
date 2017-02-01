@@ -24,18 +24,6 @@
     "red:TXT 協作"
   ],
   [
-    "https://hackmd.io/EwTgrAhgzAphAsBaAbAEwMZUfAHPAZohAOz7CLEQzqr7Fggj4AMQA===?view",
-    "系統架構",
-    "",
-    "blue:寫code看這"
-  ],
-  [
-    "https://github.com/MrOrz/rumors-api/projects/1",
-    "Issue Kanban",
-    "",
-    "blue:寫code看這"
-  ],
-  [
     "https://www.facebook.com/groups/1847232902175197/",
     "問題回報 FB group",
     "",
@@ -54,8 +42,110 @@
     "FB管理員用"
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "Development",
+    "",
+    ""
+  ],
+  [
+    "https://hackmd.io/EwTgrAhgzAphAsBaAbAEwMZUfAHPAZohAOz7CLEQzqr7Fggj4AMQA===?view",
+    "系統架構",
+    "",
+    "blue:寫code看這"
+  ],
+  [
+    "https://github.com/MrOrz/rumors-api/projects/1",
+    "Issue Kanban",
+    "",
+    "blue:寫code看這"
+  ],
+  [
+    "http://api.rumors.hacktabl.org",
+    "Online API docs",
+    "",
+    ""
+  ],
+  [
+    "http://rumors.hacktabl.org",
+    "Website",
+    "",
+    ""
+  ],
+  [
+    "http://github.com/MrOrz/rumors-api",
+    "API server",
+    "",
+    "Repo"
+  ],
+  [
+    "http://github.com/MrOrz/rumors-site",
+    "Website",
+    "",
+    "Repo"
+  ],
+  [
+    "http://github.com/MrOrz/rumors-line-bot",
+    "LINE bot server",
+    "",
+    "Repo"
+  ],
+  [
+    "http://github.com/MrOrz/rumors-db",
+    "DB schema",
+    "",
+    "Repo"
+  ],
+  [
+    "http://github.com/MrOrz/rumors-deploy",
+    "Deploy script",
+    "",
+    "Repo"
+  ],
+  [
+    "http://github.com/MrOrz/rumors-crawlers",
+    "Crawlers",
+    "",
+    "Repo"
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "g0v grant 2017s proposal",
+    "",
+    ""
+  ],
+  [
     "https://hackmd.io/s/BkGLohwvl",
-    "g0v Grant 提案",
+    "提案本文",
+    "",
+    ""
+  ],
+  [
+    "https://hackmd.io/s/BkXXkO2we",
+    "合作計畫",
+    "",
+    ""
+  ],
+  [
+    "https://hackmd.io/s/SyleReTwx",
+    "社群參與與回饋意見",
     "",
     ""
   ],
