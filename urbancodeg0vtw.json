@@ -1,40 +1,54 @@
 [
   [
-    "#url",
-    "#title",
+    "",
+    "#if you want to use google spreadsheet to save foldr data (usually when authorization is needed), fill in A1 with google spreadsheet id, and the same url will be redirected to gsheet.",
+    "",
     ""
+  ],
+  [
+    "#url or item level. <: following links is level 0 (= top level)",
+    "#title",
+    "#option: hide/unsortable(foldr title), expand/collapse(subfoldr), blank(link)",
+    "#label: (color) content. color: gray/black/green/red/blue/orange/purple/teal/yellow/pink/deep-blue/deep-green/deep-purple/"
   ],
   [
     "",
     "開放都市計畫",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/f3z18AeU2uH",
     "開放都市計畫",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/--pJUQ0AGRCO1",
     "都市計畫書資料庫化",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/2qR2Pzdu95W",
     "都市計畫書資料三星化｜方法討論",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/--BpW2Xt7s8AH",
     "委員會會議記錄資料庫",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/e0ggUuxnaU8",
     "都市規劃案件地圖",
+    "",
     ""
   ],
   [
+    "",
     "",
     "",
     ""
@@ -42,49 +56,59 @@
   [
     "https://g0v.hackpad.com/--K5IAmJk80CC",
     "都市計畫小百科",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/8IENJY1ButW",
     "什麼是都市計畫",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/4FH4P5mHqa3",
     "都市計畫的程序",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/y4ZqXy7TX24",
     "全國都市計畫列表",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/XkZSBWppgPN",
     "什麼是都市設計",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/8Rexmrivd1r",
     "人民的意見最後要怎麼送進規劃？",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/g865AOkrBDI",
     "誰會參與制定法定都市計畫？",
+    "",
     ""
   ],
   [
     " 'https://urbancodeg0vtw.hackpad.com/4fIlxlrZDRC",
     "都市計畫案名閱讀教學",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/2pA1EvLBnLs",
     "都市計畫概念",
+    "",
     ""
   ],
   [
+    "",
     "",
     "",
     ""
@@ -92,64 +116,65 @@
   [
     "https://g0v.hackpad.com/-2050-y7f4dxUB2oh",
     "台北2050計畫追蹤",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/2050-tPW7S1ziG27",
     "2050｜公民參與政策機制的課題",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/--72XtwX9gMms",
     "臺北市政府永續基盤局 - 構想初探",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/WikicitY--STINOTFFpQo",
     "WikicitY 討論",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/XcM9Bpp09fo",
     "區域/都市計畫委員會制度",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/-Taiwan-Spatial-Planning-Data-Base-Jk9DUGUvgla",
     "戰後臺灣規劃史料資料庫",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/lx28QH0z38S",
     "「食物」作為區域規劃要素",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/1ceZB2gCkqf",
     "獎勵容積在臺灣",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/vPVD4quuLyf",
     "全國山坡地住宅社區列管名單",
+    "",
     ""
   ],
   [
     "https://g0v.hackpad.com/Crowd-Planning-System-Prototype-dVyaLcWGdNA",
     "Crowd Planning System / Prototype",
-    ""
-  ],
-  [
-    "",
     "",
     ""
   ],
   [
     "",
-    "",
-    ""
-  ],
-  [
     "",
     "",
     ""
@@ -157,14 +182,29 @@
   [
     "",
     "",
+    "",
     ""
   ],
   [
     "",
     "",
+    "",
     ""
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
     "",
     "",
     ""
@@ -172,24 +212,29 @@
   [
     "",
     " 黑客松紀錄",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/-1220-E7k5nHbNBBs",
     "12/20黑客松紀錄",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/-0524-07CfxCuaMzi",
     "05/24土地松紀錄",
+    "",
     ""
   ],
   [
     "",
     "",
+    "",
     ""
   ],
   [
+    "",
     "",
     "",
     ""
@@ -197,9 +242,11 @@
   [
     "https://g0v.hackpad.com/-FB-TJpTt8QsItC",
     "FB社團傳送門",
+    "",
     ""
   ],
   [
+    "",
     "",
     "",
     ""
@@ -207,16 +254,19 @@
   [
     "",
     "其他相關",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/nMQKLwW23pn",
     "城市與數學",
+    "",
     ""
   ],
   [
     " 'https://g0v.hackpad.com/VpijNWeYhps",
     "城市提案與募資平台",
+    "",
     ""
   ]
 ]
