@@ -127,6 +127,17 @@
     "updated_at": "2016-04-13T16:55:14Z",
     "url": "http://hackfoldr.org/2014ccsp"
   },
+  "2014iNGO": {
+    "hackpads": [
+      "0.1ro21dob7mj",
+      "0.arr7vsjq7uy2e29",
+      "0.eala6nxotk0jatt9",
+      "0.zv996thlc5rn3ik9"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-04-13T16:55:14Z",
+    "url": "http://beta.hackfoldr.org/2014iNGO"
+  },
   "2015-07-11": {
     "hackpads": [
       "X4bWlGs0MuJ",
@@ -180,8 +191,16 @@
       "p0QRvaiMT6P"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-02-07T13:09:34Z",
+    "updated_at": "2017-02-12T18:28:01Z",
     "url": "http://hackfoldr.org/71"
+  },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-04-13T16:57:01Z",
+    "url": "http://hackfoldr.org/BQ6"
   },
   "CharterTaiwan": {
     "hackpads": [
@@ -854,6 +873,14 @@
     "updated_at": "2016-07-25T11:04:46Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
   },
+  "g0v-hackath999n": {
+    "hackpads": [
+      "uuibFlokbjJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-07-25T11:06:06Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath999n"
+  },
   "g0v-infras": {
     "hackpads": [
       "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
@@ -1153,6 +1180,15 @@
     "updated_at": "2016-04-13T17:00:26Z",
     "url": "http://hackfoldr.org/lovenent"
   },
+  "meta": {
+    "hackpads": [
+      "IvlC3MmKsS8",
+      "c5EGTv8UGDB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-09-30T08:51:43Z",
+    "url": "http://beta.hackfoldr.org/meta"
+  },
   "moztw": {
     "hackpads": [
       "t69q4dPjAI4"
@@ -1276,6 +1312,14 @@
     "source": "ethercalc",
     "updated_at": "2016-07-25T11:04:40Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
+  "swtcc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-11-04T03:50:19Z",
+    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
