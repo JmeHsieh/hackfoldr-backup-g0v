@@ -1,490 +1,734 @@
 [
   [
     "MALATESTA",
-    ""
+    "",
+    "",
+    "ESAURITA"
   ],
   [
     "CAFFE' 250gr",
-    "4"
+    "4",
+    "",
+    ""
   ],
   [
     "IN GRANI 1kg",
-    "14"
+    "14",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "IRIS",
+    "",
+    "",
     ""
   ],
   [
     "PASTA SEMOLA",
-    "1.7"
+    "1.7",
+    "",
+    ""
   ],
   [
     "TAGLIATELLE",
-    ""
+    "",
+    "",
+    "*"
   ],
   [
     "TAGLIATELLE VERDI",
-    "1.85"
+    "1.85",
+    "",
+    "*"
   ],
   [
     "TAGLIATELLE AI PORCINI",
-    "1.9"
+    "1.9",
+    "",
+    "*"
   ],
   [
     "AL FARRO",
-    ""
+    "",
+    "",
+    "*"
   ],
   [
     "PASSATA IRIS 500gr",
-    "1.2"
+    "1.2",
+    "",
+    ""
   ],
   [
     "PASSATA IRIS 690gr",
-    "1.35"
+    "1.35",
+    "",
+    ""
   ],
   [
     "POMODORO PELATO 550 gr",
-    "1.66"
+    "1.66",
+    "",
+    ""
   ],
   [
     "ORZO PERLATO 500gr",
-    "1.85"
+    "1.85",
+    "",
+    ""
   ],
   [
     "CONTADINAZIONE",
+    "",
+    "",
     ""
   ],
   [
     "PASTA ARTIGIANALE 500gr",
-    "2.25"
+    "2.25",
+    "",
+    "*"
   ],
   [
     "OLIVE 500gr",
-    "4"
+    "4",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "AUTOPRODUZIONE GIAZ",
+    "",
+    "",
     ""
   ],
   [
     "PASSAMONTAGNA (già compreso di 0.50 cauzione vetro)",
-    "2.65"
+    "2.65",
+    "",
+    "*"
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "PASSATA FUNKY TOMATO",
-    "1.75"
+    "1.75",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "URUPIA",
+    "",
+    "",
     ""
   ],
   [
     "TARALLI",
-    "4.5"
+    "4.5",
+    "",
+    ""
   ],
   [
     "FRISE GRANO DURO",
-    "4"
+    "4",
+    "",
+    ""
   ],
   [
     "FRISE ALTRO TIPO",
-    "5.5"
+    "5.5",
+    "",
+    ""
   ],
   [
     "VINO",
-    "6"
+    "6",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "VIOME",
+    "",
+    "",
     ""
   ],
   [
     "SAPONETTE",
-    "2.5"
+    "2.5",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "STRULGADOR",
+    "",
+    "",
     ""
   ],
   [
     "DADO",
-    "6"
+    "6",
+    "",
+    ""
   ],
   [
     "TISANE ",
+    "",
+    "",
     ""
   ],
   [
     "BUON UMORE (ANTIDEPRESSIVA)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "RELAX",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "DONNA (SINDROME (PRE)-MESTRUALE)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "SOGNI LUCIDI (CONCILIA IL SONNO)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
+    "SFUSE",
+    "15 all'etto",
     "",
     ""
   ],
   [
     "",
+    "",
+    "",
     ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "ARVAIA",
+    "",
+    "",
     ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "ORZO MONDO",
-    "3 al kg"
-  ],
-  [
-    "MIGLIO",
-    "4 al kg"
-  ],
-  [
+    "3 al kg",
     "",
     ""
   ],
   [
+    "MIGLIO",
+    "4 al kg",
+    "",
+    ""
+  ],
+  [
+    "FAGIOLI",
+    "5 al kg",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
   [
     "SILVIA TAGLIASACCHI",
+    "",
+    "",
     ""
   ],
   [
     "SENATORE CAPPELLI INTEGRALE (pasta)",
-    "1.5"
+    "1.5",
+    "",
+    ""
   ],
   [
     "SEMOLA RIMACINATA SENATORE CAPPELLI(impasti)",
-    "2.2"
+    "2.2",
+    "",
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI SEMINTEGRALE(impasti)",
-    "1.7"
+    "1.7",
+    "",
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI INTEGRALE (impasti)",
-    "1.4"
+    "1.4",
+    "",
+    ""
   ],
   [
     "FARINA DI FARRO DICOCCUM",
-    "2.8"
+    "2.8",
+    "",
+    ""
   ],
   [
     "FARRO DICOCCUM DECORTICATO IN GRANI",
-    "2.8"
+    "2.8",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "RISO JOLANDA",
+    "",
+    "",
     ""
   ],
   [
     "CARNAROLI 'al kg",
-    "3"
+    "3",
+    "",
+    "*"
   ],
   [
     "VIALONE NANO 'al kg",
-    "3"
+    "3",
+    "",
+    ""
   ],
   [
     "BALDO INTEGRALE 'al kg",
-    "2.4"
+    "2.4",
+    "",
+    "*"
   ],
   [
     "BALDO SEMINTEGRALE 'al kg",
-    "2.5"
+    "2.5",
+    "",
+    "*"
   ],
   [
     "ARBORIO al kg",
-    "2.6"
+    "2.6",
+    "",
+    ""
   ],
   [
     "ORIGINARIO al kg",
-    "2.3"
+    "2.3",
+    "",
+    ""
   ],
   [
     "FRATTA",
-    ""
-  ],
-  [
+    "",
     "",
     ""
   ],
   [
     "",
-    ""
-  ],
-  [
+    "",
     "",
     ""
   ],
   [
     "",
-    ""
-  ],
-  [
+    "",
     "",
     ""
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
   [
     "DETERSIVI GREENWOOD",
+    "",
+    "",
     ""
   ],
   [
     "PIATTI ARANCIA ROSSA",
-    "1.5 al lt"
+    "1.5 al lt",
+    "",
+    ""
   ],
   [
     "LAVATRICE LIQUIDO",
-    "2.3 al lt"
+    "2.3 al lt",
+    "",
+    ""
   ],
   [
     "ACIDO CITRICO",
-    "5.2 al kg"
+    "5.2 al kg",
+    "",
+    ""
   ],
   [
     "PERCARBONATO SBIANCANTE",
-    "4,10 al kg"
+    "4,10 al kg",
+    "",
+    ""
   ],
   [
     "LAVATRICE IN POLVERE",
-    "2.75 al kg"
+    "2.75 al kg",
+    "",
+    ""
   ],
   [
     "MULTIUSO",
-    "1.5 al lt"
+    "1.5 al lt",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "ZUCCHERO SEM TERRA 500gr",
-    "1.85"
+    "1.85",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "MANDORLE LUPO NERO",
-    "15e/kg"
+    "15e/kg",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "LA PALOMBARA",
+    "",
+    "",
     ""
   ],
   [
     "CECI",
-    "2.5e/kg"
+    "2.5e/kg",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "MIELE AGAPE 750gr",
-    "8"
+    "8",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "OLIO dei MESSAPI 2016",
-    "8.5e/lt"
+    "8.5e/lt",
+    "",
+    "*"
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "SALE GROSSO CERVIA",
-    "1.1"
+    "1.1",
+    "",
+    ""
   ],
   [
     "SALE FINO CERVIA",
-    "1.3"
+    "1.3",
+    "",
+    ""
   ],
   [
     "LIMONI al kg",
-    ""
+    "",
+    "",
+    "*"
   ],
   [
     "ARANCE al kg",
-    ""
+    "",
+    "",
+    "*"
   ],
   [
     "MANDARINI al kg",
-    ""
+    "",
+    "",
+    "*"
   ],
   [
     "LENTICCHIE (Forlì) al kg",
-    "6"
+    "6",
+    "",
+    "*"
   ],
   [
     "OLIVE ALIGI",
-    "4e/kg"
+    "4e/kg",
+    "",
+    "*"
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "SACCHETTI CARTA",
-    "0.1"
-  ],
-  [
+    "0.1",
     "",
     ""
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
   [
     "ANDREA MANCINI",
+    "",
+    "",
     ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "Marmellata Mela (grande)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "Marmellata Mela (piccolo)",
-    "2"
+    "2",
+    "",
+    ""
   ],
   [
     "Marmellata Arance(grande)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "Marmellata Fichi(grande)",
-    "3.5"
+    "3.5",
+    "",
+    ""
   ],
   [
     "Marmellata Kiwi (piccolo)",
-    "2"
+    "2",
+    "",
+    ""
   ],
   [
     "Marmellata Melone (piccolo)",
-    "2"
+    "2",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "Conserva Piccantino",
-    "2.5"
+    "2.5",
+    "",
+    ""
   ],
   [
     "Conserva Pomodori secchi",
-    "2.5"
+    "2.5",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "Crema viso seta-aloe",
-    "6"
+    "6",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "SELVATICA",
+    "",
+    "",
     ""
   ],
   [
     "Birre 750 cl",
-    "5"
+    "5",
+    "",
+    ""
   ],
   [
     "grappa cabenet",
-    "12"
+    "12",
+    "",
+    ""
   ],
   [
     "grappa moscato",
-    "10"
+    "10",
+    "",
+    ""
   ],
   [
     "grappa cabernet con raspo",
-    "8"
+    "8",
+    "",
+    ""
   ],
   [
     "cabernet passito dolce 750cl",
-    "8"
+    "8",
+    "",
+    ""
   ],
   [
+    "",
+    "",
     "",
     ""
   ],
   [
     "RIMONCELLO RIMAFLOW 750cl",
-    "11"
+    "11",
+    "",
+    ""
   ]
 ]
