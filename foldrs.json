@@ -481,14 +481,6 @@
     "updated_at": "2017-02-16T03:18:17Z",
     "url": "http://beta.hackfoldr.org/app4am"
   },
-  "b1rth": {
-    "hackpads": [
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:24Z",
-    "url": "http://beta.hackfoldr.org/b1rth"
-  },
   "callliwei": {
     "hackpads": [
       "6tkXwHyEaro",
@@ -910,34 +902,6 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
   },
-  "g0v-summit-2014": {
-    "hackpads": [
-      "18K1ygginWB",
-      "2yMIDiluZjl",
-      "3lyXBRWG9aT",
-      "6bCN0IjrCoP",
-      "6rgnfJyORtF",
-      "90sXy77lPoI",
-      "CXD0xCBDpEb",
-      "DkIFBHupY2N",
-      "Ht3fhvWBl4v",
-      "NEh2te48UUZ",
-      "No6qCs3hjow",
-      "Opening-Keynote-g0v-unconference-2014",
-      "X6IFjZl2F6f",
-      "YOEzWb7eFqs",
-      "Zp5xamd13gI",
-      "bggRLzo0wTg",
-      "g0v_summit_2014_booth",
-      "hDsmxWeWzcj",
-      "lrsRSCY5iWB",
-      "p2EWyafYeoU",
-      "vbGG4fUeT7u"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
-  },
   "g0v-summit-2014-unconf": {
     "hackpads": [
       "2yMIDiluZjl",
@@ -1172,14 +1136,6 @@
     "updated_at": "2017-02-16T03:22:26Z",
     "url": "http://hackfoldr.org/legcolive"
   },
-  "lovenent": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:22:31Z",
-    "url": "http://hackfoldr.org/lovenent"
-  },
   "meta": {
     "hackpads": [
       "IvlC3MmKsS8",
@@ -1247,7 +1203,7 @@
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-03-03T02:37:09Z",
+    "updated_at": "2017-03-08T05:56:33Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
