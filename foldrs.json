@@ -289,23 +289,6 @@
     "updated_at": "2017-02-16T03:27:33Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
   },
-  "OpenGeoData": {
-    "hackpads": [
-      "3Z0cNF0cWQt",
-      "Du1lc6bUdn8",
-      "Fy5roPxroAg",
-      "Umbr1mZcESH",
-      "YOEzWb7eFqs",
-      "b6gTMfhXMYY",
-      "dVyaLcWGdNA",
-      "kFpNNXnO7IQ",
-      "qSFITFaEbfT",
-      "zTxOdzteICt"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:50Z",
-    "url": "http://hackfoldr.org/OpenGeoData"
-  },
   "POPonFire": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -706,14 +689,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:20Z",
     "url": "http://hackfoldr.org/everstudy"
-  },
-  "fepz2": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:31Z",
-    "url": "http://hackfoldr.org/fepz2"
   },
   "forest": {
     "hackpads": [
@@ -1351,14 +1326,6 @@
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
   },
-  "taiwan_water0": {
-    "hackpads": [
-      "yRRVlfb5oJg"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:05Z",
-    "url": "http://beta.hackfoldr.org/taiwan_water0"
-  },
   "taiwan_water1": {
     "hackpads": [
       "yRRVlfb5oJg"
@@ -1374,15 +1341,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:14Z",
     "url": "http://beta.hackfoldr.org/tpebudget"
-  },
-  "tpyc": {
-    "hackpads": [
-      "IYApEmPmPI7",
-      "UKJaTD72joG"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2016-12-17T07:36:31Z",
-    "url": "http://beta.hackfoldr.org/tpyc"
   },
   "tscs": {
     "hackpads": [
