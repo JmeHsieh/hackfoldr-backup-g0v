@@ -306,68 +306,6 @@
     "updated_at": "2017-02-16T03:17:50Z",
     "url": "http://hackfoldr.org/OpenGeoData"
   },
-  "POPonFire": {
-    "hackpads": [
-      "09RaHIX5QCC",
-      "0A6q37gIpUn",
-      "10-moed12ct",
-      "2FD7oDRhqqR",
-      "3Z0cNF0cWQt",
-      "5ofp8l2IWiT",
-      "5wAe15kaWeY",
-      "5wyYu217bLy",
-      "6UvvtZqOfN5",
-      "7PuOpxopyCy",
-      "9Se6KBa3sCw",
-      "ADZMgjWj7rI",
-      "F4H5ihacTqi",
-      "Fe3VpeN42w9",
-      "GfKn3zOC9Zl",
-      "Gvfkil2kX3W",
-      "JISGK3Qm5zv",
-      "MALSFDEWRN9",
-      "MbJYvY0Iu0E",
-      "N8IVVSC0H2f",
-      "NhvV6TCCJQ6",
-      "O4HH5rrPSuB",
-      "OYZXP0B6IDT",
-      "P6wx2eL2HQC",
-      "QOuCMbsXSe5",
-      "TuzXE23DZOn",
-      "VU6OAHlbqwu",
-      "VyyMj9YOnwX",
-      "WzD6GnRof54",
-      "XZJAzY72hw7",
-      "XpdD57S2RIZ",
-      "YIqo9m5JrFI",
-      "ZPqSnEffxVQ",
-      "bDYRBuEbFe9",
-      "bNkNzMRWse6",
-      "c5EGTv8UGDB",
-      "dVyaLcWGdNA",
-      "evKKJtQl1Br",
-      "f0qmfGbFuds",
-      "gDHDANLIYyp",
-      "hQ9RdcSw7Gd",
-      "hangee_hackath0n",
-      "hcHBSwncsuO",
-      "iTzLaacxmov",
-      "jJ5XWEtvXZV",
-      "lVqxeeZdNMU",
-      "lxX0NRqBoQD",
-      "p0QRvaiMT6P",
-      "quQyYm7cGrH",
-      "rPslJRbNBsm",
-      "s3Jlnc1fvTU",
-      "thbesdbmcXs",
-      "uBgGwZFpuIN",
-      "z3C6ZqUlvMk",
-      "zTxOdzteICt"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:51Z",
-    "url": "http://hackfoldr.org/POPonFire"
-  },
   "TPEDisasterSummary": {
     "hackpads": [
       "tQoaOuOYp8U"
@@ -639,14 +577,6 @@
     "updated_at": "2017-02-16T03:19:46Z",
     "url": "http://beta.hackfoldr.org/designer"
   },
-  "designer2": {
-    "hackpads": [
-      "jQJ9sUFA5O5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:46Z",
-    "url": "http://beta.hackfoldr.org/designer2"
-  },
   "don-democracy": {
     "hackpads": [
       "B00mshNSBbC",
@@ -872,14 +802,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:31:30Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
-  },
-  "g0v-hackath999n": {
-    "hackpads": [
-      "uuibFlokbjJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-03-03T18:25:50Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath999n"
   },
   "g0v-infras": {
     "hackpads": [
@@ -1302,7 +1224,7 @@
       "Zb4bFLB7pnv"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-03-17T19:27:09Z",
+    "updated_at": "2017-03-18T07:28:47Z",
     "url": "http://beta.hackfoldr.org/rumors"
   },
   "shuanhhe-hackfoldr": {
@@ -1366,14 +1288,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan_water1"
-  },
-  "tpebudget": {
-    "hackpads": [
-      "Nkxax2XjzHI"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:14Z",
-    "url": "http://beta.hackfoldr.org/tpebudget"
   },
   "tpyc": {
     "hackpads": [
