@@ -238,6 +238,17 @@
     "updated_at": "2017-02-16T03:17:45Z",
     "url": "http://hackfoldr.org/G8VTV"
   },
+  "Kaohsiung-explode-20140801": {
+    "hackpads": [
+      "3Z0cNF0cWQt",
+      "Nkxax2XjzHI",
+      "S0z70k3PaP4",
+      "c5EGTv8UGDB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2015-03-12T03:51:05Z",
+    "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
+  },
   "NECTW2014": {
     "hackpads": [
       "hQ9RdcSw7Gd",
@@ -425,6 +436,18 @@
     "updated_at": "2017-02-17T14:43:21Z",
     "url": "http://hackfoldr.org/abcd"
   },
+  "about": {
+    "hackpads": [
+      "IHFklK0lZTv",
+      "QADGWZSU2Dw",
+      "SC1NEFiB5uQ",
+      "b80fhUVlnBe",
+      "c5EGTv8UGDB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:18:03Z",
+    "url": "http://hackfoldr.org/about"
+  },
   "agriculture": {
     "hackpads": [
       "4l2IH4BazRe",
@@ -474,6 +497,30 @@
     "source": "ethercalc",
     "updated_at": "2017-02-19T06:06:32Z",
     "url": "http://beta.hackfoldr.org/callliwei"
+  },
+  "cbc2015": {
+    "hackpads": [
+      "0.tc0noszno3vuby7chp0j54s4i"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:18:58Z",
+    "url": "http://beta.hackfoldr.org/cbc2015"
+  },
+  "cckitchen": {
+    "hackpads": [
+      "1GGTbzbT5KH",
+      "5p4J9QlJymR",
+      "ORCquVuQrOX",
+      "VT5Bi66TjLd",
+      "ZlxnPcG1xLm",
+      "c5EGTv8UGDB",
+      "cLkae5CfZ0f",
+      "jS8mZtWlSWo",
+      "lXlVKOkiCzA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:20Z",
+    "url": "http://beta.hackfoldr.org/cckitchen"
   },
   "cctw": {
     "hackpads": [
@@ -919,6 +966,30 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
   },
+  "g0v-summit-2016": {
+    "hackpads": [
+      "2ldPbEHoVJ0",
+      "DJ7foRA6AP8",
+      "Htu2dreORri",
+      "IO3yuCtm1Hd",
+      "IblOqVBEF77",
+      "JInleB0ScUh",
+      "NbpdYZkgY6D",
+      "RW9M2GMq3Rp",
+      "UFvxbyoxsL4",
+      "fWzItNPmxHE",
+      "iSbcxP4yRXo",
+      "iV3U1MV02bw",
+      "m8TWjU6SYT1",
+      "pcVJJEsgYP3",
+      "ve3zOKXeycf",
+      "w01v8lrMLTY",
+      "xaFW7cIYtsr"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:28:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-2016"
+  },
   "g0v-summit-2016-unconf": {
     "hackpads": [
       "6bRe62jc8jv",
@@ -1004,6 +1075,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:45Z",
     "url": "http://beta.hackfoldr.org/g0vus"
+  },
+  "gian5-gi2_gi2-liau7_phing5-thai5": {
+    "hackpads": [
+      "DqitE1wSSIo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:52Z",
+    "url": "http://hackfoldr.org/gian5-gi2_gi2-liau7_phing5-thai5"
   },
   "glassy": {
     "hackpads": [
@@ -1142,6 +1221,14 @@
     "updated_at": "2017-02-16T03:23:06Z",
     "url": "http://hackfoldr.org/newtog0v"
   },
+  "nonuke2014": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:12Z",
+    "url": "http://beta.hackfoldr.org/nonuke2014"
+  },
   "open-budget": {
     "hackpads": [
       "8Ww9SaoB1up",
@@ -1160,7 +1247,7 @@
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-03-20T06:52:14Z",
+    "updated_at": "2017-03-28T04:27:28Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
@@ -1208,6 +1295,16 @@
     "updated_at": "2017-02-16T03:24:24Z",
     "url": "http://hackfoldr.org/resistancelive"
   },
+  "rumors": {
+    "hackpads": [
+      "F1PorqHPw1v",
+      "RMxaA4LYwyn",
+      "Zb4bFLB7pnv"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-03-22T18:05:44Z",
+    "url": "http://beta.hackfoldr.org/rumors"
+  },
   "shuanhhe-hackfoldr": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1245,6 +1342,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
+  },
+  "taiwan-region-logo-download": {
+    "hackpads": [
+      "sXtOaGjFARR"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:05Z",
+    "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
   },
   "taiwan_water0": {
     "hackpads": [
