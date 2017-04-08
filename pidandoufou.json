@@ -75,7 +75,13 @@
     "https://www.facebook.com/events/1833164000339774",
     "一群人的油漆",
     "",
-    ""
+    "blue 群島"
+  ],
+  [
+    "https://hackpad.com/XI9cPLtTCT4",
+    "一群人的油漆 Hackpad",
+    "",
+    "blue 群島"
   ],
   [
     "",
@@ -85,33 +91,45 @@
   ],
   [
     "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
-    "計畫們",
+    "一群人的餐桌",
     "expand",
+    ""
+  ],
+  [
+    "https://docs.google.com/document/d/1u7exEitrvK77RmpXoLyI9QVawPzUofzC-DapZ9boo3Y/edit?usp=sharing",
+    "ㄧ群人的主持",
+    "",
+    "介紹"
+  ],
+  [
+    "https://drive.google.com/drive/folders/0BwpVaq6h7bEIa1lZRzkyTkw2S2c?usp=sharing",
+    "ㄧ群人的主持資料庫",
+    "",
     ""
   ],
   [
     "http://piratepad.net/wr1TIKmzOI",
     "創作者社群論壇名單",
     "",
-    "pink 規劃中"
+    "yellow 規劃"
   ],
   [
-    "https://docs.google.com/document/d/1u7exEitrvK77RmpXoLyI9QVawPzUofzC-DapZ9boo3Y/edit?usp=sharing",
-    "ㄧ群人的主持",
+    "https://hackpad.com/-Open-Relationship-Lab--u7yLJHvfUYB",
+    "開放式關係製造實驗室",
     "",
-    "red 進行中"
+    "teal 紀錄"
   ],
   [
-    "https://drive.google.com/drive/folders/0BwpVaq6h7bEIa1lZRzkyTkw2S2c?usp=sharing",
-    "ㄧ群人的主持 資料庫",
+    "https://hackpad.com/sCepXvDOwYn",
+    "燒燬你的烏托邦",
     "",
-    "red 進行中"
+    "teal 紀錄"
+  ],
+  [
+    "https://g0v.hackpad.com/X4FCLGl7wuB",
+    "中國美院、黑客松、社群想像",
+    "",
+    "teal 紀錄"
   ],
   [
     "",
@@ -120,10 +138,40 @@
     ""
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "一群人的自學",
+    "expand",
+    ""
+  ],
+  [
     "https://docs.google.com/document/d/1QE-NppHyCb-iMWsqPPqxTqteuH9J09Iw3wXqQS0UlRg/edit?usp=sharing",
     "ㄧ群人的自學",
     "",
-    "red 進行中"
+    "介紹"
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "坑",
+    "collapse",
+    ""
   ],
   [
     "https://hackpad.com/ETBCufN9uct",
@@ -146,7 +194,7 @@
   [
     "",
     "【空間】",
-    "",
+    "collapse",
     ""
   ],
   [
@@ -205,7 +253,7 @@
   ],
   [
     "https://hackpad.com/sCepXvDOwYn",
-    "燒燬你的烏托邦：共筆",
+    "燒燬你的烏托邦",
     "",
     "teal 主持"
   ],
