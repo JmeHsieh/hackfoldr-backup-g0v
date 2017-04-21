@@ -461,26 +461,6 @@
     "updated_at": "2017-02-16T03:18:11Z",
     "url": "http://hackfoldr.org/agriculture"
   },
-  "app4am": {
-    "hackpads": [
-      "3EHKLPXSTny",
-      "5H2xveFL3z2",
-      "8QfHxT2ax7O",
-      "B6eYPQlIeVf",
-      "XAooOila83L",
-      "ZciE63K1hOa",
-      "ZciE63K1hOa_iJboXmcpvDB",
-      "aoKbmAeNTUO",
-      "cHyNZMpAy69",
-      "hangee_hackath0n",
-      "pH5SXyfcsyA",
-      "t69q4dPjAI4",
-      "tHGyDDrkC7y"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:17Z",
-    "url": "http://beta.hackfoldr.org/app4am"
-  },
   "b1rth": {
     "hackpads": [
       "c5EGTv8UGDB"
@@ -715,14 +695,6 @@
     "updated_at": "2017-02-16T03:20:31Z",
     "url": "http://hackfoldr.org/fepz2"
   },
-  "forest": {
-    "hackpads": [
-      "YOEzWb7eFqs"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:38Z",
-    "url": "http://hackfoldr.org/forest"
-  },
   "g0v-cy": {
     "hackpads": [
       "XKPGjyr4hUG"
@@ -891,7 +863,7 @@
       "nog3i777EOZ"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-04-07T02:14:11Z",
+    "updated_at": "2017-04-20T13:12:25Z",
     "url": "http://beta.hackfoldr.org/g0v-infras"
   },
   "g0v-media": {
@@ -1014,25 +986,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:48Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
-  },
-  "g0v-summit-sop": {
-    "hackpads": [
-      "6LdDXgM5RXr",
-      "ARIQxSSKzzj",
-      "DPCXXiDbYLI",
-      "Ii29Gy0NxGU",
-      "KOrDfuHHUWj",
-      "QVaYpNHSJ8x",
-      "SEupHS5rNVf",
-      "WcabFojJinZ",
-      "anpq7m0afwe",
-      "auUK9Ra7AxO",
-      "dErSwTt0K18",
-      "hs7LfjJn1ln"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:29:25Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-sop"
   },
   "g0v-summit2014": {
     "hackpads": [
@@ -1229,25 +1182,12 @@
     "updated_at": "2017-02-16T03:23:12Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
   },
-  "open-budget": {
-    "hackpads": [
-      "8Ww9SaoB1up",
-      "FoVI6xhJJ32",
-      "Fy5roPxroAg",
-      "L90jkftmfxn",
-      "PycBHXfQPHM",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:31Z",
-    "url": "http://hackfoldr.org/open-budget"
-  },
   "pidandoufou": {
     "hackpads": [
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-04-19T12:27:43Z",
+    "updated_at": "2017-04-20T02:55:26Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
