@@ -461,6 +461,26 @@
     "updated_at": "2017-02-16T03:18:11Z",
     "url": "http://hackfoldr.org/agriculture"
   },
+  "app4am": {
+    "hackpads": [
+      "3EHKLPXSTny",
+      "5H2xveFL3z2",
+      "8QfHxT2ax7O",
+      "B6eYPQlIeVf",
+      "XAooOila83L",
+      "ZciE63K1hOa",
+      "ZciE63K1hOa_iJboXmcpvDB",
+      "aoKbmAeNTUO",
+      "cHyNZMpAy69",
+      "hangee_hackath0n",
+      "pH5SXyfcsyA",
+      "t69q4dPjAI4",
+      "tHGyDDrkC7y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:18:17Z",
+    "url": "http://beta.hackfoldr.org/app4am"
+  },
   "b1rth": {
     "hackpads": [
       "c5EGTv8UGDB"
@@ -509,14 +529,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:21Z",
     "url": "http://beta.hackfoldr.org/cctw"
-  },
-  "chinese201407": {
-    "hackpads": [
-      "8-moed5ct"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:24Z",
-    "url": "http://hackfoldr.org/chinese201407"
   },
   "code4hk": {
     "hackpads": [
@@ -853,19 +865,6 @@
     "updated_at": "2017-03-03T18:25:50Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath999n"
   },
-  "g0v-infras": {
-    "hackpads": [
-      "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
-      "4Kcl1k0VsFR",
-      "ITWOf458uSt",
-      "SMuizwxeSHL",
-      "dnzcfSfuJcW",
-      "nog3i777EOZ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-04-20T13:12:25Z",
-    "url": "http://beta.hackfoldr.org/g0v-infras"
-  },
   "g0v-media": {
     "hackpads": [
       "0.giwo7949dtt0ggb9",
@@ -986,6 +985,25 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:48Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
+  },
+  "g0v-summit-sop": {
+    "hackpads": [
+      "6LdDXgM5RXr",
+      "ARIQxSSKzzj",
+      "DPCXXiDbYLI",
+      "Ii29Gy0NxGU",
+      "KOrDfuHHUWj",
+      "QVaYpNHSJ8x",
+      "SEupHS5rNVf",
+      "WcabFojJinZ",
+      "anpq7m0afwe",
+      "auUK9Ra7AxO",
+      "dErSwTt0K18",
+      "hs7LfjJn1ln"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:29:25Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-sop"
   },
   "g0v-summit2014": {
     "hackpads": [
@@ -1181,6 +1199,19 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:12Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
+  },
+  "open-budget": {
+    "hackpads": [
+      "8Ww9SaoB1up",
+      "FoVI6xhJJ32",
+      "Fy5roPxroAg",
+      "L90jkftmfxn",
+      "PycBHXfQPHM",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:31Z",
+    "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
     "hackpads": [
