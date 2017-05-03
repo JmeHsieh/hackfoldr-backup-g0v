@@ -588,6 +588,16 @@
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
   },
+  "coscup2014": {
+    "hackpads": [
+      "5hbXGHDvCRX",
+      "LJwytNALgOR",
+      "gVkOW9b3FU8"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:33Z",
+    "url": "http://hackfoldr.org/coscup2014"
+  },
   "cultural-heritage": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -658,6 +668,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:57Z",
     "url": "http://beta.hackfoldr.org/doorsign"
+  },
+  "drinking-water": {
+    "hackpads": [
+      "O0rbl8VdqpC"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:58Z",
+    "url": "http://beta.hackfoldr.org/drinking-water"
   },
   "em": {
     "hackpads": [
@@ -1138,6 +1156,14 @@
     "updated_at": "2017-02-16T03:22:21Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
   },
+  "learners": {
+    "hackpads": [
+      "0qqoIcDMCLJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:26Z",
+    "url": "http://beta.hackfoldr.org/learners"
+  },
   "legcolive": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1367,6 +1393,14 @@
     "updated_at": "2017-02-16T03:25:16Z",
     "url": "http://beta.hackfoldr.org/tscs"
   },
+  "ttm": {
+    "hackpads": [
+      "7yr2NBYZWIX"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:16Z",
+    "url": "http://hackfoldr.org/ttm"
+  },
   "turtle-cuora": {
     "hackpads": [
       "fC9waMmFmnN",
@@ -1376,6 +1410,22 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:17Z",
     "url": "https://hackfoldr.org/turtle-cuora"
+  },
+  "urbancodeg0vtw": {
+    "hackpads": [
+      "BpW2Xt7s8AH",
+      "Fy5roPxroAg",
+      "Gvfkil2kX3W",
+      "K5IAmJk80CC",
+      "f3z18AeU2uH",
+      "jJ5XWEtvXZV",
+      "nrkXHXZnoTo",
+      "pJUQ0AGRCO1",
+      "y7f4dxUB2oh"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-04-07T06:07:05Z",
+    "url": "http://hackfoldr.org/urbancodeg0vtw"
   },
   "wethepeople": {
     "hackpads": [
