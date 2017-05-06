@@ -557,19 +557,6 @@
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://hackfoldr.org/collab"
   },
-  "congressnetwork": {
-    "hackpads": [
-      "8yZL7bpuGlL",
-      "D9R5oKzYCEX",
-      "Fe3VpeN42w9",
-      "Q28ZQHLxhkK",
-      "gK8LMM5RoTc",
-      "xCd2B9SNTax"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:31Z",
-    "url": "http://hackfoldr.org/congressnetwork"
-  },
   "congressoccupied": {
     "hackpads": [
       "0WcQ6crWCdj",
