@@ -557,6 +557,37 @@
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://hackfoldr.org/collab"
   },
+  "congressnetwork": {
+    "hackpads": [
+      "8yZL7bpuGlL",
+      "D9R5oKzYCEX",
+      "Fe3VpeN42w9",
+      "Q28ZQHLxhkK",
+      "gK8LMM5RoTc",
+      "xCd2B9SNTax"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:31Z",
+    "url": "http://hackfoldr.org/congressnetwork"
+  },
+  "congressoccupied": {
+    "hackpads": [
+      "0WcQ6crWCdj",
+      "4AKHvZRwM59",
+      "HpwTUS2OShF",
+      "Jpm6Wry0QqM",
+      "KpX6YSUvhfj",
+      "Nkxax2XjzHI",
+      "OvYp3EbwJG6",
+      "ZFYX3EGWQcU",
+      "gGlUisv5cMG",
+      "gK8LMM5RoTc",
+      "xCd2B9SNTax"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:31Z",
+    "url": "http://beta.hackfoldr.org/congressoccupied"
+  },
   "coscup2014": {
     "hackpads": [
       "5hbXGHDvCRX",
@@ -834,6 +865,14 @@
     "updated_at": "2017-02-16T03:39:13Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath22n"
   },
+  "g0v-hackath26n": {
+    "hackpads": [
+      "RGwHjqbJ4DK"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:31:30Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath26n"
+  },
   "g0v-hackath999n": {
     "hackpads": [
       "uuibFlokbjJ"
@@ -1003,6 +1042,18 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2014"
+  },
+  "g0v-summit2016": {
+    "hackpads": [
+      "4x3PX5GeLUY",
+      "HN08QTbHngI",
+      "NcINLWCV9fm",
+      "i7gvlz50yhR",
+      "lcykxD96u3Y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit2016"
   },
   "g0vairmap": {
     "hackpads": [
