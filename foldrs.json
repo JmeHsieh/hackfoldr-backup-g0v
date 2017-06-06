@@ -424,6 +424,18 @@
     "updated_at": "2017-02-16T03:17:55Z",
     "url": "http://hackfoldr.org/Transformation"
   },
+  "abcd": {
+    "hackpads": [
+      "5wAe15kaWeY",
+      "7AfW6j0CHwV",
+      "LCoBDLpPOvy",
+      "VU6OAHlbqwu",
+      "dVyaLcWGdNA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-17T14:43:21Z",
+    "url": "http://hackfoldr.org/abcd"
+  },
   "about": {
     "hackpads": [
       "IHFklK0lZTv",
@@ -448,6 +460,26 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:18:11Z",
     "url": "http://hackfoldr.org/agriculture"
+  },
+  "app4am": {
+    "hackpads": [
+      "3EHKLPXSTny",
+      "5H2xveFL3z2",
+      "8QfHxT2ax7O",
+      "B6eYPQlIeVf",
+      "XAooOila83L",
+      "ZciE63K1hOa",
+      "ZciE63K1hOa_iJboXmcpvDB",
+      "aoKbmAeNTUO",
+      "cHyNZMpAy69",
+      "hangee_hackath0n",
+      "pH5SXyfcsyA",
+      "t69q4dPjAI4",
+      "tHGyDDrkC7y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:18:17Z",
+    "url": "http://beta.hackfoldr.org/app4am"
   },
   "b1rth": {
     "hackpads": [
@@ -585,6 +617,17 @@
     "updated_at": "2017-02-16T03:19:44Z",
     "url": "http://hackfoldr.org/databootcamp"
   },
+  "dbootcamp": {
+    "hackpads": [
+      "9dYauJC7x8I",
+      "DpZLa4EWHRu",
+      "VC7nNkKM0mW",
+      "u11LBDZBE67"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:45Z",
+    "url": "http://beta.hackfoldr.org/dbootcamp"
+  },
   "designer": {
     "hackpads": [
       "0qqoIcDMCLJ",
@@ -603,6 +646,28 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:46Z",
     "url": "http://beta.hackfoldr.org/designer2"
+  },
+  "don-democracy": {
+    "hackpads": [
+      "B00mshNSBbC",
+      "BBRFMB6Ptw6",
+      "OVD9Y2jvmgb",
+      "c5EGTv8UGDB",
+      "i8sqb54lfi8",
+      "sgJX8olKwoV",
+      "vtw-new7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:57Z",
+    "url": "http://beta.hackfoldr.org/don-democracy"
+  },
+  "doorsign": {
+    "hackpads": [
+      "7ndCfX4RoBm"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:57Z",
+    "url": "http://beta.hackfoldr.org/doorsign"
   },
   "drinking-water": {
     "hackpads": [
@@ -1099,6 +1164,14 @@
     "updated_at": "2017-02-16T03:22:26Z",
     "url": "http://beta.hackfoldr.org/learners"
   },
+  "legcolive": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:26Z",
+    "url": "http://hackfoldr.org/legcolive"
+  },
   "lovenent": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1202,6 +1275,16 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:52Z",
     "url": "http://beta.hackfoldr.org/president2016-folder"
+  },
+  "projectpool": {
+    "hackpads": [
+      "VRCKFQ0jJ1B",
+      "uJPeQo49f9y",
+      "weScR5YVcZs"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:53Z",
+    "url": "http://hackfoldr.org/projectpool"
   },
   "resistancelive": {
     "hackpads": [
