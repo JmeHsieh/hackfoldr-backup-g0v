@@ -390,10 +390,16 @@
     ""
   ],
   [
+    "LAVATRICE LANA E DELICATI",
+    "2.5 la lt",
+    "",
+    ""
+  ],
+  [
     "LAVATRICE IN POLVERE",
     "2.75 al kg",
     "",
-    ""
+    "*"
   ],
   [
     "MULTIUSO",
@@ -618,7 +624,7 @@
     "*"
   ],
   [
-    "grappa cabenet",
+    "grappa cabernet",
     "12",
     "",
     ""
@@ -627,7 +633,7 @@
     "grappa moscato",
     "10",
     "",
-    ""
+    "*"
   ],
   [
     "grappa cabernet con raspo",
@@ -662,6 +668,18 @@
   [
     "grappe",
     "5",
+    "",
+    ""
+  ],
+  [
+    "vino in bottiglia (chianti)",
+    "6",
+    "",
+    ""
+  ],
+  [
+    "vino bag in box",
+    "2 al litro",
     "",
     ""
   ]
