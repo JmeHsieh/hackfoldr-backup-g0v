@@ -81,7 +81,7 @@
       "wmS3C4TCstK"
     ],
     "source": "google",
-    "updated_at": "2017-05-03T05:49:38Z",
+    "updated_at": "2017-06-14T07:44:13Z",
     "url": "http://hackfoldr.org/1a5WMhNPRxTo12VidVuUKlGhN214D_RIw_gBzHP2F66c"
   },
   "1jlwH0djHOHStsvxasMFjyVNZGeTdfNYGr_NyWSn9yOY": {
@@ -138,15 +138,6 @@
     "updated_at": "2017-02-16T03:14:38Z",
     "url": "http://beta.hackfoldr.org/2014iNGO"
   },
-  "2015-07-11": {
-    "hackpads": [
-      "X4bWlGs0MuJ",
-      "zjiELIjtDUc"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:14:38Z",
-    "url": "http://beta.hackfoldr.org/2015-07-11"
-  },
   "2016": {
     "hackpads": [
       "M16GGU63swb"
@@ -194,14 +185,6 @@
     "updated_at": "2017-06-11T13:58:29Z",
     "url": "http://hackfoldr.org/71"
   },
-  "BQ6": {
-    "hackpads": [
-      "OrLtCDomwEj"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:38Z",
-    "url": "http://hackfoldr.org/BQ6"
-  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -209,15 +192,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:17:40Z",
     "url": "http://hackfoldr.org/CharterTaiwan"
-  },
-  "DonDonFlower": {
-    "hackpads": [
-      "TkKoSaKcr7X",
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:42Z",
-    "url": "http://hackfoldr.org/DonDonFlower"
   },
   "G8VTV": {
     "hackpads": [
@@ -424,18 +398,6 @@
     "updated_at": "2017-02-16T03:17:55Z",
     "url": "http://hackfoldr.org/Transformation"
   },
-  "abcd": {
-    "hackpads": [
-      "5wAe15kaWeY",
-      "7AfW6j0CHwV",
-      "LCoBDLpPOvy",
-      "VU6OAHlbqwu",
-      "dVyaLcWGdNA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-17T14:43:21Z",
-    "url": "http://hackfoldr.org/abcd"
-  },
   "about": {
     "hackpads": [
       "IHFklK0lZTv",
@@ -498,14 +460,6 @@
     "updated_at": "2017-02-19T06:06:32Z",
     "url": "http://beta.hackfoldr.org/callliwei"
   },
-  "cbc2015": {
-    "hackpads": [
-      "0.tc0noszno3vuby7chp0j54s4i"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:58Z",
-    "url": "http://beta.hackfoldr.org/cbc2015"
-  },
   "cckitchen": {
     "hackpads": [
       "1GGTbzbT5KH",
@@ -521,14 +475,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:20Z",
     "url": "http://beta.hackfoldr.org/cckitchen"
-  },
-  "cctw": {
-    "hackpads": [
-      "ksq5lc1w2AB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:21Z",
-    "url": "http://beta.hackfoldr.org/cctw"
   },
   "chinese201407": {
     "hackpads": [
@@ -546,16 +492,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://beta.hackfoldr.org/code4hk"
-  },
-  "collab": {
-    "hackpads": [
-      "UryZhfUuU6w",
-      "dVyaLcWGdNA",
-      "kOaEUZgLwzS"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:31Z",
-    "url": "http://hackfoldr.org/collab"
   },
   "congressnetwork": {
     "hackpads": [
@@ -616,17 +552,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:44Z",
     "url": "http://hackfoldr.org/databootcamp"
-  },
-  "dbootcamp": {
-    "hackpads": [
-      "9dYauJC7x8I",
-      "DpZLa4EWHRu",
-      "VC7nNkKM0mW",
-      "u11LBDZBE67"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:45Z",
-    "url": "http://beta.hackfoldr.org/dbootcamp"
   },
   "designer": {
     "hackpads": [
@@ -706,14 +631,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:20Z",
     "url": "http://hackfoldr.org/everstudy"
-  },
-  "fepz2": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:31Z",
-    "url": "http://hackfoldr.org/fepz2"
   },
   "forest": {
     "hackpads": [
@@ -910,62 +827,6 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
   },
-  "g0v-summit-2014": {
-    "hackpads": [
-      "18K1ygginWB",
-      "2yMIDiluZjl",
-      "3lyXBRWG9aT",
-      "6bCN0IjrCoP",
-      "6rgnfJyORtF",
-      "90sXy77lPoI",
-      "CXD0xCBDpEb",
-      "DkIFBHupY2N",
-      "Ht3fhvWBl4v",
-      "NEh2te48UUZ",
-      "No6qCs3hjow",
-      "Opening-Keynote-g0v-unconference-2014",
-      "X6IFjZl2F6f",
-      "YOEzWb7eFqs",
-      "Zp5xamd13gI",
-      "bggRLzo0wTg",
-      "g0v_summit_2014_booth",
-      "hDsmxWeWzcj",
-      "lrsRSCY5iWB",
-      "p2EWyafYeoU",
-      "vbGG4fUeT7u"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
-  },
-  "g0v-summit-2014-unconf": {
-    "hackpads": [
-      "2yMIDiluZjl",
-      "3aqbKGeYITl",
-      "3lyXBRWG9aT",
-      "4psifYRIWBJ",
-      "6oAR9BlZDoH",
-      "6oAR9BlZDoH_5YYCdsooOXJ",
-      "90sXy77lPoI",
-      "BXlqDUNDiV6",
-      "CXD0xCBDpEb",
-      "F4H5ihacTqi",
-      "KofRByGxsDS",
-      "NEh2te48UUZ",
-      "Opening-Keynote-g0v-unconference-2014",
-      "XEOeztx7NZY",
-      "YOEzWb7eFqs",
-      "pkTxSGpSR5N",
-      "r0ENYksG3iL",
-      "ryHihN8sMxq",
-      "vbGG4fUeT7u",
-      "xVNTqscK1yj",
-      "yzRKU3S0rs5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
-  },
   "g0v-summit-2016": {
     "hackpads": [
       "2ldPbEHoVJ0",
@@ -1042,18 +903,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2014"
-  },
-  "g0v-summit2016": {
-    "hackpads": [
-      "4x3PX5GeLUY",
-      "HN08QTbHngI",
-      "NcINLWCV9fm",
-      "i7gvlz50yhR",
-      "lcykxD96u3Y"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit2016"
   },
   "g0vairmap": {
     "hackpads": [
@@ -1213,14 +1062,6 @@
     "updated_at": "2017-02-16T03:23:05Z",
     "url": "http://beta.hackfoldr.org/nccucsly"
   },
-  "newtog0v": {
-    "hackpads": [
-      "Iun4h6yW2qU"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:06Z",
-    "url": "http://hackfoldr.org/newtog0v"
-  },
   "nonuke2014": {
     "hackpads": [
       "Nkxax2XjzHI"
@@ -1241,14 +1082,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:31Z",
     "url": "http://hackfoldr.org/open-budget"
-  },
-  "pidandoufou": {
-    "hackpads": [
-      "PDrdUgO6vA6"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-05-06T13:01:41Z",
-    "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
     "hackpads": [
@@ -1294,16 +1127,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:24:24Z",
     "url": "http://hackfoldr.org/resistancelive"
-  },
-  "rumors": {
-    "hackpads": [
-      "F1PorqHPw1v",
-      "RMxaA4LYwyn",
-      "Zb4bFLB7pnv"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-04-04T15:58:18Z",
-    "url": "http://beta.hackfoldr.org/rumors"
   },
   "shuanhhe-hackfoldr": {
     "hackpads": [
