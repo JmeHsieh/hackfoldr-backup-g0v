@@ -30,30 +30,6 @@
     ""
   ],
   [
-    "TAGLIATELLE",
-    "",
-    "",
-    "*"
-  ],
-  [
-    "TAGLIATELLE VERDI",
-    "1.85",
-    "",
-    "*"
-  ],
-  [
-    "",
-    "",
-    "",
-    "*"
-  ],
-  [
-    "AL FARRO",
-    "",
-    "",
-    "*"
-  ],
-  [
     "PASSATA IRIS 500gr",
     "1.2",
     "",
@@ -115,19 +91,13 @@
   ],
   [
     "PASSAMONTAGNA (già compreso di 0.50 cauzione vetro)",
-    "2.65",
     "",
-    "*"
-  ],
-  [
-    "ARRANGIAZ_MARMELLATA con ARANCE di TERRE DI PALIKE (compresa di cauzione vasetto)",
-    "5",
     "",
     ""
   ],
   [
-    "PASSATA FUNKY TOMATO",
-    "1.75",
+    "ARRANGIAZ_MARMELLATA con ARANCE di TERRE DI PALIKE (compresa di cauzione vasetto)",
+    "5",
     "",
     ""
   ],
@@ -237,19 +207,7 @@
     "ORZO MONDO",
     "3 al kg",
     "",
-    ""
-  ],
-  [
-    "MIGLIO",
-    "4 al kg",
-    "",
-    ""
-  ],
-  [
-    "FAGIOLI",
-    "5 al kg",
-    "",
-    ""
+    "*"
   ],
   [
     "SILVIA TAGLIASACCHI",
@@ -309,13 +267,13 @@
     "VIALONE NANO 'al kg",
     "3",
     "",
-    ""
+    "*"
   ],
   [
     "BALDO INTEGRALE 'al kg",
     "2.4",
     "",
-    ""
+    "*"
   ],
   [
     "BALDO SEMINTEGRALE 'al kg",
@@ -327,13 +285,13 @@
     "ARBORIO al kg",
     "2.6",
     "",
-    ""
+    "*"
   ],
   [
     "ORIGINARIO al kg",
     "2.3",
     "",
-    ""
+    "*"
   ],
   [
     "FRATTA",
@@ -561,49 +519,49 @@
     "Marmellata Mela (grande)",
     "3.5",
     "",
-    ""
+    "*"
   ],
   [
     "Marmellata Mela (piccolo)",
     "2",
     "",
-    ""
+    "*"
   ],
   [
     "Marmellata Arance(grande)",
     "3.5",
     "",
-    ""
+    "*"
   ],
   [
     "Marmellata Fichi(grande)",
     "3.5",
     "",
-    ""
+    "*"
   ],
   [
     "Marmellata Kiwi (piccolo)",
     "2",
     "",
-    ""
+    "*"
   ],
   [
     "Marmellata Melone (piccolo)",
     "2",
     "",
-    ""
+    "*"
   ],
   [
     "Conserva Piccantino",
     "2.5",
     "",
-    ""
+    "*"
   ],
   [
     "Conserva Pomodori secchi",
     "2.5",
     "",
-    ""
+    "*"
   ],
   [
     "Crema viso seta-aloe",
