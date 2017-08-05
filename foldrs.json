@@ -530,14 +530,6 @@
     "updated_at": "2017-02-16T03:19:21Z",
     "url": "http://beta.hackfoldr.org/cctw"
   },
-  "chinese201407": {
-    "hackpads": [
-      "8-moed5ct"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:24Z",
-    "url": "http://hackfoldr.org/chinese201407"
-  },
   "code4hk": {
     "hackpads": [
       "Nkxax2XjzHI",
@@ -638,28 +630,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:46Z",
     "url": "http://beta.hackfoldr.org/designer"
-  },
-  "designer2": {
-    "hackpads": [
-      "jQJ9sUFA5O5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:46Z",
-    "url": "http://beta.hackfoldr.org/designer2"
-  },
-  "don-democracy": {
-    "hackpads": [
-      "B00mshNSBbC",
-      "BBRFMB6Ptw6",
-      "OVD9Y2jvmgb",
-      "c5EGTv8UGDB",
-      "i8sqb54lfi8",
-      "sgJX8olKwoV",
-      "vtw-new7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:57Z",
-    "url": "http://beta.hackfoldr.org/don-democracy"
   },
   "doorsign": {
     "hackpads": [
@@ -1334,14 +1304,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:15Z",
     "url": "http://beta.hackfoldr.org/tachung-regionalplan"
-  },
-  "tai5-uan5_gian5-gi2_phing5-thai5": {
-    "hackpads": [
-      "DqitE1wSSIo"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:05Z",
-    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
