@@ -1267,6 +1267,15 @@
     "updated_at": "2017-02-16T03:23:51Z",
     "url": "http://beta.hackfoldr.org/ppt"
   },
+  "president2016-folder": {
+    "hackpads": [
+      "10-moed12ct",
+      "fC9waMmFmnN"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:52Z",
+    "url": "http://beta.hackfoldr.org/president2016-folder"
+  },
   "projectpool": {
     "hackpads": [
       "VRCKFQ0jJ1B",
@@ -1325,6 +1334,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:15Z",
     "url": "http://beta.hackfoldr.org/tachung-regionalplan"
+  },
+  "tai5-uan5_gian5-gi2_phing5-thai5": {
+    "hackpads": [
+      "DqitE1wSSIo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:05Z",
+    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
