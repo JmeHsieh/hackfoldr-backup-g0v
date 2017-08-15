@@ -249,15 +249,6 @@
     "updated_at": "2015-03-12T03:51:05Z",
     "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
   },
-  "NECTW2014": {
-    "hackpads": [
-      "hQ9RdcSw7Gd",
-      "oamfaAVRL0G"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:49Z",
-    "url": "http://hackfoldr.org/NECTW2014"
-  },
   "NEWShackathon": {
     "hackpads": [
       "0pEvlgRoOtf",
@@ -480,14 +471,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:18:17Z",
     "url": "http://beta.hackfoldr.org/app4am"
-  },
-  "b1rth": {
-    "hackpads": [
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-05-06T11:54:25Z",
-    "url": "http://beta.hackfoldr.org/b1rth"
   },
   "callliwei": {
     "hackpads": [
@@ -805,22 +788,6 @@
     "updated_at": "2017-02-16T03:20:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath18n"
   },
-  "g0v-hackath19n": {
-    "hackpads": [
-      "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
-      "2p8AJicQ9TP",
-      "2ucl5ftrzot",
-      "SxbJMxZLskR",
-      "ZFAvPb9ZqdD",
-      "a5mm0YuMrIV",
-      "iV3U1MV02bw",
-      "jgeT58GTL5H",
-      "yhTSPTHQ8H7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:29:22Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath19n"
-  },
   "g0v-hackath1n": {
     "hackpads": [
       "9vetfIlZEC7",
@@ -1131,14 +1098,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:21:31Z",
     "url": "http://hackfoldr.org/inLiveTW"
-  },
-  "join.tw": {
-    "hackpads": [
-      "gTq5yVOLtPn"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:29:02Z",
-    "url": "http://beta.hackfoldr.org/join.tw"
   },
   "kumamoto0414": {
     "hackpads": [
