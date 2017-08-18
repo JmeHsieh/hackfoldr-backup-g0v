@@ -164,6 +164,15 @@
     "updated_at": "2017-02-16T03:30:25Z",
     "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
   },
+  "5050": {
+    "hackpads": [
+      "IADWzZuAWcJ",
+      "sU3bohwTXDA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:15:52Z",
+    "url": "http://hackfoldr.org/5050"
+  },
   "627pray": {
     "hackpads": [
       "CCTD1E5e3xz",
@@ -279,6 +288,23 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:27:33Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
+  },
+  "OpenGeoData": {
+    "hackpads": [
+      "3Z0cNF0cWQt",
+      "Du1lc6bUdn8",
+      "Fy5roPxroAg",
+      "Umbr1mZcESH",
+      "YOEzWb7eFqs",
+      "b6gTMfhXMYY",
+      "dVyaLcWGdNA",
+      "kFpNNXnO7IQ",
+      "qSFITFaEbfT",
+      "zTxOdzteICt"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:50Z",
+    "url": "http://hackfoldr.org/OpenGeoData"
   },
   "POPonFire": {
     "hackpads": [
@@ -680,6 +706,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:20Z",
     "url": "http://hackfoldr.org/everstudy"
+  },
+  "fepz2": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:31Z",
+    "url": "http://hackfoldr.org/fepz2"
   },
   "forest": {
     "hackpads": [
@@ -1154,6 +1188,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:22:46Z",
     "url": "http://beta.hackfoldr.org/meta"
+  },
+  "moztw": {
+    "hackpads": [
+      "t69q4dPjAI4"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:53Z",
+    "url": "http://hackfoldr.org/moztw"
   },
   "mproject": {
     "hackpads": [
