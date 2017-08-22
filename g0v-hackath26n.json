@@ -33,9 +33,9 @@
   ],
   [
     "http://g0v-jothon.kktix.cc/events/g0v-hackath26n",
-    "報名網址",
+    "報名網址 | Register here",
     "",
-    "08/21 正午開始:warning",
+    "08/28 正午開始:warning",
     "",
     "done"
   ],
@@ -57,7 +57,7 @@
   ],
   [
     "https://g0v.hackpad.tw/2mprMIpYMz9",
-    "與會守則 COC",
+    "與會守則 Code Of Conduct",
     "",
     "行前請讀",
     "",
@@ -73,7 +73,7 @@
   ],
   [
     "",
-    "提案流程",
+    "提案流程| Projects ",
     "{\"expand\":true}",
     "",
     "",
@@ -81,7 +81,7 @@
   ],
   [
     "http://bit.ly/2x3wtu4",
-    "要提案！看提案！",
+    "要提案！看提案！/ project proposals",
     "",
     "提案在這登記:warning",
     "",
@@ -96,16 +96,16 @@
     "done"
   ],
   [
-    "http://zbryikt.github.io/quick-timer/",
-    "簡報計時器",
+    "https://hackmd.io/GwIwDAhhCmBmAmBaYB2AHAY0QFngJhUQE4BWWaRARhhFLDD2zKA=?view",
+    "How to submit proposal?",
     "",
     "",
     "",
-    "done"
+    ""
   ],
   [
-    "",
-    "",
+    "http://zbryikt.github.io/quick-timer/",
+    "簡報計時器",
     "",
     "",
     "",
@@ -113,7 +113,7 @@
   ],
   [
     "",
-    "黑客松初心者",
+    "黑客松初心者| For Newbie",
     "{\"expand\":true}",
     "",
     "",
@@ -144,14 +144,6 @@
     "done"
   ],
   [
-    "",
-    "",
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "https://docs.google.com/presentation/d/1HrSP47Y-Vla-ybDt13t3wvrPTTpmRkw6NLE4TN2-LNU/edit?usp=sharing",
     "g0v新手教學投影片",
     "",
@@ -160,8 +152,16 @@
     "done"
   ],
   [
+    "https://hackmd.io/MYZgbADCCMCmYFoQHYBM0EBZO1QghgGYAmAnAsqacsGGJoQEakAcQA==",
+    "FAQ",
     "",
     "",
+    "",
+    ""
+  ],
+  [
+    "https://docs.google.com/presentation/d/1LfsUn_IWMIyUqGMbNuegq8ohtY1qdICGeJruwgPbgPI/edit?usp=sharing",
+    "Intro slides",
     "",
     "",
     "",
