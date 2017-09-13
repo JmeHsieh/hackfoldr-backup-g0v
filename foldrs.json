@@ -173,19 +173,6 @@
     "updated_at": "2017-02-16T03:15:52Z",
     "url": "http://hackfoldr.org/5050"
   },
-  "627pray": {
-    "hackpads": [
-      "CCTD1E5e3xz",
-      "FKFYXmiRObq",
-      "UKP5oGrUE1x",
-      "XwZutvyo6BF",
-      "c5EGTv8UGDB",
-      "tQoaOuOYp8U"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:16:16Z",
-    "url": "http://beta.hackfoldr.org/627pray"
-  },
   "71": {
     "hackpads": [
       "p0QRvaiMT6P"
@@ -723,14 +710,6 @@
     "updated_at": "2017-02-16T03:20:38Z",
     "url": "http://hackfoldr.org/forest"
   },
-  "g0v-cy": {
-    "hackpads": [
-      "XKPGjyr4hUG"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:43Z",
-    "url": "http://hackfoldr.org/g0v-cy"
-  },
   "g0v-hackath11n": {
     "hackpads": [
       "65XdCZeKOg8",
@@ -1205,14 +1184,6 @@
     "updated_at": "2017-02-16T03:22:53Z",
     "url": "http://hackfoldr.org/mproject"
   },
-  "nccucsly": {
-    "hackpads": [
-      "eHQlRxolOG6"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:05Z",
-    "url": "http://beta.hackfoldr.org/nccucsly"
-  },
   "newtog0v": {
     "hackpads": [
       "Iun4h6yW2qU"
@@ -1366,14 +1337,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan_water1"
-  },
-  "tpebudget": {
-    "hackpads": [
-      "Nkxax2XjzHI"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:14Z",
-    "url": "http://beta.hackfoldr.org/tpebudget"
   },
   "tpyc": {
     "hackpads": [
