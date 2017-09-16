@@ -219,25 +219,6 @@
     "updated_at": "2017-02-16T03:17:42Z",
     "url": "http://hackfoldr.org/DonDonFlower"
   },
-  "G8VTV": {
-    "hackpads": [
-      "926nwUKC90j",
-      "ATtAnSyQnOM",
-      "JBDd9hvDt5f",
-      "NY4jgrpicKE",
-      "Wz4J7L9GzdH",
-      "ajIrWkt5IY9",
-      "bGtIRTRWUqx",
-      "f5hFbpOGHXS",
-      "hQ9RdcSw7Gd",
-      "lk9pamtKwyr",
-      "uJPeQo49f9y",
-      "uWYECSdshBJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:45Z",
-    "url": "http://hackfoldr.org/G8VTV"
-  },
   "Kaohsiung-explode-20140801": {
     "hackpads": [
       "3Z0cNF0cWQt",
@@ -661,14 +642,6 @@
     "updated_at": "2017-02-16T03:19:57Z",
     "url": "http://beta.hackfoldr.org/don-democracy"
   },
-  "doorsign": {
-    "hackpads": [
-      "7ndCfX4RoBm"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:57Z",
-    "url": "http://beta.hackfoldr.org/doorsign"
-  },
   "drinking-water": {
     "hackpads": [
       "O0rbl8VdqpC"
@@ -870,7 +843,7 @@
       "RGwHjqbJ4DK"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-08-21T04:19:28Z",
+    "updated_at": "2017-09-15T23:49:59Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
   },
   "g0v-hackath999n": {
@@ -1351,14 +1324,6 @@
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
   },
-  "taiwan_water0": {
-    "hackpads": [
-      "yRRVlfb5oJg"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:05Z",
-    "url": "http://beta.hackfoldr.org/taiwan_water0"
-  },
   "taiwan_water1": {
     "hackpads": [
       "yRRVlfb5oJg"
@@ -1400,16 +1365,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:16Z",
     "url": "http://hackfoldr.org/ttm"
-  },
-  "turtle-cuora": {
-    "hackpads": [
-      "fC9waMmFmnN",
-      "tFDaeOtsSbU",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:25:17Z",
-    "url": "https://hackfoldr.org/turtle-cuora"
   },
   "urbancodeg0vtw": {
     "hackpads": [
