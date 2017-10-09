@@ -433,7 +433,7 @@
       "dVyaLcWGdNA"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-02-17T14:43:21Z",
+    "updated_at": "2017-10-08T17:58:18Z",
     "url": "http://hackfoldr.org/abcd"
   },
   "about": {
@@ -744,6 +744,18 @@
     "updated_at": "2017-02-16T03:20:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath11n"
   },
+  "g0v-hackath12n": {
+    "hackpads": [
+      "DWI1o7XbyqT",
+      "NbwAt1qAcJc",
+      "cWp3e4kAJ77",
+      "qo1DgQrWL4d",
+      "rbz2A82laU4"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:43Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath12n"
+  },
   "g0v-hackath13n": {
     "hackpads": [
       "wq7hzi7fOTl"
@@ -840,6 +852,18 @@
     "source": "ethercalc",
     "updated_at": "2017-05-08T02:40:31Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath21n"
+  },
+  "g0v-hackath22n": {
+    "hackpads": [
+      "2rFuHdP1jxq",
+      "M1xUIWUgCEo",
+      "UKJaTD72joG",
+      "Wq5vd4b8f2R",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:39:13Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath22n"
   },
   "g0v-hackath26n": {
     "hackpads": [
@@ -1132,6 +1156,14 @@
     "updated_at": "2017-02-16T03:22:21Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
   },
+  "learners": {
+    "hackpads": [
+      "0qqoIcDMCLJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:26Z",
+    "url": "http://beta.hackfoldr.org/learners"
+  },
   "legcolive": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1234,6 +1266,15 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:51Z",
     "url": "http://beta.hackfoldr.org/ppt"
+  },
+  "president2016-folder": {
+    "hackpads": [
+      "10-moed12ct",
+      "fC9waMmFmnN"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:52Z",
+    "url": "http://beta.hackfoldr.org/president2016-folder"
   },
   "projectpool": {
     "hackpads": [
