@@ -194,6 +194,14 @@
     "updated_at": "2017-09-24T18:57:02Z",
     "url": "http://hackfoldr.org/71"
   },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:38Z",
+    "url": "http://hackfoldr.org/BQ6"
+  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -357,7 +365,7 @@
       "zTxOdzteICt"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-07-15T00:15:53Z",
+    "updated_at": "2017-10-10T09:53:35Z",
     "url": "http://hackfoldr.org/POPonFire"
   },
   "TPEDisasterSummary": {
@@ -490,6 +498,14 @@
     "updated_at": "2017-02-19T06:06:32Z",
     "url": "http://beta.hackfoldr.org/callliwei"
   },
+  "cbc2015": {
+    "hackpads": [
+      "0.tc0noszno3vuby7chp0j54s4i"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:18:58Z",
+    "url": "http://beta.hackfoldr.org/cbc2015"
+  },
   "cckitchen": {
     "hackpads": [
       "1GGTbzbT5KH",
@@ -571,6 +587,16 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
+  },
+  "coscup2014": {
+    "hackpads": [
+      "5hbXGHDvCRX",
+      "LJwytNALgOR",
+      "gVkOW9b3FU8"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:33Z",
+    "url": "http://hackfoldr.org/coscup2014"
   },
   "cultural-heritage": {
     "hackpads": [
@@ -989,6 +1015,25 @@
     "updated_at": "2017-02-16T03:28:48Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
   },
+  "g0v-summit-sop": {
+    "hackpads": [
+      "6LdDXgM5RXr",
+      "ARIQxSSKzzj",
+      "DPCXXiDbYLI",
+      "Ii29Gy0NxGU",
+      "KOrDfuHHUWj",
+      "QVaYpNHSJ8x",
+      "SEupHS5rNVf",
+      "WcabFojJinZ",
+      "anpq7m0afwe",
+      "auUK9Ra7AxO",
+      "dErSwTt0K18",
+      "hs7LfjJn1ln"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:29:25Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-sop"
+  },
   "g0v-summit2014": {
     "hackpads": [
       "gVkOW9b3FU8",
@@ -1202,7 +1247,7 @@
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-09-29T06:56:18Z",
+    "updated_at": "2017-10-10T16:27:00Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
