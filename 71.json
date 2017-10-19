@@ -72,12 +72,6 @@
     ""
   ],
   [
-    "CONTADINAZIONE",
-    "",
-    "",
-    ""
-  ],
-  [
     "",
     "",
     "",
@@ -98,6 +92,18 @@
   [
     "ARRANGIAZ_MARMELLATA con ARANCE di TERRE DI PALIKE (compresa di cauzione vasetto)",
     "5",
+    "",
+    ""
+  ],
+  [
+    "BOLSCEVISCIOLE (visciole sottograppa)",
+    "VARIABILE IN BASE AL PESO",
+    "",
+    ""
+  ],
+  [
+    "DURON DURON (duroni sottograppa)",
+    "VARIABILE IN BASE AL PESO",
     "",
     ""
   ],
@@ -637,7 +643,7 @@
   ],
   [
     "vino bag in box",
-    "2 al litro",
+    "2,4 al litro",
     "",
     ""
   ]
