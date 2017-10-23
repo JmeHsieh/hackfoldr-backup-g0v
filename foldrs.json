@@ -1043,6 +1043,18 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2014"
   },
+  "g0v-summit2016": {
+    "hackpads": [
+      "4x3PX5GeLUY",
+      "HN08QTbHngI",
+      "NcINLWCV9fm",
+      "i7gvlz50yhR",
+      "lcykxD96u3Y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit2016"
+  },
   "g0vairmap": {
     "hackpads": [
       "8MQ03kk9wwD",
@@ -1135,6 +1147,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:27:29Z",
     "url": "http://beta.hackfoldr.org/kumamoto0414"
+  },
+  "lazy-artist": {
+    "hackpads": [
+      "w1ebdoNTlld"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:21Z",
+    "url": "http://beta.hackfoldr.org/lazy-artist"
   },
   "learners": {
     "hackpads": [
