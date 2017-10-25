@@ -33,25 +33,19 @@
     "PASSATA IRIS 500gr",
     "1.2",
     "",
-    ""
+    "E"
   ],
   [
     "PASSATA IRIS 690gr",
     "1.35",
     "",
-    ""
+    "E"
   ],
   [
     "POMODORO PELATO 550 gr",
     "1.66",
     "",
-    ""
-  ],
-  [
-    "ORZO PERLATO 500gr",
-    "1.85",
-    "",
-    ""
+    "E"
   ],
   [
     "PASTA MATTEO PARIS",
@@ -63,13 +57,13 @@
     "FARRO SEMINTEGRALE (al kg)",
     "4.4",
     "",
-    ""
+    "E"
   ],
   [
     "SEMINTEGRALE SENATORE CAPPELLI (al kg)",
     "4",
     "",
-    ""
+    "E"
   ],
   [
     "",
@@ -123,25 +117,25 @@
     "TARALLI",
     "4.5",
     "",
-    ""
+    "E"
   ],
   [
     "FRISE GRANO DURO",
     "4",
     "",
-    ""
+    "E"
   ],
   [
     "FRISE ALTRO TIPO",
     "5.5",
     "",
-    ""
+    "E"
   ],
   [
     "VINO",
     "6",
     "",
-    ""
+    "E"
   ],
   [
     "VIOME",
@@ -165,43 +159,43 @@
     "DADO",
     "6",
     "",
-    ""
+    "E"
   ],
   [
     "TISANE ",
     "",
     "",
-    ""
+    "E"
   ],
   [
     "BUON UMORE (ANTIDEPRESSIVA)",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "RELAX",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "DONNA (SINDROME (PRE)-MESTRUALE)",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "SOGNI LUCIDI",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "SFUSE",
     "15 all'etto",
     "",
-    ""
+    "E"
   ],
   [
     "ARVAIA",
@@ -210,8 +204,26 @@
     ""
   ],
   [
+    "ORZO TOSTATO",
+    "5.4 al kg",
+    "",
+    ""
+  ],
+  [
     "ORZO MONDO",
     "3 al kg",
+    "",
+    ""
+  ],
+  [
+    "MIELE TIGLIO",
+    "10 al kg",
+    "",
+    ""
+  ],
+  [
+    "MIELE AILANTO",
+    "11 al kg",
     "",
     ""
   ],
@@ -225,37 +237,37 @@
     "SENATORE CAPPELLI INTEGRALE (pasta)",
     "1.5",
     "",
-    ""
+    "E"
   ],
   [
     "SEMOLA RIMACINATA SENATORE CAPPELLI(impasti)",
     "2.2",
     "",
-    ""
+    "E"
   ],
   [
     "MISCELA DI GRANI ANTICHI SEMINTEGRALE(impasti)",
     "1.7",
     "",
-    ""
+    "E"
   ],
   [
     "MISCELA DI GRANI ANTICHI INTEGRALE (impasti)",
     "1.4",
     "",
-    ""
+    "E"
   ],
   [
     "FARINA DI FARRO DICOCCUM",
     "2.8",
     "",
-    ""
+    "E"
   ],
   [
     "FARRO DICOCCUM DECORTICATO IN GRANI",
     "2.8",
     "",
-    ""
+    "E"
   ],
   [
     "RISO JOLANDA",
@@ -291,13 +303,13 @@
     "ARBORIO al kg",
     "2.6",
     "",
-    ""
+    "E"
   ],
   [
     "ORIGINARIO al kg",
     "2.3",
     "",
-    ""
+    "E"
   ],
   [
     "FRATTA",
@@ -325,7 +337,7 @@
   ],
   [
     "SAPONE LIQUIDO",
-    "",
+    "2 al lt",
     "",
     ""
   ],
@@ -375,7 +387,7 @@
     "ZUCCHERO SEM TERRA 500gr",
     "1.85",
     "",
-    ""
+    "E"
   ],
   [
     "",
@@ -384,38 +396,14 @@
     ""
   ],
   [
-    "LUPO NERO_MANDORLE",
-    "15e/kg",
-    "",
-    ""
-  ],
-  [
-    "",
+    "DUCCIO E LOMBA",
     "",
     "",
     ""
   ],
   [
-    "LA PALOMBARA",
-    "",
-    "",
-    ""
-  ],
-  [
-    "CECI bianchi e neri",
-    "2.5e/kg",
-    "",
-    ""
-  ],
-  [
-    "MIELE AGAPE 750gr",
-    "8",
-    "",
-    ""
-  ],
-  [
-    "",
-    "",
+    "MIELE (vari)",
+    "5e AL VASETTO",
     "",
     ""
   ],
@@ -444,22 +432,28 @@
     ""
   ],
   [
-    "LIMONI al kg",
+    "",
     "",
     "",
     ""
+  ],
+  [
+    "LIMONI al kg",
+    "",
+    "",
+    "E"
   ],
   [
     "ARANCE al kg",
     "",
     "",
-    ""
+    "E"
   ],
   [
     "MANDARINI al kg",
     "",
     "",
-    ""
+    "E"
   ],
   [
     "LA LENTICCHIA (Forlì)",
@@ -477,7 +471,7 @@
     "FARINA di LENTICCHIE",
     "6",
     "",
-    ""
+    "E"
   ],
   [
     "CECI",
@@ -489,11 +483,35 @@
     "FARRO DICOCCUM",
     "3",
     "",
+    "E"
+  ],
+  [
+    "OLIVE",
+    "4e/kg",
+    "",
+    "E"
+  ],
+  [
+    "",
+    "",
+    "",
     ""
   ],
   [
-    "OLIVE ALIGI",
-    "4e/kg",
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "OLIO",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
@@ -525,55 +543,55 @@
     "Marmellata Mela (grande)",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "Marmellata Mela (piccolo)",
     "2",
     "",
-    ""
+    "E"
   ],
   [
     "Marmellata Arance(grande)",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "Marmellata Fichi(grande)",
     "3.5",
     "",
-    ""
+    "E"
   ],
   [
     "Marmellata Kiwi (piccolo)",
     "2",
     "",
-    ""
+    "E"
   ],
   [
     "Marmellata Melone (piccolo)",
     "2",
     "",
-    ""
+    "E"
   ],
   [
     "Conserva Piccantino",
     "2.5",
     "",
-    ""
+    "E"
   ],
   [
     "Conserva Pomodori secchi",
     "2.5",
     "",
-    ""
+    "E"
   ],
   [
     "Crema viso seta-aloe",
     "6",
     "",
-    ""
+    "E"
   ],
   [
     "SELVATICA",
@@ -603,7 +621,7 @@
     "grappa cabernet con raspo",
     "8",
     "",
-    ""
+    "E"
   ],
   [
     "cabernet passito dolce 750cl",
@@ -615,7 +633,7 @@
     "RIMONCELLO RIMAFLOW 750cl",
     "11",
     "",
-    ""
+    "E"
   ],
   [
     "",
@@ -630,12 +648,6 @@
     ""
   ],
   [
-    "grappe",
-    "5",
-    "",
-    ""
-  ],
-  [
     "vino in bottiglia (chianti)",
     "6",
     "",
@@ -644,6 +656,36 @@
   [
     "vino bag in box",
     "2,4 al litro",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "LANTERNA DI DIOGENE",
+    "",
+    "",
+    ""
+  ],
+  [
+    "tisane",
+    "",
+    "",
+    ""
+  ],
+  [
+    "marmellate",
+    "",
+    "",
+    ""
+  ],
+  [
+    "aceto balsamico invecchaito 12 anni",
+    "15",
     "",
     ""
   ]
