@@ -78,6 +78,12 @@
     ""
   ],
   [
+    "POMODORINI L NATURALE",
+    "",
+    "",
+    ""
+  ],
+  [
     "PASSAMONTAGNA (già compreso di 0.50 cauzione vetro)",
     "",
     "",
@@ -162,40 +168,10 @@
     "E"
   ],
   [
-    "TISANE ",
     "",
     "",
-    "E"
-  ],
-  [
-    "BUON UMORE (ANTIDEPRESSIVA)",
-    "3.5",
     "",
-    "E"
-  ],
-  [
-    "RELAX",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "DONNA (SINDROME (PRE)-MESTRUALE)",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "SOGNI LUCIDI",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "SFUSE",
-    "15 all'etto",
-    "",
-    "E"
+    ""
   ],
   [
     "ARVAIA",
@@ -224,6 +200,24 @@
   [
     "MIELE AILANTO",
     "11 al kg",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
@@ -408,12 +402,6 @@
     ""
   ],
   [
-    "OLIO dei MESSAPI 2016",
-    "8.5e/lt",
-    "",
-    ""
-  ],
-  [
     "",
     "",
     "",
@@ -487,9 +475,9 @@
   ],
   [
     "OLIVE",
-    "4e/kg",
     "",
-    "E"
+    "",
+    ""
   ],
   [
     "",
@@ -602,14 +590,14 @@
   [
     "Birre 750 cl",
     "5",
-    "",
+    "(gialla4.8 chiara-ambrata 5.2-verde rossascura6.5)",
     ""
   ],
   [
     "grappa cabernet",
     "12",
     "",
-    ""
+    "E"
   ],
   [
     "grappa moscato",
@@ -673,19 +661,25 @@
   ],
   [
     "tisane",
-    "",
+    "4",
     "",
     ""
   ],
   [
     "marmellate",
-    "",
+    "4",
     "",
     ""
   ],
   [
     "aceto balsamico invecchaito 12 anni",
     "15",
+    "",
+    ""
+  ],
+  [
+    "aromatiche",
+    "3",
     "",
     ""
   ]
