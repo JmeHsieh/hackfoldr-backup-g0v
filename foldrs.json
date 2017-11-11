@@ -186,6 +186,14 @@
     "updated_at": "2017-11-09T13:52:34Z",
     "url": "http://hackfoldr.org/71"
   },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:38Z",
+    "url": "http://hackfoldr.org/BQ6"
+  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -232,6 +240,15 @@
     "source": "ethercalc",
     "updated_at": "2017-10-28T09:31:09Z",
     "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
+  },
+  "NECTW2014": {
+    "hackpads": [
+      "hQ9RdcSw7Gd",
+      "oamfaAVRL0G"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:49Z",
+    "url": "http://hackfoldr.org/NECTW2014"
   },
   "NEWShackathon": {
     "hackpads": [
@@ -885,6 +902,34 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
   },
+  "g0v-summit-2014": {
+    "hackpads": [
+      "18K1ygginWB",
+      "2yMIDiluZjl",
+      "3lyXBRWG9aT",
+      "6bCN0IjrCoP",
+      "6rgnfJyORtF",
+      "90sXy77lPoI",
+      "CXD0xCBDpEb",
+      "DkIFBHupY2N",
+      "Ht3fhvWBl4v",
+      "NEh2te48UUZ",
+      "No6qCs3hjow",
+      "Opening-Keynote-g0v-unconference-2014",
+      "X6IFjZl2F6f",
+      "YOEzWb7eFqs",
+      "Zp5xamd13gI",
+      "bggRLzo0wTg",
+      "g0v_summit_2014_booth",
+      "hDsmxWeWzcj",
+      "lrsRSCY5iWB",
+      "p2EWyafYeoU",
+      "vbGG4fUeT7u"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
+  },
   "g0v-summit-2014-unconf": {
     "hackpads": [
       "2yMIDiluZjl",
@@ -936,6 +981,31 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016"
+  },
+  "g0v-summit-2016-unconf": {
+    "hackpads": [
+      "6bRe62jc8jv",
+      "8UhvLrHE81x",
+      "8Zi5JH2EltC",
+      "F1PVwK3jCwj",
+      "IYveuPfeRuO",
+      "ODZG8djZDUT",
+      "PUJvbTCUHMF",
+      "U5WzkLul0tw",
+      "UloSQBcjWN8",
+      "UvKq0ZNtwIk",
+      "Zq1GQQwBssI",
+      "arYtAABsi1w",
+      "au3AAVYc5eu",
+      "entb7HCZV20",
+      "omYf9e9nNgt",
+      "pOr2FYQ80GA",
+      "sZULjUqA5TH",
+      "sbVfuocRmEQ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:28:48Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
   },
   "g0v-summit-sop": {
     "hackpads": [
