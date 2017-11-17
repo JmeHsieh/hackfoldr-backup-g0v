@@ -368,6 +368,46 @@
     "updated_at": "2017-02-16T03:17:54Z",
     "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
   },
+  "Taipei-Urban-Agri": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "4a31UkdBItq",
+      "6lGh4ynj6VZ",
+      "7bIfg8O7I7E",
+      "9l8mrCKIUJM",
+      "9zlYTcIKjJo",
+      "AKXincDC83m",
+      "CS7U8OepflN",
+      "EgXumvuNy7Y",
+      "HUytWrSMUnY",
+      "Jj4Njn3Ujpu",
+      "LCoBDLpPOvy",
+      "N6yLqNr6uE5",
+      "PaRBtart6Kz",
+      "PweVf4RMYPF",
+      "RZ479BxNrZk",
+      "S54XwMAHxdc",
+      "SXs878w1qRP",
+      "TD9A9QhjRHI",
+      "TFAw9JeD0L2",
+      "VlksawfStI9",
+      "YM7lSTgngjY",
+      "ZcKvRqGob8o",
+      "auejYcaaclb",
+      "bAbXKYMYwm1",
+      "dWtAZfj6eaC",
+      "eMoZmke6Lc0",
+      "jeGK3UDcBej",
+      "oQOH2uUpiIq",
+      "uBgGwZFpuIN",
+      "wcfXjLPuMyW",
+      "wnYFJMJWTHA",
+      "ynwXa2KWLX2"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-11-09T17:03:30Z",
+    "url": "http://hackfoldr.org/Taipei-Urban-Agri"
+  },
   "Transformation": {
     "hackpads": [
       "uiv8jwEBVCA"
@@ -508,6 +548,19 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://hackfoldr.org/collab"
+  },
+  "congressnetwork": {
+    "hackpads": [
+      "8yZL7bpuGlL",
+      "D9R5oKzYCEX",
+      "Fe3VpeN42w9",
+      "Q28ZQHLxhkK",
+      "gK8LMM5RoTc",
+      "xCd2B9SNTax"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:31Z",
+    "url": "http://hackfoldr.org/congressnetwork"
   },
   "congressoccupied": {
     "hackpads": [
@@ -1023,6 +1076,17 @@
     "updated_at": "2017-02-16T03:20:52Z",
     "url": "http://hackfoldr.org/gian5-gi2_gi2-liau7_phing5-thai5"
   },
+  "glassy": {
+    "hackpads": [
+      "WrtfkiOMcDA",
+      "bGtIRTRWUqx",
+      "hQ9RdcSw7Gd",
+      "ur06eAVZRGo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:54Z",
+    "url": "http://hackfoldr.org/glassy"
+  },
   "gxv": {
     "hackpads": [
       "11-moed7ct",
@@ -1075,6 +1139,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:27:29Z",
     "url": "http://beta.hackfoldr.org/kumamoto0414"
+  },
+  "lazy-artist": {
+    "hackpads": [
+      "w1ebdoNTlld"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:22:21Z",
+    "url": "http://beta.hackfoldr.org/lazy-artist"
   },
   "learners": {
     "hackpads": [
@@ -1303,6 +1375,15 @@
     "source": "ethercalc",
     "updated_at": "2016-12-17T07:36:31Z",
     "url": "http://beta.hackfoldr.org/tpyc"
+  },
+  "tscs": {
+    "hackpads": [
+      "UssOWtAVda9",
+      "mBQaTivThBX"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:16Z",
+    "url": "http://beta.hackfoldr.org/tscs"
   },
   "ttm": {
     "hackpads": [
