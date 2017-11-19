@@ -147,6 +147,15 @@
     "updated_at": "2017-02-16T03:14:38Z",
     "url": "http://hackfoldr.org/2016"
   },
+  "2016-china-airlines-strike": {
+    "hackpads": [
+      "ezz1izpjBgo",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:30:25Z",
+    "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
+  },
   "5050": {
     "hackpads": [
       "IADWzZuAWcJ",
@@ -489,6 +498,22 @@
     "updated_at": "2017-02-16T03:18:58Z",
     "url": "http://beta.hackfoldr.org/cbc2015"
   },
+  "cckitchen": {
+    "hackpads": [
+      "1GGTbzbT5KH",
+      "5p4J9QlJymR",
+      "ORCquVuQrOX",
+      "VT5Bi66TjLd",
+      "ZlxnPcG1xLm",
+      "c5EGTv8UGDB",
+      "cLkae5CfZ0f",
+      "jS8mZtWlSWo",
+      "lXlVKOkiCzA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:20Z",
+    "url": "http://beta.hackfoldr.org/cckitchen"
+  },
   "cctw": {
     "hackpads": [
       "ksq5lc1w2AB"
@@ -536,6 +561,24 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:31Z",
     "url": "http://hackfoldr.org/congressnetwork"
+  },
+  "congressoccupied": {
+    "hackpads": [
+      "0WcQ6crWCdj",
+      "4AKHvZRwM59",
+      "HpwTUS2OShF",
+      "Jpm6Wry0QqM",
+      "KpX6YSUvhfj",
+      "Nkxax2XjzHI",
+      "OvYp3EbwJG6",
+      "ZFYX3EGWQcU",
+      "gGlUisv5cMG",
+      "gK8LMM5RoTc",
+      "xCd2B9SNTax"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:31Z",
+    "url": "http://beta.hackfoldr.org/congressoccupied"
   },
   "coscup2014": {
     "hackpads": [
@@ -595,6 +638,20 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:46Z",
     "url": "http://beta.hackfoldr.org/designer2"
+  },
+  "don-democracy": {
+    "hackpads": [
+      "B00mshNSBbC",
+      "BBRFMB6Ptw6",
+      "OVD9Y2jvmgb",
+      "c5EGTv8UGDB",
+      "i8sqb54lfi8",
+      "sgJX8olKwoV",
+      "vtw-new7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:57Z",
+    "url": "http://beta.hackfoldr.org/don-democracy"
   },
   "doorsign": {
     "hackpads": [
@@ -1240,6 +1297,14 @@
     "updated_at": "2017-04-04T15:58:18Z",
     "url": "http://beta.hackfoldr.org/rumors"
   },
+  "shuanhhe-hackfoldr": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:24:47Z",
+    "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
   "swtcc": {
     "hackpads": [
       "IYApEmPmPI7"
@@ -1293,6 +1358,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan_water1"
+  },
+  "tpebudget": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-11-09T02:33:03Z",
+    "url": "http://beta.hackfoldr.org/tpebudget"
   },
   "tpyc": {
     "hackpads": [
