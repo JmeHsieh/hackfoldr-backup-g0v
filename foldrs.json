@@ -194,14 +194,6 @@
     "updated_at": "2017-02-16T03:17:38Z",
     "url": "http://hackfoldr.org/BQ6"
   },
-  "CharterTaiwan": {
-    "hackpads": [
-      "Charter-of-Taiwan"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:40Z",
-    "url": "http://hackfoldr.org/CharterTaiwan"
-  },
   "DonDonFlower": {
     "hackpads": [
       "TkKoSaKcr7X",
@@ -210,25 +202,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:17:42Z",
     "url": "http://hackfoldr.org/DonDonFlower"
-  },
-  "G8VTV": {
-    "hackpads": [
-      "926nwUKC90j",
-      "ATtAnSyQnOM",
-      "JBDd9hvDt5f",
-      "NY4jgrpicKE",
-      "Wz4J7L9GzdH",
-      "ajIrWkt5IY9",
-      "bGtIRTRWUqx",
-      "f5hFbpOGHXS",
-      "hQ9RdcSw7Gd",
-      "lk9pamtKwyr",
-      "uJPeQo49f9y",
-      "uWYECSdshBJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:45Z",
-    "url": "http://hackfoldr.org/G8VTV"
   },
   "Kaohsiung-explode-20140801": {
     "hackpads": [
@@ -453,26 +426,6 @@
     "updated_at": "2017-02-16T03:18:11Z",
     "url": "http://hackfoldr.org/agriculture"
   },
-  "app4am": {
-    "hackpads": [
-      "3EHKLPXSTny",
-      "5H2xveFL3z2",
-      "8QfHxT2ax7O",
-      "B6eYPQlIeVf",
-      "XAooOila83L",
-      "ZciE63K1hOa",
-      "ZciE63K1hOa_iJboXmcpvDB",
-      "aoKbmAeNTUO",
-      "cHyNZMpAy69",
-      "hangee_hackath0n",
-      "pH5SXyfcsyA",
-      "t69q4dPjAI4",
-      "tHGyDDrkC7y"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:17Z",
-    "url": "http://beta.hackfoldr.org/app4am"
-  },
   "b1rth": {
     "hackpads": [
       "c5EGTv8UGDB"
@@ -489,14 +442,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-19T06:06:32Z",
     "url": "http://beta.hackfoldr.org/callliwei"
-  },
-  "cbc2015": {
-    "hackpads": [
-      "0.tc0noszno3vuby7chp0j54s4i"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:58Z",
-    "url": "http://beta.hackfoldr.org/cbc2015"
   },
   "cckitchen": {
     "hackpads": [
@@ -1304,28 +1249,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:24:47Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
-  },
-  "swtcc": {
-    "hackpads": [
-      "IYApEmPmPI7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2016-11-04T03:50:19Z",
-    "url": "http://beta.hackfoldr.org/swtcc"
-  },
-  "tachung-regionalplan": {
-    "hackpads": [
-      "UIqUYw8Jess",
-      "genda01",
-      "genda02",
-      "genda03",
-      "genda04",
-      "genda05",
-      "j1pafKBmH6y"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:28:15Z",
-    "url": "http://beta.hackfoldr.org/tachung-regionalplan"
   },
   "tai5-uan5_gian5-gi2_phing5-thai5": {
     "hackpads": [
