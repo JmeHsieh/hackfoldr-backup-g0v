@@ -92,6 +92,14 @@
     "updated_at": "2017-04-25T03:56:14Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
   },
+  "1v3anz7jfe_test": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:36:05Z",
+    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
+  },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
       "JOljozPHLS0"
@@ -202,6 +210,25 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:17:42Z",
     "url": "http://hackfoldr.org/DonDonFlower"
+  },
+  "G8VTV": {
+    "hackpads": [
+      "926nwUKC90j",
+      "ATtAnSyQnOM",
+      "JBDd9hvDt5f",
+      "NY4jgrpicKE",
+      "Wz4J7L9GzdH",
+      "ajIrWkt5IY9",
+      "bGtIRTRWUqx",
+      "f5hFbpOGHXS",
+      "hQ9RdcSw7Gd",
+      "lk9pamtKwyr",
+      "uJPeQo49f9y",
+      "uWYECSdshBJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:45Z",
+    "url": "http://hackfoldr.org/G8VTV"
   },
   "Kaohsiung-explode-20140801": {
     "hackpads": [
@@ -340,6 +367,46 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:17:54Z",
     "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
+  },
+  "Taipei-Urban-Agri": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "4a31UkdBItq",
+      "6lGh4ynj6VZ",
+      "7bIfg8O7I7E",
+      "9l8mrCKIUJM",
+      "9zlYTcIKjJo",
+      "AKXincDC83m",
+      "CS7U8OepflN",
+      "EgXumvuNy7Y",
+      "HUytWrSMUnY",
+      "Jj4Njn3Ujpu",
+      "LCoBDLpPOvy",
+      "N6yLqNr6uE5",
+      "PaRBtart6Kz",
+      "PweVf4RMYPF",
+      "RZ479BxNrZk",
+      "S54XwMAHxdc",
+      "SXs878w1qRP",
+      "TD9A9QhjRHI",
+      "TFAw9JeD0L2",
+      "VlksawfStI9",
+      "YM7lSTgngjY",
+      "ZcKvRqGob8o",
+      "auejYcaaclb",
+      "bAbXKYMYwm1",
+      "dWtAZfj6eaC",
+      "eMoZmke6Lc0",
+      "jeGK3UDcBej",
+      "oQOH2uUpiIq",
+      "uBgGwZFpuIN",
+      "wcfXjLPuMyW",
+      "wnYFJMJWTHA",
+      "ynwXa2KWLX2"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-11-09T17:03:30Z",
+    "url": "http://hackfoldr.org/Taipei-Urban-Agri"
   },
   "Transformation": {
     "hackpads": [
@@ -639,6 +706,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:31Z",
     "url": "http://hackfoldr.org/fepz2"
+  },
+  "forest": {
+    "hackpads": [
+      "YOEzWb7eFqs"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:38Z",
+    "url": "http://hackfoldr.org/forest"
   },
   "g0v-cy": {
     "hackpads": [
@@ -1267,6 +1342,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:05Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
+  },
+  "taiwan_water0": {
+    "hackpads": [
+      "yRRVlfb5oJg"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:05Z",
+    "url": "http://beta.hackfoldr.org/taiwan_water0"
   },
   "taiwan_water1": {
     "hackpads": [
