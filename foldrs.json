@@ -147,6 +147,15 @@
     "updated_at": "2017-02-16T03:14:38Z",
     "url": "http://hackfoldr.org/2016"
   },
+  "2016-china-airlines-strike": {
+    "hackpads": [
+      "ezz1izpjBgo",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:30:25Z",
+    "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
+  },
   "5050": {
     "hackpads": [
       "IADWzZuAWcJ",
@@ -176,6 +185,14 @@
     "source": "ethercalc",
     "updated_at": "2017-11-09T13:52:34Z",
     "url": "http://hackfoldr.org/71"
+  },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:38Z",
+    "url": "http://hackfoldr.org/BQ6"
   },
   "CharterTaiwan": {
     "hackpads": [
@@ -212,6 +229,17 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:17:45Z",
     "url": "http://hackfoldr.org/G8VTV"
+  },
+  "Kaohsiung-explode-20140801": {
+    "hackpads": [
+      "3Z0cNF0cWQt",
+      "Nkxax2XjzHI",
+      "S0z70k3PaP4",
+      "c5EGTv8UGDB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-10-28T09:31:09Z",
+    "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
   },
   "NECTW2014": {
     "hackpads": [
@@ -444,6 +472,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:18:17Z",
     "url": "http://beta.hackfoldr.org/app4am"
+  },
+  "b1rth": {
+    "hackpads": [
+      "c5EGTv8UGDB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-05-06T11:54:25Z",
+    "url": "http://beta.hackfoldr.org/b1rth"
   },
   "callliwei": {
     "hackpads": [
@@ -999,6 +1035,18 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2014"
   },
+  "g0v-summit2016": {
+    "hackpads": [
+      "4x3PX5GeLUY",
+      "HN08QTbHngI",
+      "NcINLWCV9fm",
+      "i7gvlz50yhR",
+      "lcykxD96u3Y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit2016"
+  },
   "g0vairmap": {
     "hackpads": [
       "8MQ03kk9wwD",
@@ -1008,6 +1056,17 @@
     "source": "ethercalc",
     "updated_at": "2017-10-13T06:49:47Z",
     "url": "http://beta.hackfoldr.org/g0vairmap"
+  },
+  "g0vus": {
+    "hackpads": [
+      "L8EtAJddcK7",
+      "OoaP1AzVuQL",
+      "jzEIpQBzii2",
+      "n92z0PHzUau"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:45Z",
+    "url": "http://beta.hackfoldr.org/g0vus"
   },
   "gian5-gi2_gi2-liau7_phing5-thai5": {
     "hackpads": [
