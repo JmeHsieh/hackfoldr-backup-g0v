@@ -428,18 +428,6 @@
     "updated_at": "2017-10-08T17:58:18Z",
     "url": "http://hackfoldr.org/abcd"
   },
-  "about": {
-    "hackpads": [
-      "IHFklK0lZTv",
-      "QADGWZSU2Dw",
-      "SC1NEFiB5uQ",
-      "b80fhUVlnBe",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-09-02T08:45:29Z",
-    "url": "http://hackfoldr.org/about"
-  },
   "agriculture": {
     "hackpads": [
       "4l2IH4BazRe",
@@ -982,31 +970,6 @@
     "updated_at": "2017-02-16T03:28:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016"
   },
-  "g0v-summit-2016-unconf": {
-    "hackpads": [
-      "6bRe62jc8jv",
-      "8UhvLrHE81x",
-      "8Zi5JH2EltC",
-      "F1PVwK3jCwj",
-      "IYveuPfeRuO",
-      "ODZG8djZDUT",
-      "PUJvbTCUHMF",
-      "U5WzkLul0tw",
-      "UloSQBcjWN8",
-      "UvKq0ZNtwIk",
-      "Zq1GQQwBssI",
-      "arYtAABsi1w",
-      "au3AAVYc5eu",
-      "entb7HCZV20",
-      "omYf9e9nNgt",
-      "pOr2FYQ80GA",
-      "sZULjUqA5TH",
-      "sbVfuocRmEQ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:28:48Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
-  },
   "g0v-summit-sop": {
     "hackpads": [
       "6LdDXgM5RXr",
@@ -1023,7 +986,7 @@
       "hs7LfjJn1ln"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-11-14T04:46:29Z",
+    "updated_at": "2017-11-27T08:05:07Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-sop"
   },
   "g0v-summit2014": {
@@ -1239,7 +1202,7 @@
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-11-24T04:33:17Z",
+    "updated_at": "2017-11-27T06:20:10Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
@@ -1366,15 +1329,6 @@
     "source": "ethercalc",
     "updated_at": "2017-11-09T02:33:03Z",
     "url": "http://beta.hackfoldr.org/tpebudget"
-  },
-  "tpyc": {
-    "hackpads": [
-      "IYApEmPmPI7",
-      "UKJaTD72joG"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2016-12-17T07:36:31Z",
-    "url": "http://beta.hackfoldr.org/tpyc"
   },
   "tscs": {
     "hackpads": [
