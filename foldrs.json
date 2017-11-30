@@ -147,6 +147,15 @@
     "updated_at": "2017-02-16T03:14:38Z",
     "url": "http://hackfoldr.org/2016"
   },
+  "2016-china-airlines-strike": {
+    "hackpads": [
+      "ezz1izpjBgo",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:30:25Z",
+    "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
+  },
   "5050": {
     "hackpads": [
       "IADWzZuAWcJ",
@@ -1048,6 +1057,17 @@
     "updated_at": "2017-10-13T06:49:47Z",
     "url": "http://beta.hackfoldr.org/g0vairmap"
   },
+  "g0vus": {
+    "hackpads": [
+      "L8EtAJddcK7",
+      "OoaP1AzVuQL",
+      "jzEIpQBzii2",
+      "n92z0PHzUau"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:45Z",
+    "url": "http://beta.hackfoldr.org/g0vus"
+  },
   "gian5-gi2_gi2-liau7_phing5-thai5": {
     "hackpads": [
       "DqitE1wSSIo"
@@ -1372,6 +1392,16 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:25:16Z",
     "url": "http://hackfoldr.org/ttm"
+  },
+  "turtle-cuora": {
+    "hackpads": [
+      "fC9waMmFmnN",
+      "tFDaeOtsSbU",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:17Z",
+    "url": "https://hackfoldr.org/turtle-cuora"
   },
   "urbancodeg0vtw": {
     "hackpads": [
