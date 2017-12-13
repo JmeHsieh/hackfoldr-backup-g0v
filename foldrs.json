@@ -514,6 +514,14 @@
     "updated_at": "2017-02-16T03:19:20Z",
     "url": "http://beta.hackfoldr.org/cckitchen"
   },
+  "cctw": {
+    "hackpads": [
+      "ksq5lc1w2AB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:21Z",
+    "url": "http://beta.hackfoldr.org/cctw"
+  },
   "chinese201407": {
     "hackpads": [
       "8-moed5ct"
@@ -581,6 +589,17 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:33Z",
     "url": "http://hackfoldr.org/coscup2014"
+  },
+  "cultural-heritage": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "AMPMe6YFCFh",
+      "XpdD57S2RIZ",
+      "kFpNNXnO7IQ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:36Z",
+    "url": "http://hackfoldr.org/cultural-heritage"
   },
   "databootcamp": {
     "hackpads": [
@@ -1162,6 +1181,14 @@
     "updated_at": "2017-02-16T03:22:46Z",
     "url": "http://beta.hackfoldr.org/meta"
   },
+  "moztw": {
+    "hackpads": [
+      "t69q4dPjAI4"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-08-18T11:43:24Z",
+    "url": "http://hackfoldr.org/moztw"
+  },
   "mproject": {
     "hackpads": [
       "erUB4Djz1ne"
@@ -1169,6 +1196,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:22:53Z",
     "url": "http://hackfoldr.org/mproject"
+  },
+  "nccucsly": {
+    "hackpads": [
+      "eHQlRxolOG6"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:05Z",
+    "url": "http://beta.hackfoldr.org/nccucsly"
   },
   "newtog0v": {
     "hackpads": [
@@ -1291,6 +1326,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:28:15Z",
     "url": "http://beta.hackfoldr.org/tachung-regionalplan"
+  },
+  "tai5-uan5_gian5-gi2_phing5-thai5": {
+    "hackpads": [
+      "DqitE1wSSIo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:05Z",
+    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
