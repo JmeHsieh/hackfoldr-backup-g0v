@@ -109,7 +109,7 @@
   ],
   [
     "ALBAROSSA (314 ml) (cauzione vasetto 40cent.)",
-    "3",
+    "2.5",
     "",
     ""
   ],
@@ -123,25 +123,25 @@
     "TARALLI",
     "4.5",
     "",
-    "E"
+    ""
   ],
   [
     "FRISE GRANO DURO",
     "4",
     "",
-    "E"
+    ""
   ],
   [
     "FRISE ALTRO TIPO",
     "5.5",
     "",
-    "E"
+    ""
   ],
   [
     "VINO",
     "6",
     "",
-    "E"
+    ""
   ],
   [
     "VIOME",
@@ -165,7 +165,7 @@
     "DADO",
     "6",
     "",
-    "E"
+    ""
   ],
   [
     "",
@@ -189,13 +189,13 @@
     "ORZO MONDO",
     "3 al kg",
     "",
-    ""
+    "E"
   ],
   [
     "MIELE TIGLIO",
     "10 al kg",
     "",
-    ""
+    "E"
   ],
   [
     "MIELE AILANTO",
@@ -231,49 +231,49 @@
     "SENATORE CAPPELLI BIANCA",
     "2.2",
     "",
-    "E"
+    ""
   ],
   [
     "SENATORE CAPPELLI SEMINTEGRALE (pasta)",
     "1.8",
     "",
-    "E"
+    ""
   ],
   [
     "SEMOLA RIMACINATA SENATORE CAPPELLI(impasti)",
     "2.2",
     "",
-    "E"
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI SEMINTEGRALE(impasti)",
     "1.7",
     "",
-    "E"
+    ""
   ],
   [
     "MISCELA DI GRANI ANTICHI INTEGRALE (impasti)",
     "1.4",
     "",
-    "E"
+    ""
   ],
   [
     "FARINA DI FARRO DICOCCUM",
     "3",
     "",
-    "E"
+    ""
   ],
   [
     "FARRO DICOCCUM DECORTICATO IN GRANI",
     "3",
     "",
-    "E"
+    ""
   ],
   [
     "PASTA INTEGRALE",
     "4",
     "",
-    "E"
+    ""
   ],
   [
     "RISO JOLANDA",
@@ -351,7 +351,7 @@
     "PIATTI ARANCIA ROSSA",
     "1.5 al lt",
     "",
-    ""
+    "E"
   ],
   [
     "LAVATRICE LIQUIDO",
@@ -381,7 +381,7 @@
     "LAVATRICE IN POLVERE",
     "2.75 al kg",
     "",
-    ""
+    "E"
   ],
   [
     "MULTIUSO",
@@ -483,7 +483,7 @@
     "FARRO DICOCCUM",
     "3",
     "",
-    "E"
+    ""
   ],
   [
     "OLIVE",
@@ -510,8 +510,8 @@
     ""
   ],
   [
-    "",
-    "",
+    "SOS ROSARNO",
+    "9 al lt",
     "",
     ""
   ],
@@ -615,7 +615,7 @@
     "grappa moscato",
     "10",
     "",
-    ""
+    "E"
   ],
   [
     "grappa cabernet con raspo",
@@ -631,9 +631,9 @@
   ],
   [
     "RIMONCELLO RIMAFLOW 750cl",
-    "11",
+    "11.7",
     "",
-    "E"
+    ""
   ],
   [
     "",
@@ -692,6 +692,18 @@
   [
     "aromatiche",
     "3",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "SALTO DEL CORVO (vini)",
+    "6.5",
     "",
     ""
   ]
