@@ -445,9 +445,9 @@
   ],
   [
     "ARANCE al kg",
+    "1.5",
     "",
-    "",
-    "E"
+    ""
   ],
   [
     "MANDARINI al kg",
@@ -486,6 +486,12 @@
     ""
   ],
   [
+    "FAGIOLI",
+    "7",
+    "",
+    ""
+  ],
+  [
     "OLIVE",
     "",
     "",
@@ -516,14 +522,50 @@
     ""
   ],
   [
-    "",
-    "",
+    "LUPONERO",
+    "10 al lt",
     "",
     ""
   ],
   [
     "SACCHETTI CARTA",
     "0.1",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "ALDO",
+    "",
+    "",
+    ""
+  ],
+  [
+    "MANDORLE COL GUSCIO IMPACCHETTATE",
+    "6",
+    "",
+    ""
+  ],
+  [
+    "MANDORLE COL GUSCIO SFUSE",
+    "5",
+    "",
+    ""
+  ],
+  [
+    "PISTACCHI COL GUSCIO",
+    "16",
+    "",
+    ""
+  ],
+  [
+    "PISTACCHI SGUSCIATI ",
+    "45",
     "",
     ""
   ],
