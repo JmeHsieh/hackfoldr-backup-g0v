@@ -194,6 +194,14 @@
     "updated_at": "2017-02-16T03:17:38Z",
     "url": "http://hackfoldr.org/BQ6"
   },
+  "CharterTaiwan": {
+    "hackpads": [
+      "Charter-of-Taiwan"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:40Z",
+    "url": "http://hackfoldr.org/CharterTaiwan"
+  },
   "DonDonFlower": {
     "hackpads": [
       "TkKoSaKcr7X",
@@ -582,6 +590,17 @@
     "updated_at": "2017-02-16T03:19:33Z",
     "url": "http://hackfoldr.org/coscup2014"
   },
+  "cultural-heritage": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "AMPMe6YFCFh",
+      "XpdD57S2RIZ",
+      "kFpNNXnO7IQ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:36Z",
+    "url": "http://hackfoldr.org/cultural-heritage"
+  },
   "databootcamp": {
     "hackpads": [
       "DpZLa4EWHRu"
@@ -809,7 +828,7 @@
       "ypsdOxN1pDL"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-12-30T23:46:35Z",
+    "updated_at": "2017-12-31T23:31:46Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath2016n"
   },
   "g0v-hackath20n": {
@@ -859,7 +878,7 @@
       "wbV0WQXuBP3"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-12-30T23:38:44Z",
+    "updated_at": "2017-12-31T23:32:11Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath888n"
   },
   "g0v-hackath999n": {
@@ -1283,6 +1302,16 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:24:24Z",
     "url": "http://hackfoldr.org/resistancelive"
+  },
+  "rumors": {
+    "hackpads": [
+      "F1PorqHPw1v",
+      "RMxaA4LYwyn",
+      "Zb4bFLB7pnv"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-04-04T15:58:18Z",
+    "url": "http://beta.hackfoldr.org/rumors"
   },
   "shuanhhe-hackfoldr": {
     "hackpads": [
