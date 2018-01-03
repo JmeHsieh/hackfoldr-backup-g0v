@@ -748,6 +748,14 @@
     "updated_at": "2017-02-16T03:20:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath12n"
   },
+  "g0v-hackath13n": {
+    "hackpads": [
+      "wq7hzi7fOTl"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:20:43Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath13n"
+  },
   "g0v-hackath15n": {
     "hackpads": [
       "DpZLa4EWHRu",
@@ -820,7 +828,7 @@
       "ypsdOxN1pDL"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-01-01T23:55:14Z",
+    "updated_at": "2018-01-02T23:40:35Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath2016n"
   },
   "g0v-hackath20n": {
@@ -857,12 +865,20 @@
     "updated_at": "2017-02-16T03:39:13Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath22n"
   },
+  "g0v-hackath26n": {
+    "hackpads": [
+      "RGwHjqbJ4DK"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-09-16T00:58:06Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath26n"
+  },
   "g0v-hackath888n": {
     "hackpads": [
       "wbV0WQXuBP3"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-01-01T23:49:28Z",
+    "updated_at": "2018-01-02T23:58:32Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath888n"
   },
   "g0v-hackath999n": {
@@ -1047,6 +1063,16 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2016"
   },
+  "g0vairmap": {
+    "hackpads": [
+      "8MQ03kk9wwD",
+      "TexkKFNmqZP",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-10-13T06:49:47Z",
+    "url": "http://beta.hackfoldr.org/g0vairmap"
+  },
   "g0vus": {
     "hackpads": [
       "L8EtAJddcK7",
@@ -1229,7 +1255,7 @@
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2017-12-28T02:02:04Z",
+    "updated_at": "2018-01-02T04:25:22Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
@@ -1248,6 +1274,15 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:51Z",
     "url": "http://beta.hackfoldr.org/ppt"
+  },
+  "president2016-folder": {
+    "hackpads": [
+      "10-moed12ct",
+      "fC9waMmFmnN"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:23:52Z",
+    "url": "http://beta.hackfoldr.org/president2016-folder"
   },
   "projectpool": {
     "hackpads": [
@@ -1293,6 +1328,28 @@
     "source": "ethercalc",
     "updated_at": "2016-11-04T03:50:19Z",
     "url": "http://beta.hackfoldr.org/swtcc"
+  },
+  "tachung-regionalplan": {
+    "hackpads": [
+      "UIqUYw8Jess",
+      "genda01",
+      "genda02",
+      "genda03",
+      "genda04",
+      "genda05",
+      "j1pafKBmH6y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:28:15Z",
+    "url": "http://beta.hackfoldr.org/tachung-regionalplan"
+  },
+  "tai5-uan5_gian5-gi2_phing5-thai5": {
+    "hackpads": [
+      "DqitE1wSSIo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:25:05Z",
+    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
