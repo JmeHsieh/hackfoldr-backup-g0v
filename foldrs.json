@@ -156,6 +156,15 @@
     "updated_at": "2017-12-04T15:32:10Z",
     "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
   },
+  "5050": {
+    "hackpads": [
+      "IADWzZuAWcJ",
+      "sU3bohwTXDA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:15:52Z",
+    "url": "http://hackfoldr.org/5050"
+  },
   "627pray": {
     "hackpads": [
       "CCTD1E5e3xz",
@@ -504,6 +513,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:20Z",
     "url": "http://beta.hackfoldr.org/cckitchen"
+  },
+  "cctw": {
+    "hackpads": [
+      "ksq5lc1w2AB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:19:21Z",
+    "url": "http://beta.hackfoldr.org/cctw"
   },
   "chinese201407": {
     "hackpads": [
@@ -1106,6 +1123,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:21:00Z",
     "url": "http://beta.hackfoldr.org/gxv"
+  },
+  "hackfoldrtest": {
+    "hackpads": [
+      "VVlHNqKaQrC"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:21:07Z",
+    "url": "http://hackfoldr.org/hackfoldrtest"
   },
   "inLiveTW": {
     "hackpads": [
