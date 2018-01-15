@@ -273,14 +273,6 @@
     "updated_at": "2017-10-28T20:27:57Z",
     "url": "http://beta.hackfoldr.org/NEWShackathon"
   },
-  "National_Land_Use_Planning_Act_Workshop": {
-    "hackpads": [
-      "C3IV9TnwIUJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:27:33Z",
-    "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
-  },
   "OpenGeoData": {
     "hackpads": [
       "3Z0cNF0cWQt",
@@ -427,18 +419,6 @@
     "source": "ethercalc",
     "updated_at": "2017-10-08T17:58:18Z",
     "url": "http://hackfoldr.org/abcd"
-  },
-  "about": {
-    "hackpads": [
-      "IHFklK0lZTv",
-      "QADGWZSU2Dw",
-      "SC1NEFiB5uQ",
-      "b80fhUVlnBe",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-09-02T08:45:29Z",
-    "url": "http://hackfoldr.org/about"
   },
   "agriculture": {
     "hackpads": [
@@ -608,17 +588,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:19:44Z",
     "url": "http://hackfoldr.org/databootcamp"
-  },
-  "dbootcamp": {
-    "hackpads": [
-      "9dYauJC7x8I",
-      "DpZLa4EWHRu",
-      "VC7nNkKM0mW",
-      "u11LBDZBE67"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:19:45Z",
-    "url": "http://beta.hackfoldr.org/dbootcamp"
   },
   "designer": {
     "hackpads": [
@@ -1164,14 +1133,6 @@
     "updated_at": "2017-02-16T03:22:21Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
   },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:22:26Z",
-    "url": "http://beta.hackfoldr.org/learners"
-  },
   "legcolive": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1212,14 +1173,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:22:53Z",
     "url": "http://hackfoldr.org/mproject"
-  },
-  "nccucsly": {
-    "hackpads": [
-      "eHQlRxolOG6"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:05Z",
-    "url": "http://beta.hackfoldr.org/nccucsly"
   },
   "newtog0v": {
     "hackpads": [
@@ -1274,25 +1227,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:23:51Z",
     "url": "http://beta.hackfoldr.org/ppt"
-  },
-  "president2016-folder": {
-    "hackpads": [
-      "10-moed12ct",
-      "fC9waMmFmnN"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:52Z",
-    "url": "http://beta.hackfoldr.org/president2016-folder"
-  },
-  "projectpool": {
-    "hackpads": [
-      "VRCKFQ0jJ1B",
-      "uJPeQo49f9y",
-      "weScR5YVcZs"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:23:53Z",
-    "url": "http://hackfoldr.org/projectpool"
   },
   "resistancelive": {
     "hackpads": [
