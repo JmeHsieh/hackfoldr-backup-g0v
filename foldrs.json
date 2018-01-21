@@ -368,46 +368,6 @@
     "updated_at": "2017-02-16T03:17:54Z",
     "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
   },
-  "Taipei-Urban-Agri": {
-    "hackpads": [
-      "09RaHIX5QCC",
-      "4a31UkdBItq",
-      "6lGh4ynj6VZ",
-      "7bIfg8O7I7E",
-      "9l8mrCKIUJM",
-      "9zlYTcIKjJo",
-      "AKXincDC83m",
-      "CS7U8OepflN",
-      "EgXumvuNy7Y",
-      "HUytWrSMUnY",
-      "Jj4Njn3Ujpu",
-      "LCoBDLpPOvy",
-      "N6yLqNr6uE5",
-      "PaRBtart6Kz",
-      "PweVf4RMYPF",
-      "RZ479BxNrZk",
-      "S54XwMAHxdc",
-      "SXs878w1qRP",
-      "TD9A9QhjRHI",
-      "TFAw9JeD0L2",
-      "VlksawfStI9",
-      "YM7lSTgngjY",
-      "ZcKvRqGob8o",
-      "auejYcaaclb",
-      "bAbXKYMYwm1",
-      "dWtAZfj6eaC",
-      "eMoZmke6Lc0",
-      "jeGK3UDcBej",
-      "oQOH2uUpiIq",
-      "uBgGwZFpuIN",
-      "wcfXjLPuMyW",
-      "wnYFJMJWTHA",
-      "ynwXa2KWLX2"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-11-09T17:03:30Z",
-    "url": "http://hackfoldr.org/Taipei-Urban-Agri"
-  },
   "Transformation": {
     "hackpads": [
       "uiv8jwEBVCA"
@@ -699,14 +659,6 @@
     "updated_at": "2017-02-16T03:20:20Z",
     "url": "http://hackfoldr.org/everstudy"
   },
-  "fepz2": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:31Z",
-    "url": "http://hackfoldr.org/fepz2"
-  },
   "forest": {
     "hackpads": [
       "YOEzWb7eFqs"
@@ -842,16 +794,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:29:39Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath20n"
-  },
-  "g0v-hackath21n": {
-    "hackpads": [
-      "2rFuHdP1jxq",
-      "CJuzyTDJfbk",
-      "czxXPBK3Jvf"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-05-08T02:40:31Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath21n"
   },
   "g0v-hackath22n": {
     "hackpads": [
