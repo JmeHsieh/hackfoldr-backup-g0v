@@ -48,30 +48,6 @@
     "E"
   ],
   [
-    "PASTA MATTEO PARIS",
-    "",
-    "",
-    ""
-  ],
-  [
-    "FARRO SEMINTEGRALE (al kg)",
-    "4.4",
-    "",
-    "E"
-  ],
-  [
-    "SEMINTEGRALE SENATORE CAPPELLI (al kg)",
-    "4",
-    "",
-    "E"
-  ],
-  [
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "AUTOPRODUZIONE GIAZ",
     "",
     "",
@@ -318,24 +294,6 @@
     "E"
   ],
   [
-    "FRATTA",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
-    "",
-    "",
-    "",
-    ""
-  ],
-  [
     "DETERSIVI GREENWOOD",
     "",
     "",
@@ -438,24 +396,6 @@
     ""
   ],
   [
-    "LIMONI al kg",
-    "",
-    "",
-    "E"
-  ],
-  [
-    "ARANCE al kg",
-    "1.5",
-    "",
-    ""
-  ],
-  [
-    "MANDARINI al kg",
-    "",
-    "",
-    "E"
-  ],
-  [
     "LA LENTICCHIA (Forlì)",
     "",
     "",
@@ -474,12 +414,6 @@
     "E"
   ],
   [
-    "CECI",
-    "3",
-    "",
-    ""
-  ],
-  [
     "FARRO DICOCCUM",
     "3",
     "",
@@ -492,13 +426,13 @@
     ""
   ],
   [
-    "OLIVE",
-    "",
+    "CECI IL BIRICOCCOLO",
+    "2.8",
     "",
     ""
   ],
   [
-    "",
+    "OLIVE",
     "",
     "",
     ""
@@ -576,66 +510,6 @@
     ""
   ],
   [
-    "ANDREA MANCINI",
-    "",
-    "",
-    ""
-  ],
-  [
-    "Marmellata Mela (grande)",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "Marmellata Mela (piccolo)",
-    "2",
-    "",
-    "E"
-  ],
-  [
-    "Marmellata Arance(grande)",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "Marmellata Fichi(grande)",
-    "3.5",
-    "",
-    "E"
-  ],
-  [
-    "Marmellata Kiwi (piccolo)",
-    "2",
-    "",
-    "E"
-  ],
-  [
-    "Marmellata Melone (piccolo)",
-    "2",
-    "",
-    "E"
-  ],
-  [
-    "Conserva Piccantino",
-    "2.5",
-    "",
-    "E"
-  ],
-  [
-    "Conserva Pomodori secchi",
-    "2.5",
-    "",
-    "E"
-  ],
-  [
-    "Crema viso seta-aloe",
-    "6",
-    "",
-    "E"
-  ],
-  [
     "SELVATICA",
     "",
     "",
@@ -645,7 +519,7 @@
     "Birre 750 cl",
     "5",
     "(gialla4.8 chiara-ambrata 5.2-verde rossascura6.5)",
-    ""
+    "E"
   ],
   [
     "grappa cabernet",
@@ -699,7 +573,7 @@
     "vino bag in box",
     "2,4 al litro",
     "",
-    ""
+    "E"
   ],
   [
     "",
@@ -746,6 +620,30 @@
   [
     "SALTO DEL CORVO (vini)",
     "6.5",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
+    "BISCOTTI SALTAFOSSI",
+    "",
+    "",
+    ""
+  ],
+  [
+    "FARRO SOFFIATO",
+    "0.70 etto",
+    "",
+    ""
+  ],
+  [
+    "SCIROPPO SAMBUCO(ELENA/SASHA)",
+    "",
     "",
     ""
   ]
