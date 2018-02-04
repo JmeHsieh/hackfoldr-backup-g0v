@@ -156,15 +156,6 @@
     "updated_at": "2017-12-04T15:32:10Z",
     "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
   },
-  "5050": {
-    "hackpads": [
-      "IADWzZuAWcJ",
-      "sU3bohwTXDA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:15:52Z",
-    "url": "http://hackfoldr.org/5050"
-  },
   "627pray": {
     "hackpads": [
       "CCTD1E5e3xz",
@@ -185,14 +176,6 @@
     "source": "ethercalc",
     "updated_at": "2017-12-28T15:03:15Z",
     "url": "http://hackfoldr.org/71"
-  },
-  "BQ6": {
-    "hackpads": [
-      "OrLtCDomwEj"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:38Z",
-    "url": "http://hackfoldr.org/BQ6"
   },
   "CharterTaiwan": {
     "hackpads": [
@@ -946,58 +929,6 @@
     "updated_at": "2017-02-16T03:20:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2014"
   },
-  "g0v-summit-2014-unconf": {
-    "hackpads": [
-      "2yMIDiluZjl",
-      "3aqbKGeYITl",
-      "3lyXBRWG9aT",
-      "4psifYRIWBJ",
-      "6oAR9BlZDoH",
-      "6oAR9BlZDoH_5YYCdsooOXJ",
-      "90sXy77lPoI",
-      "BXlqDUNDiV6",
-      "CXD0xCBDpEb",
-      "F4H5ihacTqi",
-      "KofRByGxsDS",
-      "NEh2te48UUZ",
-      "Opening-Keynote-g0v-unconference-2014",
-      "XEOeztx7NZY",
-      "YOEzWb7eFqs",
-      "pkTxSGpSR5N",
-      "r0ENYksG3iL",
-      "ryHihN8sMxq",
-      "vbGG4fUeT7u",
-      "xVNTqscK1yj",
-      "yzRKU3S0rs5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
-  },
-  "g0v-summit-2016": {
-    "hackpads": [
-      "2ldPbEHoVJ0",
-      "DJ7foRA6AP8",
-      "Htu2dreORri",
-      "IO3yuCtm1Hd",
-      "IblOqVBEF77",
-      "JInleB0ScUh",
-      "NbpdYZkgY6D",
-      "RW9M2GMq3Rp",
-      "UFvxbyoxsL4",
-      "fWzItNPmxHE",
-      "iSbcxP4yRXo",
-      "iV3U1MV02bw",
-      "m8TWjU6SYT1",
-      "pcVJJEsgYP3",
-      "ve3zOKXeycf",
-      "w01v8lrMLTY",
-      "xaFW7cIYtsr"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:28:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2016"
-  },
   "g0v-summit-2016-unconf": {
     "hackpads": [
       "6bRe62jc8jv",
@@ -1163,14 +1094,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:22:21Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
-  },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:22:26Z",
-    "url": "http://beta.hackfoldr.org/learners"
   },
   "legcolive": {
     "hackpads": [
