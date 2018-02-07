@@ -186,14 +186,6 @@
     "updated_at": "2017-12-28T15:03:15Z",
     "url": "http://hackfoldr.org/71"
   },
-  "BQ6": {
-    "hackpads": [
-      "OrLtCDomwEj"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:17:38Z",
-    "url": "http://hackfoldr.org/BQ6"
-  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -756,18 +748,6 @@
     "updated_at": "2017-02-16T03:20:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath13n"
   },
-  "g0v-hackath15n": {
-    "hackpads": [
-      "DpZLa4EWHRu",
-      "PDcyvmvVw7C",
-      "TfgqULgTNRv",
-      "X1c3yTkjczT",
-      "l5qLhp0515j"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:20:43Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath15n"
-  },
   "g0v-hackath16n": {
     "hackpads": [
       "I1B2ESxu33a",
@@ -1320,14 +1300,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:24:47Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
-  },
-  "swtcc": {
-    "hackpads": [
-      "IYApEmPmPI7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2016-11-04T03:50:19Z",
-    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
