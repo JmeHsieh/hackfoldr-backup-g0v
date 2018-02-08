@@ -186,6 +186,14 @@
     "updated_at": "2017-12-28T15:03:15Z",
     "url": "http://hackfoldr.org/71"
   },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2017-02-16T03:17:38Z",
+    "url": "http://hackfoldr.org/BQ6"
+  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -431,19 +439,6 @@
     "source": "ethercalc",
     "updated_at": "2017-09-02T08:45:29Z",
     "url": "http://hackfoldr.org/about"
-  },
-  "agriculture": {
-    "hackpads": [
-      "4l2IH4BazRe",
-      "8-moed5ct",
-      "9-moed6ct",
-      "EgXumvuNy7Y",
-      "hQ9RdcSw7Gd",
-      "jAFuERTpDC5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:18:11Z",
-    "url": "http://hackfoldr.org/agriculture"
   },
   "app4am": {
     "hackpads": [
@@ -748,15 +743,17 @@
     "updated_at": "2017-02-16T03:20:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath13n"
   },
-  "g0v-hackath16n": {
+  "g0v-hackath15n": {
     "hackpads": [
-      "I1B2ESxu33a",
-      "KJ3iqNO38qG",
-      "ph1BnsFtoVJ"
+      "DpZLa4EWHRu",
+      "PDcyvmvVw7C",
+      "TfgqULgTNRv",
+      "X1c3yTkjczT",
+      "l5qLhp0515j"
     ],
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:20:43Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath16n"
+    "url": "http://beta.hackfoldr.org/g0v-hackath15n"
   },
   "g0v-hackath17n": {
     "hackpads": [
@@ -978,31 +975,6 @@
     "updated_at": "2017-02-16T03:28:44Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016"
   },
-  "g0v-summit-2016-unconf": {
-    "hackpads": [
-      "6bRe62jc8jv",
-      "8UhvLrHE81x",
-      "8Zi5JH2EltC",
-      "F1PVwK3jCwj",
-      "IYveuPfeRuO",
-      "ODZG8djZDUT",
-      "PUJvbTCUHMF",
-      "U5WzkLul0tw",
-      "UloSQBcjWN8",
-      "UvKq0ZNtwIk",
-      "Zq1GQQwBssI",
-      "arYtAABsi1w",
-      "au3AAVYc5eu",
-      "entb7HCZV20",
-      "omYf9e9nNgt",
-      "pOr2FYQ80GA",
-      "sZULjUqA5TH",
-      "sbVfuocRmEQ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:28:48Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
-  },
   "g0v-summit-sop": {
     "hackpads": [
       "6LdDXgM5RXr",
@@ -1143,14 +1115,6 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:22:21Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
-  },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2017-02-16T03:22:26Z",
-    "url": "http://beta.hackfoldr.org/learners"
   },
   "legcolive": {
     "hackpads": [
@@ -1300,6 +1264,14 @@
     "source": "ethercalc",
     "updated_at": "2017-02-16T03:24:47Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
+  "swtcc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-11-04T03:50:19Z",
+    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
