@@ -1188,15 +1188,6 @@
     "updated_at": "2018-02-13T06:31:01Z",
     "url": "http://hackfoldr.org/lovenent"
   },
-  "meta": {
-    "hackpads": [
-      "IvlC3MmKsS8",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:31:32Z",
-    "url": "http://beta.hackfoldr.org/meta"
-  },
   "moztw": {
     "hackpads": [
       "t69q4dPjAI4"
@@ -1418,22 +1409,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:17Z",
     "url": "https://hackfoldr.org/turtle-cuora"
-  },
-  "urbancodeg0vtw": {
-    "hackpads": [
-      "BpW2Xt7s8AH",
-      "Fy5roPxroAg",
-      "Gvfkil2kX3W",
-      "K5IAmJk80CC",
-      "f3z18AeU2uH",
-      "jJ5XWEtvXZV",
-      "nrkXHXZnoTo",
-      "pJUQ0AGRCO1",
-      "y7f4dxUB2oh"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:40:53Z",
-    "url": "http://hackfoldr.org/urbancodeg0vtw"
   },
   "wethepeople": {
     "hackpads": [
