@@ -539,6 +539,16 @@
     "updated_at": "2018-02-13T06:22:29Z",
     "url": "http://beta.hackfoldr.org/code4hk"
   },
+  "collab": {
+    "hackpads": [
+      "UryZhfUuU6w",
+      "dVyaLcWGdNA",
+      "kOaEUZgLwzS"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:29Z",
+    "url": "http://hackfoldr.org/collab"
+  },
   "congressnetwork": {
     "hackpads": [
       "8yZL7bpuGlL",
@@ -1114,6 +1124,14 @@
     "updated_at": "2018-02-13T06:26:20Z",
     "url": "http://beta.hackfoldr.org/gxv"
   },
+  "hackfoldrtest": {
+    "hackpads": [
+      "VVlHNqKaQrC"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:26:45Z",
+    "url": "http://hackfoldr.org/hackfoldrtest"
+  },
   "inLiveTW": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1195,6 +1213,14 @@
     "updated_at": "2018-02-13T06:32:09Z",
     "url": "http://hackfoldr.org/mproject"
   },
+  "nccucsly": {
+    "hackpads": [
+      "eHQlRxolOG6"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:32:41Z",
+    "url": "http://beta.hackfoldr.org/nccucsly"
+  },
   "newtog0v": {
     "hackpads": [
       "Iun4h6yW2qU"
@@ -1267,6 +1293,15 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
+  },
+  "resistancelive": {
+    "hackpads": [
+      "hQ9RdcSw7Gd",
+      "p0QRvaiMT6P"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:35:37Z",
+    "url": "http://hackfoldr.org/resistancelive"
   },
   "rumors": {
     "hackpads": [
