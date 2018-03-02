@@ -108,17 +108,6 @@
     "updated_at": "2016-04-16T22:05:56Z",
     "url": "http://beta.hackfoldr.org/1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8"
   },
-  "2014ccsp": {
-    "hackpads": [
-      "MALSFDEWRN9",
-      "QZ7WShK1gPu",
-      "hQ9RdcSw7Gd",
-      "lk9pamtKwyr"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:05:43Z",
-    "url": "http://hackfoldr.org/2014ccsp"
-  },
   "2014iNGO": {
     "hackpads": [
       "0.1ro21dob7mj",
@@ -416,18 +405,6 @@
     "updated_at": "2018-02-13T06:12:37Z",
     "url": "http://hackfoldr.org/Transformation"
   },
-  "abcd": {
-    "hackpads": [
-      "5wAe15kaWeY",
-      "7AfW6j0CHwV",
-      "LCoBDLpPOvy",
-      "VU6OAHlbqwu",
-      "dVyaLcWGdNA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:48Z",
-    "url": "http://hackfoldr.org/abcd"
-  },
   "about": {
     "hackpads": [
       "IHFklK0lZTv",
@@ -513,14 +490,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:02Z",
     "url": "http://beta.hackfoldr.org/cckitchen"
-  },
-  "cctw": {
-    "hackpads": [
-      "ksq5lc1w2AB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:07Z",
-    "url": "http://beta.hackfoldr.org/cctw"
   },
   "chinese201407": {
     "hackpads": [
@@ -777,15 +746,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath16n"
-  },
-  "g0v-hackath17n": {
-    "hackpads": [
-      "KJ3iqNO38qG",
-      "TfgqULgTNRv"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath17n"
   },
   "g0v-hackath18n": {
     "hackpads": [
@@ -1237,25 +1197,12 @@
     "updated_at": "2018-02-13T06:32:52Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
   },
-  "open-budget": {
-    "hackpads": [
-      "8Ww9SaoB1up",
-      "FoVI6xhJJ32",
-      "Fy5roPxroAg",
-      "L90jkftmfxn",
-      "PycBHXfQPHM",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:33:35Z",
-    "url": "http://hackfoldr.org/open-budget"
-  },
   "pidandoufou": {
     "hackpads": [
       "PDrdUgO6vA6"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-02-13T06:34:23Z",
+    "updated_at": "2018-03-01T13:43:26Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
   "ppt": {
@@ -1366,14 +1313,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan_water0"
-  },
-  "taiwan_water1": {
-    "hackpads": [
-      "yRRVlfb5oJg"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:39:46Z",
-    "url": "http://beta.hackfoldr.org/taiwan_water1"
   },
   "tpebudget": {
     "hackpads": [
