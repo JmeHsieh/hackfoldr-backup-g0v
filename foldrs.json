@@ -178,14 +178,6 @@
     "updated_at": "2018-02-13T06:08:20Z",
     "url": "http://beta.hackfoldr.org/627pray"
   },
-  "71": {
-    "hackpads": [
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-26T16:42:09Z",
-    "url": "http://hackfoldr.org/71"
-  },
   "BQ6": {
     "hackpads": [
       "OrLtCDomwEj"
@@ -280,23 +272,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:45:08Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
-  },
-  "OpenGeoData": {
-    "hackpads": [
-      "3Z0cNF0cWQt",
-      "Du1lc6bUdn8",
-      "Fy5roPxroAg",
-      "Umbr1mZcESH",
-      "YOEzWb7eFqs",
-      "b6gTMfhXMYY",
-      "dVyaLcWGdNA",
-      "kFpNNXnO7IQ",
-      "qSFITFaEbfT",
-      "zTxOdzteICt"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:22Z",
-    "url": "http://hackfoldr.org/OpenGeoData"
   },
   "POPonFire": {
     "hackpads": [
@@ -945,34 +920,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2014"
-  },
-  "g0v-summit-2014-unconf": {
-    "hackpads": [
-      "2yMIDiluZjl",
-      "3aqbKGeYITl",
-      "3lyXBRWG9aT",
-      "4psifYRIWBJ",
-      "6oAR9BlZDoH",
-      "6oAR9BlZDoH_5YYCdsooOXJ",
-      "90sXy77lPoI",
-      "BXlqDUNDiV6",
-      "CXD0xCBDpEb",
-      "F4H5ihacTqi",
-      "KofRByGxsDS",
-      "NEh2te48UUZ",
-      "Opening-Keynote-g0v-unconference-2014",
-      "XEOeztx7NZY",
-      "YOEzWb7eFqs",
-      "pkTxSGpSR5N",
-      "r0ENYksG3iL",
-      "ryHihN8sMxq",
-      "vbGG4fUeT7u",
-      "xVNTqscK1yj",
-      "yzRKU3S0rs5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
   },
   "g0v-summit-2016": {
     "hackpads": [
