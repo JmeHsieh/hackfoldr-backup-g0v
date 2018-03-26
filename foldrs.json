@@ -440,19 +440,6 @@
     "updated_at": "2018-02-13T06:12:48Z",
     "url": "http://hackfoldr.org/about"
   },
-  "agriculture": {
-    "hackpads": [
-      "4l2IH4BazRe",
-      "8-moed5ct",
-      "9-moed6ct",
-      "EgXumvuNy7Y",
-      "hQ9RdcSw7Gd",
-      "jAFuERTpDC5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:13:39Z",
-    "url": "http://hackfoldr.org/agriculture"
-  },
   "app4am": {
     "hackpads": [
       "3EHKLPXSTny",
@@ -580,16 +567,6 @@
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
   },
-  "coscup2014": {
-    "hackpads": [
-      "5hbXGHDvCRX",
-      "LJwytNALgOR",
-      "gVkOW9b3FU8"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:33Z",
-    "url": "http://hackfoldr.org/coscup2014"
-  },
   "cultural-heritage": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -639,20 +616,6 @@
     "updated_at": "2018-02-13T06:23:05Z",
     "url": "http://beta.hackfoldr.org/designer2"
   },
-  "don-democracy": {
-    "hackpads": [
-      "B00mshNSBbC",
-      "BBRFMB6Ptw6",
-      "OVD9Y2jvmgb",
-      "c5EGTv8UGDB",
-      "i8sqb54lfi8",
-      "sgJX8olKwoV",
-      "vtw-new7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:23:42Z",
-    "url": "http://beta.hackfoldr.org/don-democracy"
-  },
   "doorsign": {
     "hackpads": [
       "7ndCfX4RoBm"
@@ -668,23 +631,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:44Z",
     "url": "http://beta.hackfoldr.org/drinking-water"
-  },
-  "em": {
-    "hackpads": [
-      "1qrg5FHN9Oq",
-      "FqWEr4YDioB",
-      "IBTEm3eVey7",
-      "KN3lSiMxhXT",
-      "OuKPhRcISBm",
-      "V0oyekQAWfv",
-      "e8p5nB6tz85",
-      "mWlPrCBDoyw",
-      "nSWKQzUGB3Q",
-      "sLd9sHTIo9H"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:24:28Z",
-    "url": "http://beta.hackfoldr.org/em"
   },
   "everstudy": {
     "hackpads": [
