@@ -92,6 +92,14 @@
     "updated_at": "2017-04-25T03:56:14Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
   },
+  "1v3anz7jfe_test": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:09:24Z",
+    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
+  },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
       "JOljozPHLS0"
@@ -351,6 +359,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:12:23Z",
     "url": "http://hackfoldr.org/POPonFire"
+  },
+  "TPEDisasterSummary": {
+    "hackpads": [
+      "tQoaOuOYp8U"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:12:37Z",
+    "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
   },
   "Taipei-Urban-Agri": {
     "hackpads": [
@@ -636,6 +652,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:42Z",
     "url": "http://beta.hackfoldr.org/don-democracy"
+  },
+  "doorsign": {
+    "hackpads": [
+      "7ndCfX4RoBm"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:23:42Z",
+    "url": "http://beta.hackfoldr.org/doorsign"
   },
   "drinking-water": {
     "hackpads": [
@@ -1147,6 +1171,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:30:48Z",
     "url": "http://beta.hackfoldr.org/learners"
+  },
+  "legcolive": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:30:48Z",
+    "url": "http://hackfoldr.org/legcolive"
+  },
+  "lovenent": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:31:01Z",
+    "url": "http://hackfoldr.org/lovenent"
   },
   "meta": {
     "hackpads": [
