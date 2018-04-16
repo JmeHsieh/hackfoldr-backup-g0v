@@ -211,25 +211,6 @@
     "updated_at": "2018-02-13T06:12:06Z",
     "url": "http://hackfoldr.org/DonDonFlower"
   },
-  "G8VTV": {
-    "hackpads": [
-      "926nwUKC90j",
-      "ATtAnSyQnOM",
-      "JBDd9hvDt5f",
-      "NY4jgrpicKE",
-      "Wz4J7L9GzdH",
-      "ajIrWkt5IY9",
-      "bGtIRTRWUqx",
-      "f5hFbpOGHXS",
-      "hQ9RdcSw7Gd",
-      "lk9pamtKwyr",
-      "uJPeQo49f9y",
-      "uWYECSdshBJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:10Z",
-    "url": "http://hackfoldr.org/G8VTV"
-  },
   "Kaohsiung-explode-20140801": {
     "hackpads": [
       "3Z0cNF0cWQt",
@@ -590,17 +571,6 @@
     "updated_at": "2018-02-13T06:22:33Z",
     "url": "http://hackfoldr.org/coscup2014"
   },
-  "cultural-heritage": {
-    "hackpads": [
-      "09RaHIX5QCC",
-      "AMPMe6YFCFh",
-      "XpdD57S2RIZ",
-      "kFpNNXnO7IQ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:46Z",
-    "url": "http://hackfoldr.org/cultural-heritage"
-  },
   "databootcamp": {
     "hackpads": [
       "DpZLa4EWHRu"
@@ -638,20 +608,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:05Z",
     "url": "http://beta.hackfoldr.org/designer2"
-  },
-  "don-democracy": {
-    "hackpads": [
-      "B00mshNSBbC",
-      "BBRFMB6Ptw6",
-      "OVD9Y2jvmgb",
-      "c5EGTv8UGDB",
-      "i8sqb54lfi8",
-      "sgJX8olKwoV",
-      "vtw-new7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:23:42Z",
-    "url": "http://beta.hackfoldr.org/don-democracy"
   },
   "doorsign": {
     "hackpads": [
@@ -767,16 +723,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath15n"
-  },
-  "g0v-hackath16n": {
-    "hackpads": [
-      "I1B2ESxu33a",
-      "KJ3iqNO38qG",
-      "ph1BnsFtoVJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath16n"
   },
   "g0v-hackath17n": {
     "hackpads": [
@@ -1179,14 +1125,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:30:48Z",
     "url": "http://hackfoldr.org/legcolive"
-  },
-  "lovenent": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:31:01Z",
-    "url": "http://hackfoldr.org/lovenent"
   },
   "meta": {
     "hackpads": [
