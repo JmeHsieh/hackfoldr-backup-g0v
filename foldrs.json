@@ -119,6 +119,17 @@
     "updated_at": "2018-02-13T06:05:43Z",
     "url": "http://hackfoldr.org/2014ccsp"
   },
+  "2014iNGO": {
+    "hackpads": [
+      "0.1ro21dob7mj",
+      "0.arr7vsjq7uy2e29",
+      "0.eala6nxotk0jatt9",
+      "0.zv996thlc5rn3ik9"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:05:43Z",
+    "url": "http://beta.hackfoldr.org/2014iNGO"
+  },
   "2015-07-11": {
     "hackpads": [
       "X4bWlGs0MuJ",
@@ -862,6 +873,14 @@
     "updated_at": "2018-02-13T06:54:41Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
   },
+  "g0v-hackath888n": {
+    "hackpads": [
+      "wbV0WQXuBP3"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T14:22:36Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath888n"
+  },
   "g0v-hackath999n": {
     "hackpads": [
       "uuibFlokbjJ"
@@ -1363,6 +1382,15 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:13Z",
     "url": "http://beta.hackfoldr.org/tpebudget"
+  },
+  "tpyc": {
+    "hackpads": [
+      "IYApEmPmPI7",
+      "UKJaTD72joG"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-12-17T07:36:31Z",
+    "url": "http://beta.hackfoldr.org/tpyc"
   },
   "tscs": {
     "hackpads": [
