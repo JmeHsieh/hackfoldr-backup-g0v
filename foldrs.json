@@ -831,18 +831,6 @@
     "updated_at": "2018-02-13T14:36:56Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath2016n"
   },
-  "g0v-hackath20n": {
-    "hackpads": [
-      "QyHg0ERnQ39",
-      "SxJ4GQmkXD6",
-      "czxXPBK3Jvf",
-      "jgeT58GTL5H",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:50:11Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath20n"
-  },
   "g0v-hackath21n": {
     "hackpads": [
       "2rFuHdP1jxq",
@@ -1294,15 +1282,6 @@
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
   },
-  "resistancelive": {
-    "hackpads": [
-      "hQ9RdcSw7Gd",
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:35:37Z",
-    "url": "http://hackfoldr.org/resistancelive"
-  },
   "rumors": {
     "hackpads": [
       "F1PorqHPw1v",
@@ -1342,14 +1321,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:46:22Z",
     "url": "http://beta.hackfoldr.org/tachung-regionalplan"
-  },
-  "tai5-uan5_gian5-gi2_phing5-thai5": {
-    "hackpads": [
-      "DqitE1wSSIo"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:39:46Z",
-    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
@@ -1391,15 +1362,6 @@
     "source": "ethercalc",
     "updated_at": "2016-12-17T07:36:31Z",
     "url": "http://beta.hackfoldr.org/tpyc"
-  },
-  "tscs": {
-    "hackpads": [
-      "UssOWtAVda9",
-      "mBQaTivThBX"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:40:16Z",
-    "url": "http://beta.hackfoldr.org/tscs"
   },
   "ttm": {
     "hackpads": [
