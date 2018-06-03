@@ -580,6 +580,16 @@
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
   },
+  "coscup2014": {
+    "hackpads": [
+      "5hbXGHDvCRX",
+      "LJwytNALgOR",
+      "gVkOW9b3FU8"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:33Z",
+    "url": "http://hackfoldr.org/coscup2014"
+  },
   "cultural-heritage": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -803,6 +813,16 @@
     "updated_at": "2018-02-13T06:49:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
+  "g0v-hackath1n": {
+    "hackpads": [
+      "9vetfIlZEC7",
+      "SxbJMxZLskR",
+      "ph1BnsFtoVJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath1n"
+  },
   "g0v-hackath2016n": {
     "hackpads": [
       "ypsdOxN1pDL"
@@ -832,6 +852,18 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T07:07:12Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath21n"
+  },
+  "g0v-hackath22n": {
+    "hackpads": [
+      "2rFuHdP1jxq",
+      "M1xUIWUgCEo",
+      "UKJaTD72joG",
+      "Wq5vd4b8f2R",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:21:54Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath22n"
   },
   "g0v-hackath26n": {
     "hackpads": [
