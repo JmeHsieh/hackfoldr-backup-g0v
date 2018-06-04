@@ -130,15 +130,6 @@
     "updated_at": "2018-02-13T06:05:43Z",
     "url": "http://beta.hackfoldr.org/2014iNGO"
   },
-  "2015-07-11": {
-    "hackpads": [
-      "X4bWlGs0MuJ",
-      "zjiELIjtDUc"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:05:43Z",
-    "url": "http://beta.hackfoldr.org/2015-07-11"
-  },
   "2016": {
     "hackpads": [
       "M16GGU63swb"
@@ -481,15 +472,6 @@
     "updated_at": "2018-02-13T06:14:20Z",
     "url": "http://beta.hackfoldr.org/b1rth"
   },
-  "callliwei": {
-    "hackpads": [
-      "6tkXwHyEaro",
-      "t5nla4R4Dft"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-05-04T01:49:40Z",
-    "url": "http://beta.hackfoldr.org/callliwei"
-  },
   "cbc2015": {
     "hackpads": [
       "0.tc0noszno3vuby7chp0j54s4i"
@@ -660,14 +642,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:42Z",
     "url": "http://beta.hackfoldr.org/doorsign"
-  },
-  "drinking-water": {
-    "hackpads": [
-      "O0rbl8VdqpC"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-04-26T05:52:50Z",
-    "url": "http://beta.hackfoldr.org/drinking-water"
   },
   "em": {
     "hackpads": [
@@ -1070,7 +1044,7 @@
       "w01v8lrMLTY"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
+    "updated_at": "2018-06-03T08:35:14Z",
     "url": "http://beta.hackfoldr.org/g0vairmap"
   },
   "g0vus": {
@@ -1221,14 +1195,6 @@
     "updated_at": "2018-02-13T06:32:41Z",
     "url": "http://beta.hackfoldr.org/nccucsly"
   },
-  "newtog0v": {
-    "hackpads": [
-      "Iun4h6yW2qU"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:32:42Z",
-    "url": "http://hackfoldr.org/newtog0v"
-  },
   "nonuke2014": {
     "hackpads": [
       "Nkxax2XjzHI"
@@ -1294,15 +1260,6 @@
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
   },
-  "resistancelive": {
-    "hackpads": [
-      "hQ9RdcSw7Gd",
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:35:37Z",
-    "url": "http://hackfoldr.org/resistancelive"
-  },
   "rumors": {
     "hackpads": [
       "F1PorqHPw1v",
@@ -1359,14 +1316,6 @@
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
   },
-  "taiwan_water0": {
-    "hackpads": [
-      "yRRVlfb5oJg"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:39:46Z",
-    "url": "http://beta.hackfoldr.org/taiwan_water0"
-  },
   "taiwan_water1": {
     "hackpads": [
       "yRRVlfb5oJg"
@@ -1408,16 +1357,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:16Z",
     "url": "http://hackfoldr.org/ttm"
-  },
-  "turtle-cuora": {
-    "hackpads": [
-      "fC9waMmFmnN",
-      "tFDaeOtsSbU",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:40:17Z",
-    "url": "https://hackfoldr.org/turtle-cuora"
   },
   "urbancodeg0vtw": {
     "hackpads": [
