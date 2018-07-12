@@ -92,6 +92,14 @@
     "updated_at": "2017-04-25T03:56:14Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
   },
+  "1v3anz7jfe_test": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:09:24Z",
+    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
+  },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
       "JOljozPHLS0"
@@ -698,6 +706,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:15Z",
     "url": "http://hackfoldr.org/fepz2"
+  },
+  "forest": {
+    "hackpads": [
+      "YOEzWb7eFqs"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:35Z",
+    "url": "http://hackfoldr.org/forest"
   },
   "g0v-cy": {
     "hackpads": [
@@ -1342,6 +1358,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
+  },
+  "taiwan_water0": {
+    "hackpads": [
+      "yRRVlfb5oJg"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:39:46Z",
+    "url": "http://beta.hackfoldr.org/taiwan_water0"
   },
   "taiwan_water1": {
     "hackpads": [
