@@ -18,13 +18,13 @@
     ""
   ],
   [
-    "https://public.etherpad-mozilla.org/p/moztw",
+    "https://moztw.hackpad.tw/moztw",
     "Intro to MozTW",
     "",
     ""
   ],
   [
-    "https://public.etherpad-mozilla.org/p/moztw-meta-pages",
+    "https://moztw.hackpad.tw/meta",
     "Pad list",
     "",
     ""
@@ -78,7 +78,7 @@
     ""
   ],
   [
-    " https://public.etherpad-mozilla.org/p/moztw-service-learning",
+    "https://moztw.hackpad.tw/service-learning",
     " 服務學習內容",
     "",
     ""
@@ -174,7 +174,7 @@
     ""
   ],
   [
-    "https://public.etherpad-mozilla.org/p/moztw-lab-lightning-talk",
+    "https://moztw.hackpad.tw/moztw-lab-lightning-talk",
     "MozTW Lab Lightning Talks",
     "",
     ""
@@ -186,7 +186,7 @@
     ""
   ],
   [
-    "https://public.etherpad-mozilla.org/p/sfd-taipei-2015",
+    "https://moztw.hackpad.tw/event-sfd-2015",
     "2015 軟體自由日 SFD",
     "",
     ""
@@ -276,86 +276,8 @@
     ""
   ],
   [
-    "https://public.etherpad-mozilla.org/p/mozorg-getinvolved-autoresponses-zhtw-meta",
+    "https://moztw.hackpad.tw/getinvolved-autoresponses-zhtw-meta",
     "Template",
-    "",
-    ""
-  ],
-  [
-    "https://public.etherpad-mozilla.org/p/mozorg-getinvolved-autoresponses-zhtw-coding",
-    "Coding - Kevin Hu",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-addons",
-    "Addon - Irvin  ",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-design",
-    "Design - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-documentation",
-    "Documentation - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-education",
-    "Education - Bob",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-issue",
-    "Issue - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-marketing",
-    "Marketing - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-other",
-    "Other - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-qa",
-    "QA - Toby",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-suggestions",
-    "Suggestion",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-support",
-    "Support - Ernest",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-webdev",
-    "WebDev - Irvin",
-    "",
-    ""
-  ],
-  [
-    "https://etherpad.mozilla.org/mozorg-getinvolved-autoresponses-zhtw-localization",
-    "Localization - Peter",
     "",
     ""
   ],
