@@ -490,14 +490,6 @@
     "updated_at": "2018-05-04T01:49:40Z",
     "url": "http://beta.hackfoldr.org/callliwei"
   },
-  "cbc2015": {
-    "hackpads": [
-      "0.tc0noszno3vuby7chp0j54s4i"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:16:01Z",
-    "url": "http://beta.hackfoldr.org/cbc2015"
-  },
   "cckitchen": {
     "hackpads": [
       "1GGTbzbT5KH",
@@ -686,19 +678,6 @@
     "updated_at": "2018-02-13T06:24:28Z",
     "url": "http://beta.hackfoldr.org/em"
   },
-  "everstudy": {
-    "hackpads": [
-      "72XtwX9gMms",
-      "PnYEREPBYqH",
-      "aCD05T6dxNe",
-      "gDHDANLIYyp",
-      "oqsXADzMrp8",
-      "uiv8jwEBVCA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:24:44Z",
-    "url": "http://hackfoldr.org/everstudy"
-  },
   "fepz2": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -786,16 +765,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath17n"
-  },
-  "g0v-hackath18n": {
-    "hackpads": [
-      "JoDXfwwEnqL",
-      "SxbJMxZLskR",
-      "ph1BnsFtoVJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath18n"
   },
   "g0v-hackath19n": {
     "hackpads": [
@@ -1091,17 +1060,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:56Z",
     "url": "http://hackfoldr.org/gian5-gi2_gi2-liau7_phing5-thai5"
-  },
-  "glassy": {
-    "hackpads": [
-      "WrtfkiOMcDA",
-      "bGtIRTRWUqx",
-      "hQ9RdcSw7Gd",
-      "ur06eAVZRGo"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:26:09Z",
-    "url": "http://hackfoldr.org/glassy"
   },
   "gxv": {
     "hackpads": [
@@ -1408,16 +1366,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:16Z",
     "url": "http://hackfoldr.org/ttm"
-  },
-  "turtle-cuora": {
-    "hackpads": [
-      "fC9waMmFmnN",
-      "tFDaeOtsSbU",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:40:17Z",
-    "url": "https://hackfoldr.org/turtle-cuora"
   },
   "urbancodeg0vtw": {
     "hackpads": [
