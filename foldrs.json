@@ -178,14 +178,6 @@
     "updated_at": "2018-06-27T09:23:01Z",
     "url": "http://beta.hackfoldr.org/627pray"
   },
-  "71": {
-    "hackpads": [
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-03-22T13:43:04Z",
-    "url": "http://hackfoldr.org/71"
-  },
   "BQ6": {
     "hackpads": [
       "OrLtCDomwEj"
@@ -229,17 +221,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:12:10Z",
     "url": "http://hackfoldr.org/G8VTV"
-  },
-  "Kaohsiung-explode-20140801": {
-    "hackpads": [
-      "3Z0cNF0cWQt",
-      "Nkxax2XjzHI",
-      "S0z70k3PaP4",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:12Z",
-    "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
   },
   "NECTW2014": {
     "hackpads": [
@@ -590,17 +571,6 @@
     "updated_at": "2018-02-13T06:22:33Z",
     "url": "http://hackfoldr.org/coscup2014"
   },
-  "cultural-heritage": {
-    "hackpads": [
-      "09RaHIX5QCC",
-      "AMPMe6YFCFh",
-      "XpdD57S2RIZ",
-      "kFpNNXnO7IQ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:46Z",
-    "url": "http://hackfoldr.org/cultural-heritage"
-  },
   "databootcamp": {
     "hackpads": [
       "DpZLa4EWHRu"
@@ -899,7 +869,7 @@
       "nog3i777EOZ"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-06-19T12:45:20Z",
+    "updated_at": "2018-08-16T16:37:40Z",
     "url": "http://beta.hackfoldr.org/g0v-infras"
   },
   "g0v-media": {
