@@ -408,6 +408,14 @@
     "updated_at": "2018-08-21T18:21:11Z",
     "url": "http://hackfoldr.org/Taipei-Urban-Agri"
   },
+  "Transformation": {
+    "hackpads": [
+      "uiv8jwEBVCA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-05-24T09:02:38Z",
+    "url": "http://hackfoldr.org/Transformation"
+  },
   "abcd": {
     "hackpads": [
       "5wAe15kaWeY",
@@ -612,6 +620,17 @@
     "updated_at": "2018-02-13T06:23:03Z",
     "url": "http://beta.hackfoldr.org/dbootcamp"
   },
+  "designer": {
+    "hackpads": [
+      "0qqoIcDMCLJ",
+      "7ndCfX4RoBm",
+      "Gvfkil2kX3W",
+      "jQJ9sUFA5O5"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:23:05Z",
+    "url": "http://beta.hackfoldr.org/designer"
+  },
   "designer2": {
     "hackpads": [
       "jQJ9sUFA5O5"
@@ -794,6 +813,16 @@
     "updated_at": "2018-02-13T06:49:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
+  "g0v-hackath1n": {
+    "hackpads": [
+      "9vetfIlZEC7",
+      "SxbJMxZLskR",
+      "ph1BnsFtoVJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath1n"
+  },
   "g0v-hackath2016n": {
     "hackpads": [
       "ypsdOxN1pDL"
@@ -813,6 +842,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:50:11Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath20n"
+  },
+  "g0v-hackath21n": {
+    "hackpads": [
+      "2rFuHdP1jxq",
+      "CJuzyTDJfbk",
+      "czxXPBK3Jvf"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:07:12Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath21n"
   },
   "g0v-hackath22n": {
     "hackpads": [
@@ -862,6 +901,22 @@
     "source": "ethercalc",
     "updated_at": "2018-08-21T08:40:11Z",
     "url": "http://beta.hackfoldr.org/g0v-infras"
+  },
+  "g0v-media": {
+    "hackpads": [
+      "0.giwo7949dtt0ggb9",
+      "716FHPRZnL5",
+      "AQpCdVxH1D7",
+      "ELMVgEHxFoH",
+      "FKFYXmiRObq",
+      "FyCewSYFRHv",
+      "dWAAwY8zPgP",
+      "x1pIOf3KNbB",
+      "xRTuW3b2Qca"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:45Z",
+    "url": "http://beta.hackfoldr.org/g0v-media"
   },
   "g0v-summit-2014": {
     "hackpads": [
@@ -1007,6 +1062,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2016"
+  },
+  "g0vairmap": {
+    "hackpads": [
+      "8MQ03kk9wwD",
+      "TexkKFNmqZP",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-06-19T14:55:20Z",
+    "url": "http://beta.hackfoldr.org/g0vairmap"
   },
   "g0vus": {
     "hackpads": [
