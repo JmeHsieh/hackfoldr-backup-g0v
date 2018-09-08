@@ -194,6 +194,14 @@
     "updated_at": "2018-02-13T06:11:52Z",
     "url": "http://hackfoldr.org/BQ6"
   },
+  "CharterTaiwan": {
+    "hackpads": [
+      "Charter-of-Taiwan"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:12:03Z",
+    "url": "http://hackfoldr.org/CharterTaiwan"
+  },
   "DonDonFlower": {
     "hackpads": [
       "TkKoSaKcr7X",
@@ -644,6 +652,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:42Z",
     "url": "http://beta.hackfoldr.org/don-democracy"
+  },
+  "doorsign": {
+    "hackpads": [
+      "7ndCfX4RoBm"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:23:42Z",
+    "url": "http://beta.hackfoldr.org/doorsign"
   },
   "drinking-water": {
     "hackpads": [
@@ -1278,6 +1294,15 @@
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
   },
+  "resistancelive": {
+    "hackpads": [
+      "hQ9RdcSw7Gd",
+      "p0QRvaiMT6P"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:35:37Z",
+    "url": "http://hackfoldr.org/resistancelive"
+  },
   "rumors": {
     "hackpads": [
       "F1PorqHPw1v",
@@ -1295,6 +1320,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:38:33Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
+  "swtcc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-11-04T03:50:19Z",
+    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
@@ -1349,6 +1382,15 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:13Z",
     "url": "http://beta.hackfoldr.org/tpebudget"
+  },
+  "tpyc": {
+    "hackpads": [
+      "IYApEmPmPI7",
+      "UKJaTD72joG"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-12-17T07:36:31Z",
+    "url": "http://beta.hackfoldr.org/tpyc"
   },
   "tscs": {
     "hackpads": [
