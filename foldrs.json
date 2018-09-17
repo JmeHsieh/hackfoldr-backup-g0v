@@ -92,14 +92,6 @@
     "updated_at": "2017-04-25T03:56:14Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
   },
-  "1v3anz7jfe_test": {
-    "hackpads": [
-      "Nkxax2XjzHI"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T07:09:24Z",
-    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
-  },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
       "JOljozPHLS0"
@@ -185,14 +177,6 @@
     "source": "ethercalc",
     "updated_at": "2018-03-22T13:43:04Z",
     "url": "http://hackfoldr.org/71"
-  },
-  "BQ6": {
-    "hackpads": [
-      "OrLtCDomwEj"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:11:52Z",
-    "url": "http://hackfoldr.org/BQ6"
   },
   "CharterTaiwan": {
     "hackpads": [
@@ -723,19 +707,6 @@
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://hackfoldr.org/g0v-cy"
   },
-  "g0v-hackath11n": {
-    "hackpads": [
-      "65XdCZeKOg8",
-      "83EoD9Mw8eA",
-      "NbwAt1qAcJc",
-      "Q9cs2QTFhkW",
-      "Taiwan_open_government_data_license_citizens_community_version",
-      "uqMawMI4OL2"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath11n"
-  },
   "g0v-hackath12n": {
     "hackpads": [
       "DWI1o7XbyqT",
@@ -872,14 +843,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:54:41Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
-  },
-  "g0v-hackath888n": {
-    "hackpads": [
-      "wbV0WQXuBP3"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T14:22:36Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath888n"
   },
   "g0v-hackath999n": {
     "hackpads": [
@@ -1164,14 +1127,6 @@
     "updated_at": "2018-02-13T06:30:16Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
   },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:30:48Z",
-    "url": "http://beta.hackfoldr.org/learners"
-  },
   "legcolive": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1375,14 +1330,6 @@
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan_water1"
   },
-  "tpebudget": {
-    "hackpads": [
-      "Nkxax2XjzHI"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:40:13Z",
-    "url": "http://beta.hackfoldr.org/tpebudget"
-  },
   "tpyc": {
     "hackpads": [
       "IYApEmPmPI7",
@@ -1418,22 +1365,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:17Z",
     "url": "https://hackfoldr.org/turtle-cuora"
-  },
-  "urbancodeg0vtw": {
-    "hackpads": [
-      "BpW2Xt7s8AH",
-      "Fy5roPxroAg",
-      "Gvfkil2kX3W",
-      "K5IAmJk80CC",
-      "f3z18AeU2uH",
-      "jJ5XWEtvXZV",
-      "nrkXHXZnoTo",
-      "pJUQ0AGRCO1",
-      "y7f4dxUB2oh"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-03-03T17:42:20Z",
-    "url": "http://hackfoldr.org/urbancodeg0vtw"
   },
   "wethepeople": {
     "hackpads": [
