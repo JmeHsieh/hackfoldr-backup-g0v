@@ -119,17 +119,6 @@
     "updated_at": "2018-02-13T06:05:43Z",
     "url": "http://hackfoldr.org/2014ccsp"
   },
-  "2014iNGO": {
-    "hackpads": [
-      "0.1ro21dob7mj",
-      "0.arr7vsjq7uy2e29",
-      "0.eala6nxotk0jatt9",
-      "0.zv996thlc5rn3ik9"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:05:43Z",
-    "url": "http://beta.hackfoldr.org/2014iNGO"
-  },
   "2015-07-11": {
     "hackpads": [
       "X4bWlGs0MuJ",
@@ -230,17 +219,6 @@
     "updated_at": "2018-02-13T06:12:10Z",
     "url": "http://hackfoldr.org/G8VTV"
   },
-  "Kaohsiung-explode-20140801": {
-    "hackpads": [
-      "3Z0cNF0cWQt",
-      "Nkxax2XjzHI",
-      "S0z70k3PaP4",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:12Z",
-    "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
-  },
   "NECTW2014": {
     "hackpads": [
       "hQ9RdcSw7Gd",
@@ -280,23 +258,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:45:08Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
-  },
-  "OpenGeoData": {
-    "hackpads": [
-      "3Z0cNF0cWQt",
-      "Du1lc6bUdn8",
-      "Fy5roPxroAg",
-      "Umbr1mZcESH",
-      "YOEzWb7eFqs",
-      "b6gTMfhXMYY",
-      "dVyaLcWGdNA",
-      "kFpNNXnO7IQ",
-      "qSFITFaEbfT",
-      "zTxOdzteICt"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-08-23T21:10:00Z",
-    "url": "http://hackfoldr.org/OpenGeoData"
   },
   "POPonFire": {
     "hackpads": [
@@ -439,19 +400,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:12:48Z",
     "url": "http://hackfoldr.org/about"
-  },
-  "agriculture": {
-    "hackpads": [
-      "4l2IH4BazRe",
-      "8-moed5ct",
-      "9-moed6ct",
-      "EgXumvuNy7Y",
-      "hQ9RdcSw7Gd",
-      "jAFuERTpDC5"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:13:39Z",
-    "url": "http://hackfoldr.org/agriculture"
   },
   "app4am": {
     "hackpads": [
@@ -1091,17 +1039,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:56Z",
     "url": "http://hackfoldr.org/gian5-gi2_gi2-liau7_phing5-thai5"
-  },
-  "glassy": {
-    "hackpads": [
-      "WrtfkiOMcDA",
-      "bGtIRTRWUqx",
-      "hQ9RdcSw7Gd",
-      "ur06eAVZRGo"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:26:09Z",
-    "url": "http://hackfoldr.org/glassy"
   },
   "gxv": {
     "hackpads": [
