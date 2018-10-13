@@ -481,15 +481,6 @@
     "updated_at": "2018-02-13T06:14:20Z",
     "url": "http://beta.hackfoldr.org/b1rth"
   },
-  "callliwei": {
-    "hackpads": [
-      "6tkXwHyEaro",
-      "t5nla4R4Dft"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-05-04T01:49:40Z",
-    "url": "http://beta.hackfoldr.org/callliwei"
-  },
   "cbc2015": {
     "hackpads": [
       "0.tc0noszno3vuby7chp0j54s4i"
@@ -529,15 +520,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:19Z",
     "url": "http://hackfoldr.org/chinese201407"
-  },
-  "code4hk": {
-    "hackpads": [
-      "Nkxax2XjzHI",
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:29Z",
-    "url": "http://beta.hackfoldr.org/code4hk"
   },
   "collab": {
     "hackpads": [
@@ -768,16 +750,6 @@
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath15n"
   },
-  "g0v-hackath16n": {
-    "hackpads": [
-      "I1B2ESxu33a",
-      "KJ3iqNO38qG",
-      "ph1BnsFtoVJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath16n"
-  },
   "g0v-hackath17n": {
     "hackpads": [
       "KJ3iqNO38qG",
@@ -918,34 +890,6 @@
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
   },
-  "g0v-summit-2014": {
-    "hackpads": [
-      "18K1ygginWB",
-      "2yMIDiluZjl",
-      "3lyXBRWG9aT",
-      "6bCN0IjrCoP",
-      "6rgnfJyORtF",
-      "90sXy77lPoI",
-      "CXD0xCBDpEb",
-      "DkIFBHupY2N",
-      "Ht3fhvWBl4v",
-      "NEh2te48UUZ",
-      "No6qCs3hjow",
-      "Opening-Keynote-g0v-unconference-2014",
-      "X6IFjZl2F6f",
-      "YOEzWb7eFqs",
-      "Zp5xamd13gI",
-      "bggRLzo0wTg",
-      "g0v_summit_2014_booth",
-      "hDsmxWeWzcj",
-      "lrsRSCY5iWB",
-      "p2EWyafYeoU",
-      "vbGG4fUeT7u"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
-  },
   "g0v-summit-2014-unconf": {
     "hackpads": [
       "2yMIDiluZjl",
@@ -1022,25 +966,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:47:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
-  },
-  "g0v-summit-sop": {
-    "hackpads": [
-      "6LdDXgM5RXr",
-      "ARIQxSSKzzj",
-      "DPCXXiDbYLI",
-      "Ii29Gy0NxGU",
-      "KOrDfuHHUWj",
-      "QVaYpNHSJ8x",
-      "SEupHS5rNVf",
-      "WcabFojJinZ",
-      "anpq7m0afwe",
-      "auUK9Ra7AxO",
-      "dErSwTt0K18",
-      "hs7LfjJn1ln"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:49:47Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-sop"
   },
   "g0v-summit2014": {
     "hackpads": [
@@ -1163,14 +1088,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:30:16Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
-  },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:30:48Z",
-    "url": "http://beta.hackfoldr.org/learners"
   },
   "legcolive": {
     "hackpads": [
