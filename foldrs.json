@@ -715,6 +715,14 @@
     "updated_at": "2018-02-13T06:25:35Z",
     "url": "http://hackfoldr.org/forest"
   },
+  "g0v-cy": {
+    "hackpads": [
+      "XKPGjyr4hUG"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://hackfoldr.org/g0v-cy"
+  },
   "g0v-hackath11n": {
     "hackpads": [
       "65XdCZeKOg8",
@@ -1267,6 +1275,15 @@
     "updated_at": "2018-02-13T06:34:39Z",
     "url": "http://beta.hackfoldr.org/ppt"
   },
+  "president2016-folder": {
+    "hackpads": [
+      "10-moed12ct",
+      "fC9waMmFmnN"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:34:41Z",
+    "url": "http://beta.hackfoldr.org/president2016-folder"
+  },
   "projectpool": {
     "hackpads": [
       "VRCKFQ0jJ1B",
@@ -1303,6 +1320,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:38:33Z",
     "url": "http://hackfoldr.org/shuanhhe-hackfoldr"
+  },
+  "swtcc": {
+    "hackpads": [
+      "IYApEmPmPI7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2016-11-04T03:50:19Z",
+    "url": "http://beta.hackfoldr.org/swtcc"
   },
   "tachung-regionalplan": {
     "hackpads": [
@@ -1393,6 +1418,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:17Z",
     "url": "https://hackfoldr.org/turtle-cuora"
+  },
+  "urbancodeg0vtw": {
+    "hackpads": [
+      "BpW2Xt7s8AH",
+      "Fy5roPxroAg",
+      "Gvfkil2kX3W",
+      "K5IAmJk80CC",
+      "f3z18AeU2uH",
+      "jJ5XWEtvXZV",
+      "nrkXHXZnoTo",
+      "pJUQ0AGRCO1",
+      "y7f4dxUB2oh"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-10-10T20:29:51Z",
+    "url": "http://hackfoldr.org/urbancodeg0vtw"
   },
   "wethepeople": {
     "hackpads": [
