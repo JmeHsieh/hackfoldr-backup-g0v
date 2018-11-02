@@ -1051,6 +1051,18 @@
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit2014"
   },
+  "g0v-summit2016": {
+    "hackpads": [
+      "4x3PX5GeLUY",
+      "HN08QTbHngI",
+      "NcINLWCV9fm",
+      "i7gvlz50yhR",
+      "lcykxD96u3Y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:45Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit2016"
+  },
   "g0vairmap": {
     "hackpads": [
       "8MQ03kk9wwD",
@@ -1119,6 +1131,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:26:45Z",
     "url": "http://hackfoldr.org/hackfoldrtest"
+  },
+  "inLiveTW": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:27:47Z",
+    "url": "http://hackfoldr.org/inLiveTW"
   },
   "join.tw": {
     "hackpads": [
@@ -1380,6 +1400,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:16Z",
     "url": "http://beta.hackfoldr.org/tscs"
+  },
+  "ttm": {
+    "hackpads": [
+      "7yr2NBYZWIX"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:40:16Z",
+    "url": "http://hackfoldr.org/ttm"
   },
   "turtle-cuora": {
     "hackpads": [
