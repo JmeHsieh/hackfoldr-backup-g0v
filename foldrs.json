@@ -408,6 +408,14 @@
     "updated_at": "2018-08-21T18:21:11Z",
     "url": "http://hackfoldr.org/Taipei-Urban-Agri"
   },
+  "Transformation": {
+    "hackpads": [
+      "uiv8jwEBVCA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-05-24T09:02:38Z",
+    "url": "http://hackfoldr.org/Transformation"
+  },
   "abcd": {
     "hackpads": [
       "5wAe15kaWeY",
@@ -571,6 +579,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
+  },
+  "coscup2014": {
+    "hackpads": [
+      "5hbXGHDvCRX",
+      "LJwytNALgOR",
+      "gVkOW9b3FU8"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:33Z",
+    "url": "http://hackfoldr.org/coscup2014"
   },
   "cultural-heritage": {
     "hackpads": [
@@ -1400,6 +1418,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:17Z",
     "url": "https://hackfoldr.org/turtle-cuora"
+  },
+  "urbancodeg0vtw": {
+    "hackpads": [
+      "BpW2Xt7s8AH",
+      "Fy5roPxroAg",
+      "Gvfkil2kX3W",
+      "K5IAmJk80CC",
+      "f3z18AeU2uH",
+      "jJ5XWEtvXZV",
+      "nrkXHXZnoTo",
+      "pJUQ0AGRCO1",
+      "y7f4dxUB2oh"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-10-10T20:29:51Z",
+    "url": "http://hackfoldr.org/urbancodeg0vtw"
   },
   "wethepeople": {
     "hackpads": [
