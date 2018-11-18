@@ -368,6 +368,46 @@
     "updated_at": "2018-07-10T02:28:09Z",
     "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
   },
+  "Taipei-Urban-Agri": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "4a31UkdBItq",
+      "6lGh4ynj6VZ",
+      "7bIfg8O7I7E",
+      "9l8mrCKIUJM",
+      "9zlYTcIKjJo",
+      "AKXincDC83m",
+      "CS7U8OepflN",
+      "EgXumvuNy7Y",
+      "HUytWrSMUnY",
+      "Jj4Njn3Ujpu",
+      "LCoBDLpPOvy",
+      "N6yLqNr6uE5",
+      "PaRBtart6Kz",
+      "PweVf4RMYPF",
+      "RZ479BxNrZk",
+      "S54XwMAHxdc",
+      "SXs878w1qRP",
+      "TD9A9QhjRHI",
+      "TFAw9JeD0L2",
+      "VlksawfStI9",
+      "YM7lSTgngjY",
+      "ZcKvRqGob8o",
+      "auejYcaaclb",
+      "bAbXKYMYwm1",
+      "dWtAZfj6eaC",
+      "eMoZmke6Lc0",
+      "jeGK3UDcBej",
+      "oQOH2uUpiIq",
+      "uBgGwZFpuIN",
+      "wcfXjLPuMyW",
+      "wnYFJMJWTHA",
+      "ynwXa2KWLX2"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-11-08T15:09:55Z",
+    "url": "http://hackfoldr.org/Taipei-Urban-Agri"
+  },
   "Transformation": {
     "hackpads": [
       "uiv8jwEBVCA"
@@ -591,6 +631,14 @@
     "updated_at": "2018-02-13T06:23:05Z",
     "url": "http://beta.hackfoldr.org/designer"
   },
+  "designer2": {
+    "hackpads": [
+      "jQJ9sUFA5O5"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:23:05Z",
+    "url": "http://beta.hackfoldr.org/designer2"
+  },
   "don-democracy": {
     "hackpads": [
       "B00mshNSBbC",
@@ -748,6 +796,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath18n"
+  },
+  "g0v-hackath19n": {
+    "hackpads": [
+      "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
+      "2p8AJicQ9TP",
+      "2ucl5ftrzot",
+      "SxbJMxZLskR",
+      "ZFAvPb9ZqdD",
+      "a5mm0YuMrIV",
+      "iV3U1MV02bw",
+      "jgeT58GTL5H",
+      "yhTSPTHQ8H7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:49:43Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
   "g0v-hackath1n": {
     "hackpads": [
@@ -1172,6 +1236,19 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:32:52Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
+  },
+  "open-budget": {
+    "hackpads": [
+      "8Ww9SaoB1up",
+      "FoVI6xhJJ32",
+      "Fy5roPxroAg",
+      "L90jkftmfxn",
+      "PycBHXfQPHM",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-03-09T18:45:08Z",
+    "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
     "hackpads": [
