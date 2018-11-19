@@ -18,13 +18,13 @@
     ""
   ],
   [
-    "http://watermap.teia.tw/",
+    "https://watermap.teia.tw/",
     "飲水地圖",
     "",
     ""
   ],
   [
-    "http://watergo.teia.tw/",
+    "https://watergo.teia.tw",
     "WaterGo!計劃",
     "",
     ""
@@ -36,16 +36,22 @@
     "red Hack!"
   ],
   [
-    "",
-    "",
+    "https://overpass-turbo.eu/s/DLE",
+    "飲水資料",
     "",
     ""
   ],
   [
+    "https://www.facebook.com/groups/1255977671181394/",
+    "飲水地圖",
     "",
+    "blue 臉書社團"
+  ],
+  [
+    "https://www.facebook.com/groups/OpenStreetMap.TW/",
+    "OSM.TW",
     "",
-    "",
-    ""
+    "blue 臉書社團"
   ],
   [
     "",
@@ -60,8 +66,20 @@
     ""
   ],
   [
+    "",
+    "",
+    "",
+    ""
+  ],
+  [
     "https://osmtw.hackpad.tw/afSMeOLuHkR",
     "要做什麼",
+    "",
+    ""
+  ],
+  [
+    "",
+    "",
     "",
     ""
   ],
@@ -106,6 +124,12 @@
     "待解決事項及相關交接",
     "",
     "blue 許願中"
+  ],
+  [
+    "https://pm5.github.io/talks/2018-10-22-ocf-ngo-open-data/",
+    "跨領域合作如何可能？公民團體與開放資料的介接",
+    "",
+    ""
   ],
   [
     "",
@@ -258,7 +282,7 @@
     ""
   ],
   [
-    "https://overpass-turbo.eu/s/Cb8",
+    "https://overpass-turbo.eu/s/DLE",
     "飲水點數目查詢",
     "",
     ""
