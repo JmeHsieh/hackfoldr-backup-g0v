@@ -1124,14 +1124,6 @@
     "updated_at": "2018-02-13T06:26:20Z",
     "url": "http://beta.hackfoldr.org/gxv"
   },
-  "hackfoldrtest": {
-    "hackpads": [
-      "VVlHNqKaQrC"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:26:45Z",
-    "url": "http://hackfoldr.org/hackfoldrtest"
-  },
   "inLiveTW": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1250,14 +1242,6 @@
     "updated_at": "2018-03-09T18:45:08Z",
     "url": "http://hackfoldr.org/open-budget"
   },
-  "pidandoufou": {
-    "hackpads": [
-      "PDrdUgO6vA6"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-10-30T02:58:47Z",
-    "url": "http://beta.hackfoldr.org/pidandoufou"
-  },
   "ppt": {
     "hackpads": [
       "0.goifb4ginu18m2t9",
@@ -1274,15 +1258,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:39Z",
     "url": "http://beta.hackfoldr.org/ppt"
-  },
-  "president2016-folder": {
-    "hackpads": [
-      "10-moed12ct",
-      "fC9waMmFmnN"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:34:41Z",
-    "url": "http://beta.hackfoldr.org/president2016-folder"
   },
   "projectpool": {
     "hackpads": [
