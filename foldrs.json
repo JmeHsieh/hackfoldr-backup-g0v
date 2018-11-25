@@ -186,6 +186,14 @@
     "updated_at": "2018-03-22T13:43:04Z",
     "url": "http://hackfoldr.org/71"
   },
+  "BQ6": {
+    "hackpads": [
+      "OrLtCDomwEj"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:11:52Z",
+    "url": "http://hackfoldr.org/BQ6"
+  },
   "CharterTaiwan": {
     "hackpads": [
       "Charter-of-Taiwan"
@@ -691,6 +699,14 @@
     "updated_at": "2018-02-13T06:24:44Z",
     "url": "http://hackfoldr.org/everstudy"
   },
+  "fepz2": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:15Z",
+    "url": "http://hackfoldr.org/fepz2"
+  },
   "forest": {
     "hackpads": [
       "YOEzWb7eFqs"
@@ -796,6 +812,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:49:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath19n"
+  },
+  "g0v-hackath1n": {
+    "hackpads": [
+      "9vetfIlZEC7",
+      "SxbJMxZLskR",
+      "ph1BnsFtoVJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath1n"
   },
   "g0v-hackath2016n": {
     "hackpads": [
@@ -1210,6 +1236,19 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:32:52Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
+  },
+  "open-budget": {
+    "hackpads": [
+      "8Ww9SaoB1up",
+      "FoVI6xhJJ32",
+      "Fy5roPxroAg",
+      "L90jkftmfxn",
+      "PycBHXfQPHM",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-03-09T18:45:08Z",
+    "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
     "hackpads": [
