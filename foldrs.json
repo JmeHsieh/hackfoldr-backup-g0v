@@ -669,23 +669,6 @@
     "updated_at": "2018-11-18T11:43:48Z",
     "url": "http://beta.hackfoldr.org/drinking-water"
   },
-  "em": {
-    "hackpads": [
-      "1qrg5FHN9Oq",
-      "FqWEr4YDioB",
-      "IBTEm3eVey7",
-      "KN3lSiMxhXT",
-      "OuKPhRcISBm",
-      "V0oyekQAWfv",
-      "e8p5nB6tz85",
-      "mWlPrCBDoyw",
-      "nSWKQzUGB3Q",
-      "sLd9sHTIo9H"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:24:28Z",
-    "url": "http://beta.hackfoldr.org/em"
-  },
   "everstudy": {
     "hackpads": [
       "72XtwX9gMms",
@@ -1213,14 +1196,6 @@
     "updated_at": "2018-02-13T06:32:09Z",
     "url": "http://hackfoldr.org/mproject"
   },
-  "nccucsly": {
-    "hackpads": [
-      "eHQlRxolOG6"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:32:41Z",
-    "url": "http://beta.hackfoldr.org/nccucsly"
-  },
   "newtog0v": {
     "hackpads": [
       "Iun4h6yW2qU"
@@ -1236,19 +1211,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:32:52Z",
     "url": "http://beta.hackfoldr.org/nonuke2014"
-  },
-  "open-budget": {
-    "hackpads": [
-      "8Ww9SaoB1up",
-      "FoVI6xhJJ32",
-      "Fy5roPxroAg",
-      "L90jkftmfxn",
-      "PycBHXfQPHM",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-03-09T18:45:08Z",
-    "url": "http://hackfoldr.org/open-budget"
   },
   "pidandoufou": {
     "hackpads": [
