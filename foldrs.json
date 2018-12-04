@@ -481,15 +481,6 @@
     "updated_at": "2018-02-13T06:14:20Z",
     "url": "http://beta.hackfoldr.org/b1rth"
   },
-  "callliwei": {
-    "hackpads": [
-      "6tkXwHyEaro",
-      "t5nla4R4Dft"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-05-04T01:49:40Z",
-    "url": "http://beta.hackfoldr.org/callliwei"
-  },
   "cbc2015": {
     "hackpads": [
       "0.tc0noszno3vuby7chp0j54s4i"
@@ -521,14 +512,6 @@
     "source": "ethercalc",
     "updated_at": "2018-07-02T19:40:38Z",
     "url": "http://beta.hackfoldr.org/cctw"
-  },
-  "chinese201407": {
-    "hackpads": [
-      "8-moed5ct"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:19Z",
-    "url": "http://hackfoldr.org/chinese201407"
   },
   "code4hk": {
     "hackpads": [
@@ -579,16 +562,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
-  },
-  "coscup2014": {
-    "hackpads": [
-      "5hbXGHDvCRX",
-      "LJwytNALgOR",
-      "gVkOW9b3FU8"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:33Z",
-    "url": "http://hackfoldr.org/coscup2014"
   },
   "cultural-heritage": {
     "hackpads": [
