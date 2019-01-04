@@ -974,6 +974,30 @@
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
   },
+  "g0v-summit-2016": {
+    "hackpads": [
+      "2ldPbEHoVJ0",
+      "DJ7foRA6AP8",
+      "Htu2dreORri",
+      "IO3yuCtm1Hd",
+      "IblOqVBEF77",
+      "JInleB0ScUh",
+      "NbpdYZkgY6D",
+      "RW9M2GMq3Rp",
+      "UFvxbyoxsL4",
+      "fWzItNPmxHE",
+      "iSbcxP4yRXo",
+      "iV3U1MV02bw",
+      "m8TWjU6SYT1",
+      "pcVJJEsgYP3",
+      "ve3zOKXeycf",
+      "w01v8lrMLTY",
+      "xaFW7cIYtsr"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:47:38Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-2016"
+  },
   "g0v-summit-2016-unconf": {
     "hackpads": [
       "6bRe62jc8jv",
@@ -1350,6 +1374,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan_water1"
+  },
+  "tpebudget": {
+    "hackpads": [
+      "Nkxax2XjzHI"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:40:13Z",
+    "url": "http://beta.hackfoldr.org/tpebudget"
   },
   "tpyc": {
     "hackpads": [
