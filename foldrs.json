@@ -119,6 +119,17 @@
     "updated_at": "2018-02-13T06:05:43Z",
     "url": "http://hackfoldr.org/2014ccsp"
   },
+  "2014iNGO": {
+    "hackpads": [
+      "0.1ro21dob7mj",
+      "0.arr7vsjq7uy2e29",
+      "0.eala6nxotk0jatt9",
+      "0.zv996thlc5rn3ik9"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:05:43Z",
+    "url": "http://beta.hackfoldr.org/2014iNGO"
+  },
   "2015-07-11": {
     "hackpads": [
       "X4bWlGs0MuJ",
@@ -270,6 +281,23 @@
     "updated_at": "2018-02-13T06:45:08Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
   },
+  "OpenGeoData": {
+    "hackpads": [
+      "3Z0cNF0cWQt",
+      "Du1lc6bUdn8",
+      "Fy5roPxroAg",
+      "Umbr1mZcESH",
+      "YOEzWb7eFqs",
+      "b6gTMfhXMYY",
+      "dVyaLcWGdNA",
+      "kFpNNXnO7IQ",
+      "qSFITFaEbfT",
+      "zTxOdzteICt"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-12-26T14:41:36Z",
+    "url": "http://hackfoldr.org/OpenGeoData"
+  },
   "POPonFire": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -339,6 +367,46 @@
     "source": "ethercalc",
     "updated_at": "2018-07-10T02:28:09Z",
     "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
+  },
+  "Taipei-Urban-Agri": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "4a31UkdBItq",
+      "6lGh4ynj6VZ",
+      "7bIfg8O7I7E",
+      "9l8mrCKIUJM",
+      "9zlYTcIKjJo",
+      "AKXincDC83m",
+      "CS7U8OepflN",
+      "EgXumvuNy7Y",
+      "HUytWrSMUnY",
+      "Jj4Njn3Ujpu",
+      "LCoBDLpPOvy",
+      "N6yLqNr6uE5",
+      "PaRBtart6Kz",
+      "PweVf4RMYPF",
+      "RZ479BxNrZk",
+      "S54XwMAHxdc",
+      "SXs878w1qRP",
+      "TD9A9QhjRHI",
+      "TFAw9JeD0L2",
+      "VlksawfStI9",
+      "YM7lSTgngjY",
+      "ZcKvRqGob8o",
+      "auejYcaaclb",
+      "bAbXKYMYwm1",
+      "dWtAZfj6eaC",
+      "eMoZmke6Lc0",
+      "jeGK3UDcBej",
+      "oQOH2uUpiIq",
+      "uBgGwZFpuIN",
+      "wcfXjLPuMyW",
+      "wnYFJMJWTHA",
+      "ynwXa2KWLX2"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-12-21T03:49:42Z",
+    "url": "http://hackfoldr.org/Taipei-Urban-Agri"
   },
   "Transformation": {
     "hackpads": [
