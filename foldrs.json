@@ -15,7 +15,7 @@
       "gTq5yVOLtPn"
     ],
     "source": "google",
-    "updated_at": "2018-01-23T03:53:10Z",
+    "updated_at": "2019-01-16T09:36:43Z",
     "url": "http://beta.hackfoldr.org/1HLaWjpzlKvfnzQOq7Giv2ZBzpms7cQYyBgC3mtZEdSg"
   },
   "1T_wMcStS_saX4Dxu0sk-x1jA9kyRBEoTYV8w7AmHT9w": {
@@ -357,7 +357,7 @@
       "zTxOdzteICt"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-11-08T15:02:42Z",
+    "updated_at": "2019-01-16T13:09:18Z",
     "url": "http://hackfoldr.org/POPonFire"
   },
   "TPEDisasterSummary": {
@@ -529,15 +529,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:19Z",
     "url": "http://hackfoldr.org/chinese201407"
-  },
-  "code4hk": {
-    "hackpads": [
-      "Nkxax2XjzHI",
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:29Z",
-    "url": "http://beta.hackfoldr.org/code4hk"
   },
   "collab": {
     "hackpads": [
@@ -1073,17 +1064,6 @@
     "updated_at": "2018-12-29T00:43:36Z",
     "url": "http://beta.hackfoldr.org/g0vairmap"
   },
-  "g0vus": {
-    "hackpads": [
-      "L8EtAJddcK7",
-      "OoaP1AzVuQL",
-      "jzEIpQBzii2",
-      "n92z0PHzUau"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
-    "url": "http://beta.hackfoldr.org/g0vus"
-  },
   "gian5-gi2_gi2-liau7_phing5-thai5": {
     "hackpads": [
       "DqitE1wSSIo"
@@ -1171,14 +1151,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:30:48Z",
     "url": "http://beta.hackfoldr.org/learners"
-  },
-  "legcolive": {
-    "hackpads": [
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:30:48Z",
-    "url": "http://hackfoldr.org/legcolive"
   },
   "lovenent": {
     "hackpads": [
@@ -1293,15 +1265,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
-  },
-  "resistancelive": {
-    "hackpads": [
-      "hQ9RdcSw7Gd",
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:35:37Z",
-    "url": "http://hackfoldr.org/resistancelive"
   },
   "rumors": {
     "hackpads": [
