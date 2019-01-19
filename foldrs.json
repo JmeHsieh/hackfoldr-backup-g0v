@@ -15,7 +15,7 @@
       "gTq5yVOLtPn"
     ],
     "source": "google",
-    "updated_at": "2019-01-17T02:59:24Z",
+    "updated_at": "2019-01-18T08:11:59Z",
     "url": "http://beta.hackfoldr.org/1HLaWjpzlKvfnzQOq7Giv2ZBzpms7cQYyBgC3mtZEdSg"
   },
   "1T_wMcStS_saX4Dxu0sk-x1jA9kyRBEoTYV8w7AmHT9w": {
@@ -241,6 +241,15 @@
     "updated_at": "2018-02-13T06:12:12Z",
     "url": "http://beta.hackfoldr.org/Kaohsiung-explode-20140801"
   },
+  "NECTW2014": {
+    "hackpads": [
+      "hQ9RdcSw7Gd",
+      "oamfaAVRL0G"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:12:20Z",
+    "url": "http://hackfoldr.org/NECTW2014"
+  },
   "NEWShackathon": {
     "hackpads": [
       "0pEvlgRoOtf",
@@ -271,6 +280,23 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:45:08Z",
     "url": "http://beta.hackfoldr.org/National_Land_Use_Planning_Act_Workshop"
+  },
+  "OpenGeoData": {
+    "hackpads": [
+      "3Z0cNF0cWQt",
+      "Du1lc6bUdn8",
+      "Fy5roPxroAg",
+      "Umbr1mZcESH",
+      "YOEzWb7eFqs",
+      "b6gTMfhXMYY",
+      "dVyaLcWGdNA",
+      "kFpNNXnO7IQ",
+      "qSFITFaEbfT",
+      "zTxOdzteICt"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-12-26T14:41:36Z",
+    "url": "http://hackfoldr.org/OpenGeoData"
   },
   "POPonFire": {
     "hackpads": [
@@ -659,6 +685,19 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:24:28Z",
     "url": "http://beta.hackfoldr.org/em"
+  },
+  "everstudy": {
+    "hackpads": [
+      "72XtwX9gMms",
+      "PnYEREPBYqH",
+      "aCD05T6dxNe",
+      "gDHDANLIYyp",
+      "oqsXADzMrp8",
+      "uiv8jwEBVCA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:24:44Z",
+    "url": "http://hackfoldr.org/everstudy"
   },
   "fepz2": {
     "hackpads": [
@@ -1124,6 +1163,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:30:16Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
+  },
+  "learners": {
+    "hackpads": [
+      "0qqoIcDMCLJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:30:48Z",
+    "url": "http://beta.hackfoldr.org/learners"
   },
   "legcolive": {
     "hackpads": [
