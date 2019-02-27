@@ -1092,6 +1092,17 @@
     "updated_at": "2018-02-13T06:25:56Z",
     "url": "http://hackfoldr.org/gian5-gi2_gi2-liau7_phing5-thai5"
   },
+  "glassy": {
+    "hackpads": [
+      "WrtfkiOMcDA",
+      "bGtIRTRWUqx",
+      "hQ9RdcSw7Gd",
+      "ur06eAVZRGo"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:26:09Z",
+    "url": "http://hackfoldr.org/glassy"
+  },
   "gxv": {
     "hackpads": [
       "11-moed7ct",
@@ -1186,6 +1197,14 @@
     "updated_at": "2018-02-13T06:31:32Z",
     "url": "http://beta.hackfoldr.org/meta"
   },
+  "moztw": {
+    "hackpads": [
+      "t69q4dPjAI4"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-08-04T11:00:43Z",
+    "url": "http://hackfoldr.org/moztw"
+  },
   "mproject": {
     "hackpads": [
       "erUB4Djz1ne"
@@ -1274,6 +1293,15 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
+  },
+  "resistancelive": {
+    "hackpads": [
+      "hQ9RdcSw7Gd",
+      "p0QRvaiMT6P"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:35:37Z",
+    "url": "http://hackfoldr.org/resistancelive"
   },
   "rumors": {
     "hackpads": [
@@ -1380,6 +1408,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:40:16Z",
     "url": "http://hackfoldr.org/ttm"
+  },
+  "turtle-cuora": {
+    "hackpads": [
+      "fC9waMmFmnN",
+      "tFDaeOtsSbU",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:40:17Z",
+    "url": "https://hackfoldr.org/turtle-cuora"
   },
   "urbancodeg0vtw": {
     "hackpads": [
