@@ -498,22 +498,6 @@
     "updated_at": "2018-02-13T06:16:01Z",
     "url": "http://beta.hackfoldr.org/cbc2015"
   },
-  "cckitchen": {
-    "hackpads": [
-      "1GGTbzbT5KH",
-      "5p4J9QlJymR",
-      "ORCquVuQrOX",
-      "VT5Bi66TjLd",
-      "ZlxnPcG1xLm",
-      "c5EGTv8UGDB",
-      "cLkae5CfZ0f",
-      "jS8mZtWlSWo",
-      "lXlVKOkiCzA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:02Z",
-    "url": "http://beta.hackfoldr.org/cckitchen"
-  },
   "cctw": {
     "hackpads": [
       "ksq5lc1w2AB"
@@ -538,16 +522,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:29Z",
     "url": "http://beta.hackfoldr.org/code4hk"
-  },
-  "collab": {
-    "hackpads": [
-      "UryZhfUuU6w",
-      "dVyaLcWGdNA",
-      "kOaEUZgLwzS"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:29Z",
-    "url": "http://hackfoldr.org/collab"
   },
   "congressnetwork": {
     "hackpads": [
@@ -579,16 +553,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
-  },
-  "coscup2014": {
-    "hackpads": [
-      "5hbXGHDvCRX",
-      "LJwytNALgOR",
-      "gVkOW9b3FU8"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:33Z",
-    "url": "http://hackfoldr.org/coscup2014"
   },
   "cultural-heritage": {
     "hackpads": [
@@ -638,20 +602,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:05Z",
     "url": "http://beta.hackfoldr.org/designer2"
-  },
-  "don-democracy": {
-    "hackpads": [
-      "B00mshNSBbC",
-      "BBRFMB6Ptw6",
-      "OVD9Y2jvmgb",
-      "c5EGTv8UGDB",
-      "i8sqb54lfi8",
-      "sgJX8olKwoV",
-      "vtw-new7"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:23:42Z",
-    "url": "http://beta.hackfoldr.org/don-democracy"
   },
   "doorsign": {
     "hackpads": [
@@ -706,14 +656,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:15Z",
     "url": "http://hackfoldr.org/fepz2"
-  },
-  "forest": {
-    "hackpads": [
-      "YOEzWb7eFqs"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:35Z",
-    "url": "http://hackfoldr.org/forest"
   },
   "g0v-cy": {
     "hackpads": [
@@ -813,16 +755,6 @@
     "updated_at": "2018-02-13T06:49:43Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
-  "g0v-hackath1n": {
-    "hackpads": [
-      "9vetfIlZEC7",
-      "SxbJMxZLskR",
-      "ph1BnsFtoVJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath1n"
-  },
   "g0v-hackath2016n": {
     "hackpads": [
       "ypsdOxN1pDL"
@@ -917,34 +849,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
-  },
-  "g0v-summit-2014": {
-    "hackpads": [
-      "18K1ygginWB",
-      "2yMIDiluZjl",
-      "3lyXBRWG9aT",
-      "6bCN0IjrCoP",
-      "6rgnfJyORtF",
-      "90sXy77lPoI",
-      "CXD0xCBDpEb",
-      "DkIFBHupY2N",
-      "Ht3fhvWBl4v",
-      "NEh2te48UUZ",
-      "No6qCs3hjow",
-      "Opening-Keynote-g0v-unconference-2014",
-      "X6IFjZl2F6f",
-      "YOEzWb7eFqs",
-      "Zp5xamd13gI",
-      "bggRLzo0wTg",
-      "g0v_summit_2014_booth",
-      "hDsmxWeWzcj",
-      "lrsRSCY5iWB",
-      "p2EWyafYeoU",
-      "vbGG4fUeT7u"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
   },
   "g0v-summit-2014-unconf": {
     "hackpads": [
