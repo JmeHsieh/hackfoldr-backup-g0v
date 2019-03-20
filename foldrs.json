@@ -360,6 +360,14 @@
     "updated_at": "2019-01-16T13:09:18Z",
     "url": "http://hackfoldr.org/POPonFire"
   },
+  "TPEDisasterSummary": {
+    "hackpads": [
+      "tQoaOuOYp8U"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-07-10T02:28:09Z",
+    "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
+  },
   "Taipei-Urban-Agri": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -407,6 +415,18 @@
     "source": "ethercalc",
     "updated_at": "2018-12-24T11:30:45Z",
     "url": "http://hackfoldr.org/Transformation"
+  },
+  "abcd": {
+    "hackpads": [
+      "5wAe15kaWeY",
+      "7AfW6j0CHwV",
+      "LCoBDLpPOvy",
+      "VU6OAHlbqwu",
+      "dVyaLcWGdNA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-03-13T11:46:54Z",
+    "url": "http://hackfoldr.org/abcd"
   },
   "about": {
     "hackpads": [
@@ -599,6 +619,17 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:23:03Z",
     "url": "http://beta.hackfoldr.org/dbootcamp"
+  },
+  "designer": {
+    "hackpads": [
+      "0qqoIcDMCLJ",
+      "7ndCfX4RoBm",
+      "Gvfkil2kX3W",
+      "jQJ9sUFA5O5"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:23:05Z",
+    "url": "http://beta.hackfoldr.org/designer"
   },
   "designer2": {
     "hackpads": [
@@ -812,6 +843,16 @@
     "updated_at": "2018-02-13T06:50:11Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath20n"
   },
+  "g0v-hackath21n": {
+    "hackpads": [
+      "2rFuHdP1jxq",
+      "CJuzyTDJfbk",
+      "czxXPBK3Jvf"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:07:12Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath21n"
+  },
   "g0v-hackath22n": {
     "hackpads": [
       "2rFuHdP1jxq",
@@ -981,6 +1022,25 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:47:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2016-unconf"
+  },
+  "g0v-summit-sop": {
+    "hackpads": [
+      "6LdDXgM5RXr",
+      "ARIQxSSKzzj",
+      "DPCXXiDbYLI",
+      "Ii29Gy0NxGU",
+      "KOrDfuHHUWj",
+      "QVaYpNHSJ8x",
+      "SEupHS5rNVf",
+      "WcabFojJinZ",
+      "anpq7m0afwe",
+      "auUK9Ra7AxO",
+      "dErSwTt0K18",
+      "hs7LfjJn1ln"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:49:47Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-sop"
   },
   "g0v-summit2014": {
     "hackpads": [
