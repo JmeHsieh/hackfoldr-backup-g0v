@@ -250,6 +250,29 @@
     "updated_at": "2018-02-13T06:12:20Z",
     "url": "http://hackfoldr.org/NECTW2014"
   },
+  "NEWShackathon": {
+    "hackpads": [
+      "0pEvlgRoOtf",
+      "5u9QrhicuIy",
+      "6TaDWhw3SXo",
+      "7woO4KV4gjZ",
+      "LXHrxJ0qnaj",
+      "MwAiJXvfMrP",
+      "UKP5oGrUE1x",
+      "WMaKLjBljub",
+      "XAooOila83L",
+      "ZciE63K1hOa",
+      "ZciE63K1hOa_iJboXmcpvDB",
+      "aoKbmAeNTUO",
+      "pWW35JOuyiz",
+      "t69q4dPjAI4",
+      "tEPmSLQgeEm",
+      "tHGyDDrkC7y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:12:20Z",
+    "url": "http://beta.hackfoldr.org/NEWShackathon"
+  },
   "National_Land_Use_Planning_Act_Workshop": {
     "hackpads": [
       "C3IV9TnwIUJ"
@@ -474,6 +497,30 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:16:01Z",
     "url": "http://beta.hackfoldr.org/cbc2015"
+  },
+  "cckitchen": {
+    "hackpads": [
+      "1GGTbzbT5KH",
+      "5p4J9QlJymR",
+      "ORCquVuQrOX",
+      "VT5Bi66TjLd",
+      "ZlxnPcG1xLm",
+      "c5EGTv8UGDB",
+      "cLkae5CfZ0f",
+      "jS8mZtWlSWo",
+      "lXlVKOkiCzA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:02Z",
+    "url": "http://beta.hackfoldr.org/cckitchen"
+  },
+  "cctw": {
+    "hackpads": [
+      "ksq5lc1w2AB"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-07-02T19:40:38Z",
+    "url": "http://beta.hackfoldr.org/cctw"
   },
   "chinese201407": {
     "hackpads": [
@@ -749,6 +796,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath18n"
+  },
+  "g0v-hackath19n": {
+    "hackpads": [
+      "%25E7%25AC%25AC%25E5%25A3%25B9%25E6%25AC%25A1%25E5%259F%25BA%25E7%25A4%258E%25E6%259D%25BE",
+      "2p8AJicQ9TP",
+      "2ucl5ftrzot",
+      "SxbJMxZLskR",
+      "ZFAvPb9ZqdD",
+      "a5mm0YuMrIV",
+      "iV3U1MV02bw",
+      "jgeT58GTL5H",
+      "yhTSPTHQ8H7"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:49:43Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath19n"
   },
   "g0v-hackath1n": {
     "hackpads": [
@@ -1328,6 +1391,15 @@
     "source": "ethercalc",
     "updated_at": "2016-12-17T07:36:31Z",
     "url": "http://beta.hackfoldr.org/tpyc"
+  },
+  "tscs": {
+    "hackpads": [
+      "UssOWtAVda9",
+      "mBQaTivThBX"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:40:16Z",
+    "url": "http://beta.hackfoldr.org/tscs"
   },
   "ttm": {
     "hackpads": [
