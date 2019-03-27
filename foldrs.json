@@ -440,6 +440,39 @@
     "updated_at": "2018-02-13T06:12:48Z",
     "url": "http://hackfoldr.org/about"
   },
+  "agriculture": {
+    "hackpads": [
+      "4l2IH4BazRe",
+      "8-moed5ct",
+      "9-moed6ct",
+      "EgXumvuNy7Y",
+      "hQ9RdcSw7Gd",
+      "jAFuERTpDC5"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:13:39Z",
+    "url": "http://hackfoldr.org/agriculture"
+  },
+  "app4am": {
+    "hackpads": [
+      "3EHKLPXSTny",
+      "5H2xveFL3z2",
+      "8QfHxT2ax7O",
+      "B6eYPQlIeVf",
+      "XAooOila83L",
+      "ZciE63K1hOa",
+      "ZciE63K1hOa_iJboXmcpvDB",
+      "aoKbmAeNTUO",
+      "cHyNZMpAy69",
+      "hangee_hackath0n",
+      "pH5SXyfcsyA",
+      "t69q4dPjAI4",
+      "tHGyDDrkC7y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:14:06Z",
+    "url": "http://beta.hackfoldr.org/app4am"
+  },
   "b1rth": {
     "hackpads": [
       "c5EGTv8UGDB"
@@ -464,6 +497,22 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:16:01Z",
     "url": "http://beta.hackfoldr.org/cbc2015"
+  },
+  "cckitchen": {
+    "hackpads": [
+      "1GGTbzbT5KH",
+      "5p4J9QlJymR",
+      "ORCquVuQrOX",
+      "VT5Bi66TjLd",
+      "ZlxnPcG1xLm",
+      "c5EGTv8UGDB",
+      "cLkae5CfZ0f",
+      "jS8mZtWlSWo",
+      "lXlVKOkiCzA"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:02Z",
+    "url": "http://beta.hackfoldr.org/cckitchen"
   },
   "cctw": {
     "hackpads": [
@@ -773,6 +822,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath1n"
+  },
+  "g0v-hackath2016n": {
+    "hackpads": [
+      "ypsdOxN1pDL"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T14:36:56Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath2016n"
   },
   "g0v-hackath20n": {
     "hackpads": [
