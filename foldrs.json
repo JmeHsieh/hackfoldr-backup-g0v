@@ -119,6 +119,17 @@
     "updated_at": "2018-02-13T06:05:43Z",
     "url": "http://hackfoldr.org/2014ccsp"
   },
+  "2014iNGO": {
+    "hackpads": [
+      "0.1ro21dob7mj",
+      "0.arr7vsjq7uy2e29",
+      "0.eala6nxotk0jatt9",
+      "0.zv996thlc5rn3ik9"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:05:43Z",
+    "url": "http://beta.hackfoldr.org/2014iNGO"
+  },
   "2015-07-11": {
     "hackpads": [
       "X4bWlGs0MuJ",
@@ -286,6 +297,68 @@
     "source": "ethercalc",
     "updated_at": "2018-12-26T14:41:36Z",
     "url": "http://hackfoldr.org/OpenGeoData"
+  },
+  "POPonFire": {
+    "hackpads": [
+      "09RaHIX5QCC",
+      "0A6q37gIpUn",
+      "10-moed12ct",
+      "2FD7oDRhqqR",
+      "3Z0cNF0cWQt",
+      "5ofp8l2IWiT",
+      "5wAe15kaWeY",
+      "5wyYu217bLy",
+      "6UvvtZqOfN5",
+      "7PuOpxopyCy",
+      "9Se6KBa3sCw",
+      "ADZMgjWj7rI",
+      "F4H5ihacTqi",
+      "Fe3VpeN42w9",
+      "GfKn3zOC9Zl",
+      "Gvfkil2kX3W",
+      "JISGK3Qm5zv",
+      "MALSFDEWRN9",
+      "MbJYvY0Iu0E",
+      "N8IVVSC0H2f",
+      "NhvV6TCCJQ6",
+      "O4HH5rrPSuB",
+      "OYZXP0B6IDT",
+      "P6wx2eL2HQC",
+      "QOuCMbsXSe5",
+      "TuzXE23DZOn",
+      "VU6OAHlbqwu",
+      "VyyMj9YOnwX",
+      "WzD6GnRof54",
+      "XZJAzY72hw7",
+      "XpdD57S2RIZ",
+      "YIqo9m5JrFI",
+      "ZPqSnEffxVQ",
+      "bDYRBuEbFe9",
+      "bNkNzMRWse6",
+      "c5EGTv8UGDB",
+      "dVyaLcWGdNA",
+      "evKKJtQl1Br",
+      "f0qmfGbFuds",
+      "gDHDANLIYyp",
+      "hQ9RdcSw7Gd",
+      "hangee_hackath0n",
+      "hcHBSwncsuO",
+      "iTzLaacxmov",
+      "jJ5XWEtvXZV",
+      "lVqxeeZdNMU",
+      "lxX0NRqBoQD",
+      "p0QRvaiMT6P",
+      "quQyYm7cGrH",
+      "rPslJRbNBsm",
+      "s3Jlnc1fvTU",
+      "thbesdbmcXs",
+      "uBgGwZFpuIN",
+      "z3C6ZqUlvMk",
+      "zTxOdzteICt"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2019-01-16T13:09:18Z",
+    "url": "http://hackfoldr.org/POPonFire"
   },
   "TPEDisasterSummary": {
     "hackpads": [
@@ -476,6 +549,19 @@
     "updated_at": "2018-02-13T06:22:29Z",
     "url": "http://hackfoldr.org/collab"
   },
+  "congressnetwork": {
+    "hackpads": [
+      "8yZL7bpuGlL",
+      "D9R5oKzYCEX",
+      "Fe3VpeN42w9",
+      "Q28ZQHLxhkK",
+      "gK8LMM5RoTc",
+      "xCd2B9SNTax"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:31Z",
+    "url": "http://hackfoldr.org/congressnetwork"
+  },
   "congressoccupied": {
     "hackpads": [
       "0WcQ6crWCdj",
@@ -493,6 +579,16 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:31Z",
     "url": "http://beta.hackfoldr.org/congressoccupied"
+  },
+  "coscup2014": {
+    "hackpads": [
+      "5hbXGHDvCRX",
+      "LJwytNALgOR",
+      "gVkOW9b3FU8"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:22:33Z",
+    "url": "http://hackfoldr.org/coscup2014"
   },
   "cultural-heritage": {
     "hackpads": [
@@ -573,6 +669,23 @@
     "updated_at": "2018-12-17T03:39:50Z",
     "url": "http://beta.hackfoldr.org/drinking-water"
   },
+  "em": {
+    "hackpads": [
+      "1qrg5FHN9Oq",
+      "FqWEr4YDioB",
+      "IBTEm3eVey7",
+      "KN3lSiMxhXT",
+      "OuKPhRcISBm",
+      "V0oyekQAWfv",
+      "e8p5nB6tz85",
+      "mWlPrCBDoyw",
+      "nSWKQzUGB3Q",
+      "sLd9sHTIo9H"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:24:28Z",
+    "url": "http://beta.hackfoldr.org/em"
+  },
   "everstudy": {
     "hackpads": [
       "72XtwX9gMms",
@@ -585,6 +698,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:24:44Z",
     "url": "http://hackfoldr.org/everstudy"
+  },
+  "fepz2": {
+    "hackpads": [
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:15Z",
+    "url": "http://hackfoldr.org/fepz2"
   },
   "forest": {
     "hackpads": [
