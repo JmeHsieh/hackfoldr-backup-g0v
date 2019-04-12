@@ -147,15 +147,6 @@
     "updated_at": "2018-02-13T06:05:44Z",
     "url": "http://hackfoldr.org/2016"
   },
-  "2016-china-airlines-strike": {
-    "hackpads": [
-      "ezz1izpjBgo",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:51:50Z",
-    "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
-  },
   "5050": {
     "hackpads": [
       "IADWzZuAWcJ",
@@ -530,15 +521,6 @@
     "updated_at": "2018-02-13T06:22:19Z",
     "url": "http://hackfoldr.org/chinese201407"
   },
-  "code4hk": {
-    "hackpads": [
-      "Nkxax2XjzHI",
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:29Z",
-    "url": "http://beta.hackfoldr.org/code4hk"
-  },
   "collab": {
     "hackpads": [
       "UryZhfUuU6w",
@@ -756,18 +738,6 @@
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath13n"
   },
-  "g0v-hackath15n": {
-    "hackpads": [
-      "DpZLa4EWHRu",
-      "PDcyvmvVw7C",
-      "TfgqULgTNRv",
-      "X1c3yTkjczT",
-      "l5qLhp0515j"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath15n"
-  },
   "g0v-hackath16n": {
     "hackpads": [
       "I1B2ESxu33a",
@@ -873,14 +843,6 @@
     "updated_at": "2018-12-04T03:24:42Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath26n"
   },
-  "g0v-hackath888n": {
-    "hackpads": [
-      "wbV0WQXuBP3"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T14:22:36Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath888n"
-  },
   "g0v-hackath999n": {
     "hackpads": [
       "uuibFlokbjJ"
@@ -899,7 +861,7 @@
       "nog3i777EOZ"
     ],
     "source": "ethercalc",
-    "updated_at": "2018-11-19T11:23:05Z",
+    "updated_at": "2019-04-11T17:34:14Z",
     "url": "http://beta.hackfoldr.org/g0v-infras"
   },
   "g0v-media": {
@@ -1258,23 +1220,6 @@
     "updated_at": "2019-03-13T05:26:26Z",
     "url": "http://beta.hackfoldr.org/pidandoufou"
   },
-  "ppt": {
-    "hackpads": [
-      "0.goifb4ginu18m2t9",
-      "4a31UkdBItq",
-      "6oAR9BlZDoH",
-      "7-moed11ct",
-      "9l8mrCKIUJM",
-      "BL7M4HtxYTk",
-      "HxI4aRFqpxN",
-      "PCvj3oj9myK",
-      "UhHyAukazZ4",
-      "c5EGTv8UGDB"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:34:39Z",
-    "url": "http://beta.hackfoldr.org/ppt"
-  },
   "president2016-folder": {
     "hackpads": [
       "10-moed12ct",
@@ -1358,14 +1303,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:39:46Z",
     "url": "http://beta.hackfoldr.org/taiwan-region-logo-download"
-  },
-  "taiwan_water0": {
-    "hackpads": [
-      "yRRVlfb5oJg"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:39:46Z",
-    "url": "http://beta.hackfoldr.org/taiwan_water0"
   },
   "taiwan_water1": {
     "hackpads": [
