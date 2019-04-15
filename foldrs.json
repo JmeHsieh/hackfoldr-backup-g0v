@@ -360,14 +360,6 @@
     "updated_at": "2019-01-16T13:09:18Z",
     "url": "http://hackfoldr.org/POPonFire"
   },
-  "TPEDisasterSummary": {
-    "hackpads": [
-      "tQoaOuOYp8U"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-07-10T02:28:09Z",
-    "url": "http://beta.hackfoldr.org/TPEDisasterSummary"
-  },
   "Taipei-Urban-Agri": {
     "hackpads": [
       "09RaHIX5QCC",
@@ -768,6 +760,16 @@
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath15n"
   },
+  "g0v-hackath16n": {
+    "hackpads": [
+      "I1B2ESxu33a",
+      "KJ3iqNO38qG",
+      "ph1BnsFtoVJ"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath16n"
+  },
   "g0v-hackath17n": {
     "hackpads": [
       "KJ3iqNO38qG",
@@ -812,14 +814,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath1n"
-  },
-  "g0v-hackath2016n": {
-    "hackpads": [
-      "ypsdOxN1pDL"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T14:36:56Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath2016n"
   },
   "g0v-hackath20n": {
     "hackpads": [
@@ -1093,27 +1087,6 @@
     "updated_at": "2018-02-13T06:26:09Z",
     "url": "http://hackfoldr.org/glassy"
   },
-  "gxv": {
-    "hackpads": [
-      "11-moed7ct",
-      "3-moed9ct",
-      "5gygVb26WId",
-      "7JOXyUaFAqW",
-      "7PuOpxopyCy",
-      "9-moed6ct",
-      "YOEzWb7eFqs",
-      "bggRLzo0wTg",
-      "byvCrtHhRML",
-      "cAbxJt2yt94",
-      "q8pHXwqRlJw",
-      "rInrPBeYd5I",
-      "y4Fhms4cK5Q",
-      "ygs2xdlFEg3"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-11-22T05:35:16Z",
-    "url": "http://beta.hackfoldr.org/gxv"
-  },
   "hackfoldrtest": {
     "hackpads": [
       "VVlHNqKaQrC"
@@ -1292,16 +1265,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:35:37Z",
     "url": "http://hackfoldr.org/resistancelive"
-  },
-  "rumors": {
-    "hackpads": [
-      "F1PorqHPw1v",
-      "RMxaA4LYwyn",
-      "Zb4bFLB7pnv"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T07:09:55Z",
-    "url": "http://beta.hackfoldr.org/rumors"
   },
   "shuanhhe-hackfoldr": {
     "hackpads": [
