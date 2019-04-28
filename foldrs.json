@@ -202,15 +202,6 @@
     "updated_at": "2018-02-13T06:12:03Z",
     "url": "http://hackfoldr.org/CharterTaiwan"
   },
-  "DonDonFlower": {
-    "hackpads": [
-      "TkKoSaKcr7X",
-      "hQ9RdcSw7Gd"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:06Z",
-    "url": "http://hackfoldr.org/DonDonFlower"
-  },
   "G8VTV": {
     "hackpads": [
       "926nwUKC90j",
@@ -748,14 +739,6 @@
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath12n"
   },
-  "g0v-hackath13n": {
-    "hackpads": [
-      "wq7hzi7fOTl"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:44Z",
-    "url": "http://beta.hackfoldr.org/g0v-hackath13n"
-  },
   "g0v-hackath15n": {
     "hackpads": [
       "DpZLa4EWHRu",
@@ -1274,15 +1257,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:39Z",
     "url": "http://beta.hackfoldr.org/ppt"
-  },
-  "president2016-folder": {
-    "hackpads": [
-      "10-moed12ct",
-      "fC9waMmFmnN"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:34:41Z",
-    "url": "http://beta.hackfoldr.org/president2016-folder"
   },
   "projectpool": {
     "hackpads": [
