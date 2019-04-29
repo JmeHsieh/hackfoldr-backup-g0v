@@ -202,6 +202,15 @@
     "updated_at": "2018-02-13T06:12:03Z",
     "url": "http://hackfoldr.org/CharterTaiwan"
   },
+  "DonDonFlower": {
+    "hackpads": [
+      "TkKoSaKcr7X",
+      "hQ9RdcSw7Gd"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:12:06Z",
+    "url": "http://hackfoldr.org/DonDonFlower"
+  },
   "G8VTV": {
     "hackpads": [
       "926nwUKC90j",
@@ -240,29 +249,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:12:20Z",
     "url": "http://hackfoldr.org/NECTW2014"
-  },
-  "NEWShackathon": {
-    "hackpads": [
-      "0pEvlgRoOtf",
-      "5u9QrhicuIy",
-      "6TaDWhw3SXo",
-      "7woO4KV4gjZ",
-      "LXHrxJ0qnaj",
-      "MwAiJXvfMrP",
-      "UKP5oGrUE1x",
-      "WMaKLjBljub",
-      "XAooOila83L",
-      "ZciE63K1hOa",
-      "ZciE63K1hOa_iJboXmcpvDB",
-      "aoKbmAeNTUO",
-      "pWW35JOuyiz",
-      "t69q4dPjAI4",
-      "tEPmSLQgeEm",
-      "tHGyDDrkC7y"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:12:20Z",
-    "url": "http://beta.hackfoldr.org/NEWShackathon"
   },
   "National_Land_Use_Planning_Act_Workshop": {
     "hackpads": [
@@ -399,14 +385,6 @@
     "updated_at": "2018-12-21T03:49:42Z",
     "url": "http://hackfoldr.org/Taipei-Urban-Agri"
   },
-  "Transformation": {
-    "hackpads": [
-      "uiv8jwEBVCA"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-12-24T11:30:45Z",
-    "url": "http://hackfoldr.org/Transformation"
-  },
   "abcd": {
     "hackpads": [
       "5wAe15kaWeY",
@@ -529,16 +507,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:22:29Z",
     "url": "http://beta.hackfoldr.org/code4hk"
-  },
-  "collab": {
-    "hackpads": [
-      "UryZhfUuU6w",
-      "dVyaLcWGdNA",
-      "kOaEUZgLwzS"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:22:29Z",
-    "url": "http://hackfoldr.org/collab"
   },
   "congressnetwork": {
     "hackpads": [
@@ -738,6 +706,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:44Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath12n"
+  },
+  "g0v-hackath13n": {
+    "hackpads": [
+      "wq7hzi7fOTl"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:25:44Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath13n"
   },
   "g0v-hackath15n": {
     "hackpads": [
@@ -1147,14 +1123,6 @@
     "updated_at": "2018-02-13T06:30:16Z",
     "url": "http://beta.hackfoldr.org/lazy-artist"
   },
-  "learners": {
-    "hackpads": [
-      "0qqoIcDMCLJ"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:30:48Z",
-    "url": "http://beta.hackfoldr.org/learners"
-  },
   "legcolive": {
     "hackpads": [
       "hQ9RdcSw7Gd"
@@ -1258,6 +1226,15 @@
     "updated_at": "2018-02-13T06:34:39Z",
     "url": "http://beta.hackfoldr.org/ppt"
   },
+  "president2016-folder": {
+    "hackpads": [
+      "10-moed12ct",
+      "fC9waMmFmnN"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:34:41Z",
+    "url": "http://beta.hackfoldr.org/president2016-folder"
+  },
   "projectpool": {
     "hackpads": [
       "VRCKFQ0jJ1B",
@@ -1316,14 +1293,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:46:22Z",
     "url": "http://beta.hackfoldr.org/tachung-regionalplan"
-  },
-  "tai5-uan5_gian5-gi2_phing5-thai5": {
-    "hackpads": [
-      "DqitE1wSSIo"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:39:46Z",
-    "url": "http://hackfoldr.org/tai5-uan5_gian5-gi2_phing5-thai5"
   },
   "taiwan-region-logo-download": {
     "hackpads": [
