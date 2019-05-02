@@ -108,6 +108,17 @@
     "updated_at": "2016-04-16T22:05:56Z",
     "url": "http://beta.hackfoldr.org/1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8"
   },
+  "2014ccsp": {
+    "hackpads": [
+      "MALSFDEWRN9",
+      "QZ7WShK1gPu",
+      "hQ9RdcSw7Gd",
+      "lk9pamtKwyr"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:05:43Z",
+    "url": "http://hackfoldr.org/2014ccsp"
+  },
   "2014iNGO": {
     "hackpads": [
       "0.1ro21dob7mj",
@@ -842,6 +853,18 @@
     "updated_at": "2018-02-13T07:07:12Z",
     "url": "http://beta.hackfoldr.org/g0v-hackath21n"
   },
+  "g0v-hackath22n": {
+    "hackpads": [
+      "2rFuHdP1jxq",
+      "M1xUIWUgCEo",
+      "UKJaTD72joG",
+      "Wq5vd4b8f2R",
+      "w01v8lrMLTY"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T07:21:54Z",
+    "url": "http://beta.hackfoldr.org/g0v-hackath22n"
+  },
   "g0v-hackath26n": {
     "hackpads": [
       "RGwHjqbJ4DK"
@@ -950,6 +973,30 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-summit-2014-unconf"
+  },
+  "g0v-summit-2016": {
+    "hackpads": [
+      "2ldPbEHoVJ0",
+      "DJ7foRA6AP8",
+      "Htu2dreORri",
+      "IO3yuCtm1Hd",
+      "IblOqVBEF77",
+      "JInleB0ScUh",
+      "NbpdYZkgY6D",
+      "RW9M2GMq3Rp",
+      "UFvxbyoxsL4",
+      "fWzItNPmxHE",
+      "iSbcxP4yRXo",
+      "iV3U1MV02bw",
+      "m8TWjU6SYT1",
+      "pcVJJEsgYP3",
+      "ve3zOKXeycf",
+      "w01v8lrMLTY",
+      "xaFW7cIYtsr"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:47:38Z",
+    "url": "http://beta.hackfoldr.org/g0v-summit-2016"
   },
   "g0v-summit-2016-unconf": {
     "hackpads": [
@@ -1100,6 +1147,14 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:48:50Z",
     "url": "http://beta.hackfoldr.org/join.tw"
+  },
+  "kumamoto0414": {
+    "hackpads": [
+      "8U1OqBzFuu4"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:45:05Z",
+    "url": "http://beta.hackfoldr.org/kumamoto0414"
   },
   "lazy-artist": {
     "hackpads": [
@@ -1273,6 +1328,20 @@
     "source": "ethercalc",
     "updated_at": "2016-11-04T03:50:19Z",
     "url": "http://beta.hackfoldr.org/swtcc"
+  },
+  "tachung-regionalplan": {
+    "hackpads": [
+      "UIqUYw8Jess",
+      "genda01",
+      "genda02",
+      "genda03",
+      "genda04",
+      "genda05",
+      "j1pafKBmH6y"
+    ],
+    "source": "ethercalc",
+    "updated_at": "2018-02-13T06:46:22Z",
+    "url": "http://beta.hackfoldr.org/tachung-regionalplan"
   },
   "tai5-uan5_gian5-gi2_phing5-thai5": {
     "hackpads": [
