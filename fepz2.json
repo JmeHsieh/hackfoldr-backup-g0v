@@ -18,19 +18,19 @@
     ""
   ],
   [
-    " http://fepztw.github.io/",
+    " https://fepztw.github.io/",
     "[g0v] 自經區正反方共筆",
     "",
-    "歡迎協作:info"
+    "比較表"
   ],
   [
-    " http://billy3321.gitbooks.io/taiwanfepzs/",
+    " https://billy3321.gitbooks.io/taiwanfepzs/",
     "[沃草] 自經區爭議書",
     "",
     ""
   ],
   [
-    " https://www.gitbook.io/book/ndctaiwan/fepzbook",
+    "https://ndctaiwan.gitbooks.io/fepzbook/content/",
     "[國發會] 自經區釋疑書",
     "",
     ""
@@ -72,13 +72,13 @@
     "含分段目錄:important"
   ],
   [
-    " http://www.youtube.com/playlist?list=PLOBG8PNyzHQUmxB1SLjiYjQKhLuKrJT22",
+    " https://j.mp/videofepz2-1",
     "全程影片播放清單",
-    "",
+    "blank",
     "推薦觀賞: warning"
   ],
   [
-    " http://www.youtube.com/watch?v=adFNN0dgsEY&t=4m50s&list=PLOBG8PNyzHQUmxB1SLjiYjQKhLuKrJT22&index=15",
+    " https://www.youtube.com/watch?v=adFNN0dgsEY&t=4m50s&list=PLOBG8PNyzHQUmxB1SLjiYjQKhLuKrJT22&index=15",
     "網路直播",
     "",
     ""
@@ -108,22 +108,22 @@
     "含分段目錄:important"
   ],
   [
-    " http://j.mp/videofepz2-1",
+    " https://j.mp/videofepz2-2",
     "全程影片播放清單",
-    "",
+    "blank",
     "推薦觀賞: warning"
   ],
   [
-    " http://www.youtube.com/watch?v=kxaT2sC8z_U&list=PLOBG8PNyzHQVp4gp_-2u94OrYBMUK9wkh&index=1",
+    " https://www.youtube.com/watch?v=kxaT2sC8z_U&list=PLOBG8PNyzHQVp4gp_-2u94OrYBMUK9wkh&index=1",
     "網路直播",
     "",
     ""
   ],
   [
-    " http://hacktabl.org/fepz-medical",
+    " https://beta.hacktabl.org/fepz-medical",
     "[g0v] 國際醫療正反意見",
     "",
-    ""
+    "比較表"
   ],
   [
     "",
@@ -150,22 +150,22 @@
     "含分段目錄:important"
   ],
   [
-    " https://www.youtube.com/watch?v=Oaqohzbio5o&list=PLOBG8PNyzHQW9ciAiG9Ky1mgyCATkXSSe&index=1",
+    "https://j.mp/videofepz2-3",
     "全程影片播放清單",
-    "",
+    "blank",
     "推薦觀賞: warning"
-  ],
-  [
-    " http://hacktabl.org/fepz-agriculture",
-    "[g0v] 農業加值正反意見",
-    "",
-    ""
   ],
   [
     " https://www.youtube.com/watch?v=edJMUgFsBi8",
     "網路直播",
     "",
     ""
+  ],
+  [
+    " https://beta.hacktabl.org/fepz-agriculture",
+    "[g0v] 農業加值正反意見",
+    "",
+    "比較表"
   ],
   [
     "",
@@ -192,9 +192,9 @@
     "含分段目錄:important"
   ],
   [
-    " https://www.youtube.com/playlist?list=PLOBG8PNyzHQWQZF8VYqImdfzSJhyEunds",
+    "https://j.mp/videofepz2-4",
     "全程影片播放清單",
-    "",
+    "blank",
     "推薦觀賞: warning"
   ],
   [
@@ -202,5 +202,11 @@
     "網路直播",
     "",
     ""
+  ],
+  [
+    "https://beta.hacktabl.org/fepz-edu",
+    "[g0v] 教育正反意見",
+    "",
+    "比較表"
   ]
 ]
