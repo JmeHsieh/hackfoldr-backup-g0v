@@ -92,14 +92,6 @@
     "updated_at": "2017-04-25T03:56:14Z",
     "url": "http://beta.hackfoldr.org/1rbs-NLFxGvrT8whiwNIq-u3DB0MFV_zg58so5Ak1zdM"
   },
-  "1v3anz7jfe_test": {
-    "hackpads": [
-      "Nkxax2XjzHI"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T07:09:24Z",
-    "url": "http://beta.hackfoldr.org/1v3anz7jfe_test"
-  },
   "1yHyk1CLkGLTYXVxXttQyExl5XdvmP7e8ONvPjTq-Ni8": {
     "hackpads": [
       "JOljozPHLS0"
@@ -146,15 +138,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:05:44Z",
     "url": "http://hackfoldr.org/2016"
-  },
-  "2016-china-airlines-strike": {
-    "hackpads": [
-      "ezz1izpjBgo",
-      "w01v8lrMLTY"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:51:50Z",
-    "url": "http://beta.hackfoldr.org/2016-china-airlines-strike"
   },
   "5050": {
     "hackpads": [
@@ -918,34 +901,6 @@
     "updated_at": "2018-02-13T06:25:45Z",
     "url": "http://beta.hackfoldr.org/g0v-media"
   },
-  "g0v-summit-2014": {
-    "hackpads": [
-      "18K1ygginWB",
-      "2yMIDiluZjl",
-      "3lyXBRWG9aT",
-      "6bCN0IjrCoP",
-      "6rgnfJyORtF",
-      "90sXy77lPoI",
-      "CXD0xCBDpEb",
-      "DkIFBHupY2N",
-      "Ht3fhvWBl4v",
-      "NEh2te48UUZ",
-      "No6qCs3hjow",
-      "Opening-Keynote-g0v-unconference-2014",
-      "X6IFjZl2F6f",
-      "YOEzWb7eFqs",
-      "Zp5xamd13gI",
-      "bggRLzo0wTg",
-      "g0v_summit_2014_booth",
-      "hDsmxWeWzcj",
-      "lrsRSCY5iWB",
-      "p2EWyafYeoU",
-      "vbGG4fUeT7u"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:25:45Z",
-    "url": "http://beta.hackfoldr.org/g0v-summit-2014"
-  },
   "g0v-summit-2014-unconf": {
     "hackpads": [
       "2yMIDiluZjl",
@@ -1293,15 +1248,6 @@
     "source": "ethercalc",
     "updated_at": "2018-02-13T06:34:43Z",
     "url": "http://hackfoldr.org/projectpool"
-  },
-  "resistancelive": {
-    "hackpads": [
-      "hQ9RdcSw7Gd",
-      "p0QRvaiMT6P"
-    ],
-    "source": "ethercalc",
-    "updated_at": "2018-02-13T06:35:37Z",
-    "url": "http://hackfoldr.org/resistancelive"
   },
   "rumors": {
     "hackpads": [
